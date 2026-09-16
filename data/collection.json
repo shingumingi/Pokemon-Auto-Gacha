@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 1,
-  "updatedAt": "2026-09-16T01:39:41.023Z",
+  "totalPulls": 2,
+  "updatedAt": "2026-09-16T01:41:03.317Z",
   "lastPull": {
-    "id": 191,
-    "name": "sunkern",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
+    "id": 627,
+    "name": "rufflet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/627.png",
     "types": [
-      "grass"
+      "normal",
+      "flying"
     ],
-    "totalStats": 180,
+    "totalStats": 350,
     "grade": "N",
-    "pulledAt": "2026-09-16T01:39:41.023Z"
+    "pulledAt": "2026-09-16T01:41:03.317Z"
   },
   "pulls": [
+    {
+      "id": 627,
+      "name": "rufflet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/627.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 350,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:41:03.317Z"
+    },
     {
       "id": 191,
       "name": "sunkern",
@@ -41,6 +54,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:39:41.023Z",
       "lastPulledAt": "2026-09-16T01:39:41.023Z"
+    },
+    "627": {
+      "id": 627,
+      "name": "rufflet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/627.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 350,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:41:03.317Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:41:03.317Z",
+      "lastPulledAt": "2026-09-16T01:41:03.317Z"
     }
   },
   "typeTotals": {
