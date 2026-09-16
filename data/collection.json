@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 10,
-  "updatedAt": "2026-09-16T15:56:21.103Z",
+  "totalPulls": 11,
+  "updatedAt": "2026-09-16T19:21:54.581Z",
   "lastPull": {
-    "id": 443,
-    "name": "gible",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png",
+    "id": 451,
+    "name": "skorupi",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/451.png",
     "types": [
-      "dragon",
-      "ground"
+      "poison",
+      "bug"
     ],
-    "totalStats": 300,
+    "totalStats": 330,
     "grade": "N",
-    "pulledAt": "2026-09-16T15:56:21.103Z"
+    "pulledAt": "2026-09-16T19:21:54.581Z"
   },
   "pulls": [
+    {
+      "id": 451,
+      "name": "skorupi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/451.png",
+      "types": [
+        "poison",
+        "bug"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-09-16T19:21:54.581Z"
+    },
     {
       "id": 443,
       "name": "gible",
@@ -122,17 +134,6 @@
       "totalStats": 350,
       "grade": "N",
       "pulledAt": "2026-09-16T01:41:03.317Z"
-    },
-    {
-      "id": 191,
-      "name": "sunkern",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 180,
-      "grade": "N",
-      "pulledAt": "2026-09-16T01:39:41.023Z"
     }
   ],
   "pokemon": {
@@ -182,6 +183,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T15:56:21.103Z",
       "lastPulledAt": "2026-09-16T15:56:21.103Z"
+    },
+    "451": {
+      "id": 451,
+      "name": "skorupi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/451.png",
+      "types": [
+        "poison",
+        "bug"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-09-16T19:21:54.581Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T19:21:54.581Z",
+      "lastPulledAt": "2026-09-16T19:21:54.581Z"
     },
     "540": {
       "id": 540,
