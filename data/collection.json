@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 6,
-  "updatedAt": "2026-09-16T01:45:11.071Z",
+  "totalPulls": 7,
+  "updatedAt": "2026-09-16T01:45:47.287Z",
   "lastPull": {
-    "id": 741,
-    "name": "oricorio-baile",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png",
+    "id": 890,
+    "name": "eternatus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png",
     "types": [
-      "fire",
-      "flying"
+      "poison",
+      "dragon"
     ],
-    "totalStats": 476,
-    "grade": "R",
-    "pulledAt": "2026-09-16T01:45:11.071Z"
+    "totalStats": 690,
+    "grade": "SSR",
+    "pulledAt": "2026-09-16T01:45:47.287Z"
   },
   "pulls": [
+    {
+      "id": 890,
+      "name": "eternatus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png",
+      "types": [
+        "poison",
+        "dragon"
+      ],
+      "totalStats": 690,
+      "grade": "SSR",
+      "pulledAt": "2026-09-16T01:45:47.287Z"
+    },
     {
       "id": 741,
       "name": "oricorio-baile",
@@ -166,6 +178,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:45:11.071Z",
       "lastPulledAt": "2026-09-16T01:45:11.071Z"
+    },
+    "890": {
+      "id": 890,
+      "name": "eternatus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png",
+      "types": [
+        "poison",
+        "dragon"
+      ],
+      "totalStats": 690,
+      "grade": "SSR",
+      "pulledAt": "2026-09-16T01:45:47.287Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:45:47.287Z",
+      "lastPulledAt": "2026-09-16T01:45:47.287Z"
     },
     "899": {
       "id": 899,
