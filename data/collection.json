@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 8,
-  "updatedAt": "2026-09-16T06:20:25.218Z",
+  "totalPulls": 9,
+  "updatedAt": "2026-09-16T11:53:25.165Z",
   "lastPull": {
-    "id": 898,
-    "name": "calyrex",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png",
+    "id": 755,
+    "name": "morelull",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/755.png",
     "types": [
-      "psychic",
-      "grass"
+      "grass",
+      "fairy"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-09-16T06:20:25.218Z"
+    "totalStats": 285,
+    "grade": "N",
+    "pulledAt": "2026-09-16T11:53:25.165Z"
   },
   "pulls": [
+    {
+      "id": 755,
+      "name": "morelull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/755.png",
+      "types": [
+        "grass",
+        "fairy"
+      ],
+      "totalStats": 285,
+      "grade": "N",
+      "pulledAt": "2026-09-16T11:53:25.165Z"
+    },
     {
       "id": 898,
       "name": "calyrex",
@@ -190,6 +202,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:45:11.071Z",
       "lastPulledAt": "2026-09-16T01:45:11.071Z"
+    },
+    "755": {
+      "id": 755,
+      "name": "morelull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/755.png",
+      "types": [
+        "grass",
+        "fairy"
+      ],
+      "totalStats": 285,
+      "grade": "N",
+      "pulledAt": "2026-09-16T11:53:25.165Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T11:53:25.165Z",
+      "lastPulledAt": "2026-09-16T11:53:25.165Z"
     },
     "890": {
       "id": 890,
