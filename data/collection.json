@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 11,
-  "updatedAt": "2026-09-16T19:21:54.581Z",
+  "totalPulls": 12,
+  "updatedAt": "2026-09-16T22:14:51.566Z",
   "lastPull": {
-    "id": 451,
-    "name": "skorupi",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/451.png",
+    "id": 113,
+    "name": "chansey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
     "types": [
-      "poison",
-      "bug"
+      "normal"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-09-16T19:21:54.581Z"
+    "totalStats": 450,
+    "grade": "R",
+    "pulledAt": "2026-09-16T22:14:51.566Z"
   },
   "pulls": [
+    {
+      "id": 113,
+      "name": "chansey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-09-16T22:14:51.566Z"
+    },
     {
       "id": 451,
       "name": "skorupi",
@@ -122,18 +132,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-09-16T01:42:18.423Z"
-    },
-    {
-      "id": 627,
-      "name": "rufflet",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/627.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 350,
-      "grade": "N",
-      "pulledAt": "2026-09-16T01:41:03.317Z"
     }
   ],
   "pokemon": {
@@ -152,6 +150,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:44:26.152Z",
       "lastPulledAt": "2026-09-16T01:44:26.152Z"
+    },
+    "113": {
+      "id": 113,
+      "name": "chansey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-09-16T22:14:51.566Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T22:14:51.566Z",
+      "lastPulledAt": "2026-09-16T22:14:51.566Z"
     },
     "191": {
       "id": 191,
