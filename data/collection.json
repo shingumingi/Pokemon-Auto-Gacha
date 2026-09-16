@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 2,
-  "updatedAt": "2026-09-16T01:41:03.317Z",
+  "totalPulls": 3,
+  "updatedAt": "2026-09-16T01:42:18.423Z",
   "lastPull": {
-    "id": 627,
-    "name": "rufflet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/627.png",
+    "id": 899,
+    "name": "wyrdeer",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
     "types": [
       "normal",
-      "flying"
+      "psychic"
     ],
-    "totalStats": 350,
-    "grade": "N",
-    "pulledAt": "2026-09-16T01:41:03.317Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-09-16T01:42:18.423Z"
   },
   "pulls": [
+    {
+      "id": 899,
+      "name": "wyrdeer",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T01:42:18.423Z"
+    },
     {
       "id": 627,
       "name": "rufflet",
@@ -70,6 +82,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:41:03.317Z",
       "lastPulledAt": "2026-09-16T01:41:03.317Z"
+    },
+    "899": {
+      "id": 899,
+      "name": "wyrdeer",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T01:42:18.423Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:42:18.423Z",
+      "lastPulledAt": "2026-09-16T01:42:18.423Z"
     }
   },
   "typeTotals": {
