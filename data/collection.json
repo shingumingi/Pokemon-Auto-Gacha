@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 7,
-  "updatedAt": "2026-09-16T01:45:47.287Z",
+  "totalPulls": 8,
+  "updatedAt": "2026-09-16T06:20:25.218Z",
   "lastPull": {
-    "id": 890,
-    "name": "eternatus",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png",
+    "id": 898,
+    "name": "calyrex",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png",
     "types": [
-      "poison",
-      "dragon"
+      "psychic",
+      "grass"
     ],
-    "totalStats": 690,
-    "grade": "SSR",
-    "pulledAt": "2026-09-16T01:45:47.287Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-09-16T06:20:25.218Z"
   },
   "pulls": [
+    {
+      "id": 898,
+      "name": "calyrex",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png",
+      "types": [
+        "psychic",
+        "grass"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T06:20:25.218Z"
+    },
     {
       "id": 890,
       "name": "eternatus",
@@ -194,6 +206,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:45:47.287Z",
       "lastPulledAt": "2026-09-16T01:45:47.287Z"
+    },
+    "898": {
+      "id": 898,
+      "name": "calyrex",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png",
+      "types": [
+        "psychic",
+        "grass"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T06:20:25.218Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T06:20:25.218Z",
+      "lastPulledAt": "2026-09-16T06:20:25.218Z"
     },
     "899": {
       "id": 899,
