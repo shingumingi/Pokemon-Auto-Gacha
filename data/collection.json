@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 5,
-  "updatedAt": "2026-09-16T01:44:26.152Z",
+  "totalPulls": 6,
+  "updatedAt": "2026-09-16T01:45:11.071Z",
   "lastPull": {
-    "id": 81,
-    "name": "magnemite",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
+    "id": 741,
+    "name": "oricorio-baile",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png",
     "types": [
-      "electric",
-      "steel"
+      "fire",
+      "flying"
     ],
-    "totalStats": 325,
-    "grade": "N",
-    "pulledAt": "2026-09-16T01:44:26.152Z"
+    "totalStats": 476,
+    "grade": "R",
+    "pulledAt": "2026-09-16T01:45:11.071Z"
   },
   "pulls": [
+    {
+      "id": 741,
+      "name": "oricorio-baile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 476,
+      "grade": "R",
+      "pulledAt": "2026-09-16T01:45:11.071Z"
+    },
     {
       "id": 81,
       "name": "magnemite",
@@ -138,6 +150,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:41:03.317Z",
       "lastPulledAt": "2026-09-16T01:41:03.317Z"
+    },
+    "741": {
+      "id": 741,
+      "name": "oricorio-baile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 476,
+      "grade": "R",
+      "pulledAt": "2026-09-16T01:45:11.071Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:45:11.071Z",
+      "lastPulledAt": "2026-09-16T01:45:11.071Z"
     },
     "899": {
       "id": 899,
