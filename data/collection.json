@@ -1,9 +1,66 @@
 {
   "version": 1,
-  "totalPulls": 0,
-  "updatedAt": null,
-  "lastPull": null,
-  "pulls": [],
-  "pokemon": {},
-  "typeTotals": {}
+  "totalPulls": 1,
+  "updatedAt": "2026-09-16T01:39:41.023Z",
+  "lastPull": {
+    "id": 191,
+    "name": "sunkern",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
+    "types": [
+      "grass"
+    ],
+    "totalStats": 180,
+    "grade": "N",
+    "pulledAt": "2026-09-16T01:39:41.023Z"
+  },
+  "pulls": [
+    {
+      "id": 191,
+      "name": "sunkern",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 180,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:39:41.023Z"
+    }
+  ],
+  "pokemon": {
+    "191": {
+      "id": 191,
+      "name": "sunkern",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 180,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:39:41.023Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:39:41.023Z",
+      "lastPulledAt": "2026-09-16T01:39:41.023Z"
+    }
+  },
+  "typeTotals": {
+    "normal": 131,
+    "fire": 81,
+    "water": 154,
+    "electric": 69,
+    "grass": 127,
+    "ice": 48,
+    "fighting": 73,
+    "poison": 83,
+    "ground": 75,
+    "flying": 109,
+    "psychic": 102,
+    "bug": 92,
+    "rock": 74,
+    "ghost": 65,
+    "dragon": 70,
+    "dark": 69,
+    "steel": 65,
+    "fairy": 64
+  }
 }
