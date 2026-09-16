@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 9,
-  "updatedAt": "2026-09-16T11:53:25.165Z",
+  "totalPulls": 10,
+  "updatedAt": "2026-09-16T15:56:21.103Z",
   "lastPull": {
-    "id": 755,
-    "name": "morelull",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/755.png",
+    "id": 443,
+    "name": "gible",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png",
     "types": [
-      "grass",
-      "fairy"
+      "dragon",
+      "ground"
     ],
-    "totalStats": 285,
+    "totalStats": 300,
     "grade": "N",
-    "pulledAt": "2026-09-16T11:53:25.165Z"
+    "pulledAt": "2026-09-16T15:56:21.103Z"
   },
   "pulls": [
+    {
+      "id": 443,
+      "name": "gible",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-16T15:56:21.103Z"
+    },
     {
       "id": 755,
       "name": "morelull",
@@ -154,6 +166,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:39:41.023Z",
       "lastPulledAt": "2026-09-16T01:39:41.023Z"
+    },
+    "443": {
+      "id": 443,
+      "name": "gible",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-16T15:56:21.103Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T15:56:21.103Z",
+      "lastPulledAt": "2026-09-16T15:56:21.103Z"
     },
     "540": {
       "id": 540,
