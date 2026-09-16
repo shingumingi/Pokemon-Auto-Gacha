@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 4,
-  "updatedAt": "2026-09-16T01:43:18.079Z",
+  "totalPulls": 5,
+  "updatedAt": "2026-09-16T01:44:26.152Z",
   "lastPull": {
-    "id": 540,
-    "name": "sewaddle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/540.png",
+    "id": 81,
+    "name": "magnemite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
     "types": [
-      "bug",
-      "grass"
+      "electric",
+      "steel"
     ],
-    "totalStats": 310,
+    "totalStats": 325,
     "grade": "N",
-    "pulledAt": "2026-09-16T01:43:18.079Z"
+    "pulledAt": "2026-09-16T01:44:26.152Z"
   },
   "pulls": [
+    {
+      "id": 81,
+      "name": "magnemite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:44:26.152Z"
+    },
     {
       "id": 540,
       "name": "sewaddle",
@@ -64,6 +76,22 @@
     }
   ],
   "pokemon": {
+    "81": {
+      "id": 81,
+      "name": "magnemite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:44:26.152Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:44:26.152Z",
+      "lastPulledAt": "2026-09-16T01:44:26.152Z"
+    },
     "191": {
       "id": 191,
       "name": "sunkern",
