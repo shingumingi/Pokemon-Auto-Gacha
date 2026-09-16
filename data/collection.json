@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 3,
-  "updatedAt": "2026-09-16T01:42:18.423Z",
+  "totalPulls": 4,
+  "updatedAt": "2026-09-16T01:43:18.079Z",
   "lastPull": {
-    "id": 899,
-    "name": "wyrdeer",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
+    "id": 540,
+    "name": "sewaddle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/540.png",
     "types": [
-      "normal",
-      "psychic"
+      "bug",
+      "grass"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-09-16T01:42:18.423Z"
+    "totalStats": 310,
+    "grade": "N",
+    "pulledAt": "2026-09-16T01:43:18.079Z"
   },
   "pulls": [
+    {
+      "id": 540,
+      "name": "sewaddle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/540.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:43:18.079Z"
+    },
     {
       "id": 899,
       "name": "wyrdeer",
@@ -66,6 +78,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:39:41.023Z",
       "lastPulledAt": "2026-09-16T01:39:41.023Z"
+    },
+    "540": {
+      "id": 540,
+      "name": "sewaddle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/540.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:43:18.079Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:43:18.079Z",
+      "lastPulledAt": "2026-09-16T01:43:18.079Z"
     },
     "627": {
       "id": 627,
