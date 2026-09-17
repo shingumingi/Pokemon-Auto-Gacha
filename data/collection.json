@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 18,
-  "updatedAt": "2026-09-17T21:47:48.450Z",
+  "totalPulls": 19,
+  "updatedAt": "2026-09-17T23:44:19.667Z",
   "lastPull": {
-    "id": 861,
-    "name": "grimmsnarl",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/861.png",
+    "id": 558,
+    "name": "crustle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/558.png",
     "types": [
-      "dark",
-      "fairy"
+      "bug",
+      "rock"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-09-17T21:47:48.450Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-09-17T23:44:19.667Z"
   },
   "pulls": [
+    {
+      "id": 558,
+      "name": "crustle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/558.png",
+      "types": [
+        "bug",
+        "rock"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-17T23:44:19.667Z"
+    },
     {
       "id": 861,
       "name": "grimmsnarl",
@@ -119,18 +131,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-16T15:56:21.103Z"
-    },
-    {
-      "id": 755,
-      "name": "morelull",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/755.png",
-      "types": [
-        "grass",
-        "fairy"
-      ],
-      "totalStats": 285,
-      "grade": "N",
-      "pulledAt": "2026-09-16T11:53:25.165Z"
     }
   ],
   "pokemon": {
@@ -289,6 +289,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:43:18.079Z",
       "lastPulledAt": "2026-09-16T01:43:18.079Z"
+    },
+    "558": {
+      "id": 558,
+      "name": "crustle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/558.png",
+      "types": [
+        "bug",
+        "rock"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-17T23:44:19.667Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T23:44:19.667Z",
+      "lastPulledAt": "2026-09-17T23:44:19.667Z"
     },
     "627": {
       "id": 627,
