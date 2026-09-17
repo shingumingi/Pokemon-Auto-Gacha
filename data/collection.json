@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 15,
-  "updatedAt": "2026-09-17T10:05:02.966Z",
+  "totalPulls": 16,
+  "updatedAt": "2026-09-17T14:54:48.438Z",
   "lastPull": {
-    "id": 222,
-    "name": "corsola",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/222.png",
+    "id": 286,
+    "name": "breloom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
     "types": [
-      "water",
-      "rock"
+      "grass",
+      "fighting"
     ],
-    "totalStats": 410,
+    "totalStats": 460,
     "grade": "R",
-    "pulledAt": "2026-09-17T10:05:02.966Z"
+    "pulledAt": "2026-09-17T14:54:48.438Z"
   },
   "pulls": [
+    {
+      "id": 286,
+      "name": "breloom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
+      "types": [
+        "grass",
+        "fighting"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-09-17T14:54:48.438Z"
+    },
     {
       "id": 222,
       "name": "corsola",
@@ -120,18 +132,6 @@
       "totalStats": 690,
       "grade": "SSR",
       "pulledAt": "2026-09-16T01:45:47.287Z"
-    },
-    {
-      "id": 741,
-      "name": "oricorio-baile",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png",
-      "types": [
-        "fire",
-        "flying"
-      ],
-      "totalStats": 476,
-      "grade": "R",
-      "pulledAt": "2026-09-16T01:45:11.071Z"
     }
   ],
   "pokemon": {
@@ -211,6 +211,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T05:17:51.963Z",
       "lastPulledAt": "2026-09-17T05:17:51.963Z"
+    },
+    "286": {
+      "id": 286,
+      "name": "breloom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
+      "types": [
+        "grass",
+        "fighting"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-09-17T14:54:48.438Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T14:54:48.438Z",
+      "lastPulledAt": "2026-09-17T14:54:48.438Z"
     },
     "443": {
       "id": 443,
