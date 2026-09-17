@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 14,
-  "updatedAt": "2026-09-17T05:17:51.963Z",
+  "totalPulls": 15,
+  "updatedAt": "2026-09-17T10:05:02.966Z",
   "lastPull": {
-    "id": 236,
-    "name": "tyrogue",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png",
+    "id": 222,
+    "name": "corsola",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/222.png",
     "types": [
-      "fighting"
+      "water",
+      "rock"
     ],
-    "totalStats": 210,
-    "grade": "N",
-    "pulledAt": "2026-09-17T05:17:51.963Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-09-17T10:05:02.966Z"
   },
   "pulls": [
+    {
+      "id": 222,
+      "name": "corsola",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/222.png",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-09-17T10:05:02.966Z"
+    },
     {
       "id": 236,
       "name": "tyrogue",
@@ -119,18 +132,6 @@
       "totalStats": 476,
       "grade": "R",
       "pulledAt": "2026-09-16T01:45:11.071Z"
-    },
-    {
-      "id": 81,
-      "name": "magnemite",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
-      "types": [
-        "electric",
-        "steel"
-      ],
-      "totalStats": 325,
-      "grade": "N",
-      "pulledAt": "2026-09-16T01:44:26.152Z"
     }
   ],
   "pokemon": {
@@ -179,6 +180,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:39:41.023Z",
       "lastPulledAt": "2026-09-16T01:39:41.023Z"
+    },
+    "222": {
+      "id": 222,
+      "name": "corsola",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/222.png",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-09-17T10:05:02.966Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T10:05:02.966Z",
+      "lastPulledAt": "2026-09-17T10:05:02.966Z"
     },
     "236": {
       "id": 236,
