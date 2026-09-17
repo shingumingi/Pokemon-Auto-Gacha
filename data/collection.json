@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 13,
-  "updatedAt": "2026-09-17T00:35:20.187Z",
+  "totalPulls": 14,
+  "updatedAt": "2026-09-17T05:17:51.963Z",
   "lastPull": {
-    "id": 936,
-    "name": "armarouge",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
+    "id": 236,
+    "name": "tyrogue",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png",
     "types": [
-      "fire",
-      "psychic"
+      "fighting"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-09-17T00:35:20.187Z"
+    "totalStats": 210,
+    "grade": "N",
+    "pulledAt": "2026-09-17T05:17:51.963Z"
   },
   "pulls": [
+    {
+      "id": 236,
+      "name": "tyrogue",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 210,
+      "grade": "N",
+      "pulledAt": "2026-09-17T05:17:51.963Z"
+    },
     {
       "id": 936,
       "name": "armarouge",
@@ -121,18 +131,6 @@
       "totalStats": 325,
       "grade": "N",
       "pulledAt": "2026-09-16T01:44:26.152Z"
-    },
-    {
-      "id": 540,
-      "name": "sewaddle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/540.png",
-      "types": [
-        "bug",
-        "grass"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-09-16T01:43:18.079Z"
     }
   ],
   "pokemon": {
@@ -181,6 +179,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:39:41.023Z",
       "lastPulledAt": "2026-09-16T01:39:41.023Z"
+    },
+    "236": {
+      "id": 236,
+      "name": "tyrogue",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 210,
+      "grade": "N",
+      "pulledAt": "2026-09-17T05:17:51.963Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T05:17:51.963Z",
+      "lastPulledAt": "2026-09-17T05:17:51.963Z"
     },
     "443": {
       "id": 443,
