@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "totalPulls": 22,
-  "updatedAt": "2026-09-18T11:46:14.695Z",
+  "totalPulls": 23,
+  "updatedAt": "2026-09-18T15:12:14.198Z",
   "lastPull": {
     "id": 364,
     "name": "sealeo",
@@ -12,9 +12,21 @@
     ],
     "totalStats": 410,
     "grade": "R",
-    "pulledAt": "2026-09-18T11:46:14.695Z"
+    "pulledAt": "2026-09-18T15:12:14.198Z"
   },
   "pulls": [
+    {
+      "id": 364,
+      "name": "sealeo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/364.png",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-09-18T15:12:14.198Z"
+    },
     {
       "id": 364,
       "name": "sealeo",
@@ -119,18 +131,6 @@
       "totalStats": 210,
       "grade": "N",
       "pulledAt": "2026-09-17T05:17:51.963Z"
-    },
-    {
-      "id": 936,
-      "name": "armarouge",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
-      "types": [
-        "fire",
-        "psychic"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-09-17T00:35:20.187Z"
     }
   ],
   "pokemon": {
@@ -268,10 +268,10 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-09-18T11:46:14.695Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T11:46:14.695Z",
-      "lastPulledAt": "2026-09-18T11:46:14.695Z"
+      "lastPulledAt": "2026-09-18T15:12:14.198Z"
     },
     "443": {
       "id": 443,
