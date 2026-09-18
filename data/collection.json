@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 19,
-  "updatedAt": "2026-09-17T23:44:19.667Z",
+  "totalPulls": 20,
+  "updatedAt": "2026-09-18T01:34:24.389Z",
   "lastPull": {
-    "id": 558,
-    "name": "crustle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/558.png",
+    "id": 312,
+    "name": "minun",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png",
     "types": [
-      "bug",
-      "rock"
+      "electric"
     ],
-    "totalStats": 485,
+    "totalStats": 405,
     "grade": "R",
-    "pulledAt": "2026-09-17T23:44:19.667Z"
+    "pulledAt": "2026-09-18T01:34:24.389Z"
   },
   "pulls": [
+    {
+      "id": 312,
+      "name": "minun",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-09-18T01:34:24.389Z"
+    },
     {
       "id": 558,
       "name": "crustle",
@@ -119,18 +129,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-09-16T19:21:54.581Z"
-    },
-    {
-      "id": 443,
-      "name": "gible",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png",
-      "types": [
-        "dragon",
-        "ground"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-09-16T15:56:21.103Z"
     }
   ],
   "pokemon": {
@@ -226,6 +224,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T14:54:48.438Z",
       "lastPulledAt": "2026-09-17T14:54:48.438Z"
+    },
+    "312": {
+      "id": 312,
+      "name": "minun",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-09-18T01:34:24.389Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T01:34:24.389Z",
+      "lastPulledAt": "2026-09-18T01:34:24.389Z"
     },
     "361": {
       "id": 361,
