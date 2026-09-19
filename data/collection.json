@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 30,
-  "updatedAt": "2026-09-19T14:21:06.062Z",
+  "totalPulls": 31,
+  "updatedAt": "2026-09-19T17:21:02.180Z",
   "lastPull": {
-    "id": 804,
-    "name": "naganadel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png",
+    "id": 66,
+    "name": "machop",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
     "types": [
-      "poison",
-      "dragon"
+      "fighting"
     ],
-    "totalStats": 540,
-    "grade": "SR",
-    "pulledAt": "2026-09-19T14:21:06.062Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-09-19T17:21:02.180Z"
   },
   "pulls": [
+    {
+      "id": 66,
+      "name": "machop",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-19T17:21:02.180Z"
+    },
     {
       "id": 804,
       "name": "naganadel",
@@ -121,18 +131,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-09-18T11:46:14.695Z"
-    },
-    {
-      "id": 630,
-      "name": "mandibuzz",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png",
-      "types": [
-        "dark",
-        "flying"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-09-18T06:36:06.545Z"
     }
   ],
   "pokemon": {
@@ -151,6 +149,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T06:12:14.093Z",
       "lastPulledAt": "2026-09-19T06:12:14.093Z"
+    },
+    "66": {
+      "id": 66,
+      "name": "machop",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-19T17:21:02.180Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T17:21:02.180Z",
+      "lastPulledAt": "2026-09-19T17:21:02.180Z"
     },
     "81": {
       "id": 81,
