@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 26,
-  "updatedAt": "2026-09-18T23:20:19.952Z",
+  "totalPulls": 27,
+  "updatedAt": "2026-09-19T01:21:23.533Z",
   "lastPull": {
-    "id": 905,
-    "name": "enamorus-incarnate",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/905.png",
+    "id": 873,
+    "name": "frosmoth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/873.png",
     "types": [
-      "fairy",
-      "flying"
+      "ice",
+      "bug"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-09-18T23:20:19.952Z"
+    "totalStats": 475,
+    "grade": "R",
+    "pulledAt": "2026-09-19T01:21:23.533Z"
   },
   "pulls": [
+    {
+      "id": 873,
+      "name": "frosmoth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/873.png",
+      "types": [
+        "ice",
+        "bug"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-09-19T01:21:23.533Z"
+    },
     {
       "id": 905,
       "name": "enamorus-incarnate",
@@ -120,17 +132,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-09-17T21:47:48.450Z"
-    },
-    {
-      "id": 361,
-      "name": "snorunt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/361.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-09-17T18:44:30.009Z"
     }
   ],
   "pokemon": {
@@ -447,6 +448,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T21:47:48.450Z",
       "lastPulledAt": "2026-09-17T21:47:48.450Z"
+    },
+    "873": {
+      "id": 873,
+      "name": "frosmoth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/873.png",
+      "types": [
+        "ice",
+        "bug"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-09-19T01:21:23.533Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T01:21:23.533Z",
+      "lastPulledAt": "2026-09-19T01:21:23.533Z"
     },
     "890": {
       "id": 890,
