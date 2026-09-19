@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 31,
-  "updatedAt": "2026-09-19T17:21:02.180Z",
+  "totalPulls": 32,
+  "updatedAt": "2026-09-19T19:26:47.668Z",
   "lastPull": {
-    "id": 66,
-    "name": "machop",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+    "id": 654,
+    "name": "braixen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/654.png",
     "types": [
-      "fighting"
+      "fire"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-09-19T17:21:02.180Z"
+    "totalStats": 409,
+    "grade": "R",
+    "pulledAt": "2026-09-19T19:26:47.668Z"
   },
   "pulls": [
+    {
+      "id": 654,
+      "name": "braixen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/654.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 409,
+      "grade": "R",
+      "pulledAt": "2026-09-19T19:26:47.668Z"
+    },
     {
       "id": 66,
       "name": "machop",
@@ -119,18 +130,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-09-18T15:12:14.198Z"
-    },
-    {
-      "id": 364,
-      "name": "sealeo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/364.png",
-      "types": [
-        "ice",
-        "water"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-09-18T11:46:14.695Z"
     }
   ],
   "pokemon": {
@@ -414,6 +413,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T06:36:06.545Z",
       "lastPulledAt": "2026-09-18T06:36:06.545Z"
+    },
+    "654": {
+      "id": 654,
+      "name": "braixen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/654.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 409,
+      "grade": "R",
+      "pulledAt": "2026-09-19T19:26:47.668Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T19:26:47.668Z",
+      "lastPulledAt": "2026-09-19T19:26:47.668Z"
     },
     "662": {
       "id": 662,
