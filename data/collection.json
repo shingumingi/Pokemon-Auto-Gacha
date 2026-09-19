@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 27,
-  "updatedAt": "2026-09-19T01:21:23.533Z",
+  "totalPulls": 28,
+  "updatedAt": "2026-09-19T06:12:14.093Z",
   "lastPull": {
-    "id": 873,
-    "name": "frosmoth",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/873.png",
+    "id": 48,
+    "name": "venonat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
     "types": [
-      "ice",
-      "bug"
+      "bug",
+      "poison"
     ],
-    "totalStats": 475,
-    "grade": "R",
-    "pulledAt": "2026-09-19T01:21:23.533Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-09-19T06:12:14.093Z"
   },
   "pulls": [
+    {
+      "id": 48,
+      "name": "venonat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-19T06:12:14.093Z"
+    },
     {
       "id": 873,
       "name": "frosmoth",
@@ -120,21 +132,25 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-09-17T23:44:19.667Z"
-    },
-    {
-      "id": 861,
-      "name": "grimmsnarl",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/861.png",
-      "types": [
-        "dark",
-        "fairy"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-09-17T21:47:48.450Z"
     }
   ],
   "pokemon": {
+    "48": {
+      "id": 48,
+      "name": "venonat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-19T06:12:14.093Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T06:12:14.093Z",
+      "lastPulledAt": "2026-09-19T06:12:14.093Z"
+    },
     "81": {
       "id": 81,
       "name": "magnemite",
