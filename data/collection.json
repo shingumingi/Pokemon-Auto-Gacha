@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 33,
-  "updatedAt": "2026-09-19T21:36:15.323Z",
+  "totalPulls": 34,
+  "updatedAt": "2026-09-19T23:29:27.192Z",
   "lastPull": {
-    "id": 739,
-    "name": "crabrawler",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png",
+    "id": 677,
+    "name": "espurr",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/677.png",
     "types": [
-      "fighting"
+      "psychic"
     ],
-    "totalStats": 338,
+    "totalStats": 355,
     "grade": "N",
-    "pulledAt": "2026-09-19T21:36:15.323Z"
+    "pulledAt": "2026-09-19T23:29:27.192Z"
   },
   "pulls": [
+    {
+      "id": 677,
+      "name": "espurr",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/677.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-09-19T23:29:27.192Z"
+    },
     {
       "id": 739,
       "name": "crabrawler",
@@ -118,17 +129,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-09-18T21:12:34.119Z"
-    },
-    {
-      "id": 119,
-      "name": "seaking",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 450,
-      "grade": "R",
-      "pulledAt": "2026-09-18T18:31:46.271Z"
     }
   ],
   "pokemon": {
@@ -443,6 +443,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T11:05:38.991Z",
       "lastPulledAt": "2026-09-19T11:05:38.991Z"
+    },
+    "677": {
+      "id": 677,
+      "name": "espurr",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/677.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-09-19T23:29:27.192Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T23:29:27.192Z",
+      "lastPulledAt": "2026-09-19T23:29:27.192Z"
     },
     "739": {
       "id": 739,
