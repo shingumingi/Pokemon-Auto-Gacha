@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 39,
-  "updatedAt": "2026-09-20T18:13:08.088Z",
+  "totalPulls": 40,
+  "updatedAt": "2026-09-20T20:52:05.558Z",
   "lastPull": {
-    "id": 862,
-    "name": "obstagoon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/862.png",
+    "id": 614,
+    "name": "beartic",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png",
     "types": [
-      "dark",
-      "normal"
+      "ice"
     ],
-    "totalStats": 520,
+    "totalStats": 505,
     "grade": "SR",
-    "pulledAt": "2026-09-20T18:13:08.088Z"
+    "pulledAt": "2026-09-20T20:52:05.558Z"
   },
   "pulls": [
+    {
+      "id": 614,
+      "name": "beartic",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T20:52:05.558Z"
+    },
     {
       "id": 862,
       "name": "obstagoon",
@@ -116,18 +126,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-09-19T17:21:02.180Z"
-    },
-    {
-      "id": 804,
-      "name": "naganadel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png",
-      "types": [
-        "poison",
-        "dragon"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-09-19T14:21:06.062Z"
     }
   ],
   "pokemon": {
@@ -409,6 +407,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T23:44:19.667Z",
       "lastPulledAt": "2026-09-17T23:44:19.667Z"
+    },
+    "614": {
+      "id": 614,
+      "name": "beartic",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T20:52:05.558Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T20:52:05.558Z",
+      "lastPulledAt": "2026-09-20T20:52:05.558Z"
     },
     "627": {
       "id": 627,
