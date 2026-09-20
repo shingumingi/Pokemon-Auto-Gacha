@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 40,
-  "updatedAt": "2026-09-20T20:52:05.558Z",
+  "totalPulls": 41,
+  "updatedAt": "2026-09-20T22:52:43.048Z",
   "lastPull": {
-    "id": 614,
-    "name": "beartic",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png",
+    "id": 1006,
+    "name": "iron-valiant",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1006.png",
     "types": [
-      "ice"
+      "fairy",
+      "fighting"
     ],
-    "totalStats": 505,
+    "totalStats": 590,
     "grade": "SR",
-    "pulledAt": "2026-09-20T20:52:05.558Z"
+    "pulledAt": "2026-09-20T22:52:43.048Z"
   },
   "pulls": [
+    {
+      "id": 1006,
+      "name": "iron-valiant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1006.png",
+      "types": [
+        "fairy",
+        "fighting"
+      ],
+      "totalStats": 590,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T22:52:43.048Z"
+    },
     {
       "id": 614,
       "name": "beartic",
@@ -115,17 +128,6 @@
       "totalStats": 409,
       "grade": "R",
       "pulledAt": "2026-09-19T19:26:47.668Z"
-    },
-    {
-      "id": 66,
-      "name": "machop",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-09-19T17:21:02.180Z"
     }
   ],
   "pokemon": {
@@ -723,6 +725,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T00:35:20.187Z",
       "lastPulledAt": "2026-09-17T00:35:20.187Z"
+    },
+    "1006": {
+      "id": 1006,
+      "name": "iron-valiant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1006.png",
+      "types": [
+        "fairy",
+        "fighting"
+      ],
+      "totalStats": 590,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T22:52:43.048Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T22:52:43.048Z",
+      "lastPulledAt": "2026-09-20T22:52:43.048Z"
     }
   },
   "typeTotals": {
