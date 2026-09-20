@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 37,
-  "updatedAt": "2026-09-20T11:51:48.732Z",
+  "totalPulls": 38,
+  "updatedAt": "2026-09-20T15:15:37.450Z",
   "lastPull": {
-    "id": 898,
-    "name": "calyrex",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png",
+    "id": 703,
+    "name": "carbink",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png",
     "types": [
-      "psychic",
-      "grass"
+      "rock",
+      "fairy"
     ],
     "totalStats": 500,
     "grade": "SR",
-    "pulledAt": "2026-09-20T11:51:48.732Z"
+    "pulledAt": "2026-09-20T15:15:37.450Z"
   },
   "pulls": [
+    {
+      "id": 703,
+      "name": "carbink",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png",
+      "types": [
+        "rock",
+        "fairy"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T15:15:37.450Z"
+    },
     {
       "id": 898,
       "name": "calyrex",
@@ -116,18 +128,6 @@
       "totalStats": 382,
       "grade": "N",
       "pulledAt": "2026-09-19T11:05:38.991Z"
-    },
-    {
-      "id": 48,
-      "name": "venonat",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-09-19T06:12:14.093Z"
     }
   ],
   "pokemon": {
@@ -487,6 +487,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T23:29:27.192Z",
       "lastPulledAt": "2026-09-19T23:29:27.192Z"
+    },
+    "703": {
+      "id": 703,
+      "name": "carbink",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png",
+      "types": [
+        "rock",
+        "fairy"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T15:15:37.450Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T15:15:37.450Z",
+      "lastPulledAt": "2026-09-20T15:15:37.450Z"
     },
     "739": {
       "id": 739,
