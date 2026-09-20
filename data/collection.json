@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 36,
-  "updatedAt": "2026-09-20T06:49:36.563Z",
+  "totalPulls": 37,
+  "updatedAt": "2026-09-20T11:51:48.732Z",
   "lastPull": {
-    "id": 36,
-    "name": "clefable",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png",
+    "id": 898,
+    "name": "calyrex",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png",
     "types": [
-      "fairy"
+      "psychic",
+      "grass"
     ],
-    "totalStats": 483,
-    "grade": "R",
-    "pulledAt": "2026-09-20T06:49:36.563Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-09-20T11:51:48.732Z"
   },
   "pulls": [
+    {
+      "id": 898,
+      "name": "calyrex",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png",
+      "types": [
+        "psychic",
+        "grass"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T11:51:48.732Z"
+    },
     {
       "id": 36,
       "name": "clefable",
@@ -115,18 +128,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-09-19T06:12:14.093Z"
-    },
-    {
-      "id": 873,
-      "name": "frosmoth",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/873.png",
-      "types": [
-        "ice",
-        "bug"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-09-19T01:21:23.533Z"
     }
   ],
   "pokemon": {
@@ -625,10 +626,10 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-16T06:20:25.218Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T06:20:25.218Z",
-      "lastPulledAt": "2026-09-16T06:20:25.218Z"
+      "lastPulledAt": "2026-09-20T11:51:48.732Z"
     },
     "899": {
       "id": 899,
