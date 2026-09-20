@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 35,
-  "updatedAt": "2026-09-20T01:29:38.453Z",
+  "totalPulls": 36,
+  "updatedAt": "2026-09-20T06:49:36.563Z",
   "lastPull": {
-    "id": 383,
-    "name": "groudon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png",
+    "id": 36,
+    "name": "clefable",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png",
     "types": [
-      "ground"
+      "fairy"
     ],
-    "totalStats": 670,
-    "grade": "SSR",
-    "pulledAt": "2026-09-20T01:29:38.453Z"
+    "totalStats": 483,
+    "grade": "R",
+    "pulledAt": "2026-09-20T06:49:36.563Z"
   },
   "pulls": [
+    {
+      "id": 36,
+      "name": "clefable",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 483,
+      "grade": "R",
+      "pulledAt": "2026-09-20T06:49:36.563Z"
+    },
     {
       "id": 383,
       "name": "groudon",
@@ -116,21 +127,24 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-09-19T01:21:23.533Z"
-    },
-    {
-      "id": 905,
-      "name": "enamorus-incarnate",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/905.png",
-      "types": [
-        "fairy",
-        "flying"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-09-18T23:20:19.952Z"
     }
   ],
   "pokemon": {
+    "36": {
+      "id": 36,
+      "name": "clefable",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 483,
+      "grade": "R",
+      "pulledAt": "2026-09-20T06:49:36.563Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T06:49:36.563Z",
+      "lastPulledAt": "2026-09-20T06:49:36.563Z"
+    },
     "48": {
       "id": 48,
       "name": "venonat",
