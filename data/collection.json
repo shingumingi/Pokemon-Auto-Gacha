@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 43,
-  "updatedAt": "2026-09-21T05:33:04.500Z",
+  "totalPulls": 44,
+  "updatedAt": "2026-09-21T11:04:09.506Z",
   "lastPull": {
-    "id": 240,
-    "name": "magby",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
+    "id": 865,
+    "name": "sirfetchd",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
     "types": [
-      "fire"
+      "fighting"
     ],
-    "totalStats": 365,
-    "grade": "N",
-    "pulledAt": "2026-09-21T05:33:04.500Z"
+    "totalStats": 507,
+    "grade": "SR",
+    "pulledAt": "2026-09-21T11:04:09.506Z"
   },
   "pulls": [
+    {
+      "id": 865,
+      "name": "sirfetchd",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 507,
+      "grade": "SR",
+      "pulledAt": "2026-09-21T11:04:09.506Z"
+    },
     {
       "id": 240,
       "name": "magby",
@@ -117,17 +128,6 @@
       "totalStats": 670,
       "grade": "SSR",
       "pulledAt": "2026-09-20T01:29:38.453Z"
-    },
-    {
-      "id": 677,
-      "name": "espurr",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/677.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 355,
-      "grade": "N",
-      "pulledAt": "2026-09-19T23:29:27.192Z"
     }
   ],
   "pokemon": {
@@ -644,6 +644,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T18:13:08.088Z",
       "lastPulledAt": "2026-09-20T18:13:08.088Z"
+    },
+    "865": {
+      "id": 865,
+      "name": "sirfetchd",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 507,
+      "grade": "SR",
+      "pulledAt": "2026-09-21T11:04:09.506Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T11:04:09.506Z",
+      "lastPulledAt": "2026-09-21T11:04:09.506Z"
     },
     "873": {
       "id": 873,
