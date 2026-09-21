@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 45,
-  "updatedAt": "2026-09-21T16:59:46.184Z",
+  "totalPulls": 46,
+  "updatedAt": "2026-09-21T20:55:56.800Z",
   "lastPull": {
-    "id": 570,
-    "name": "zorua",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png",
+    "id": 436,
+    "name": "bronzor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png",
     "types": [
-      "dark"
+      "steel",
+      "psychic"
     ],
-    "totalStats": 330,
+    "totalStats": 300,
     "grade": "N",
-    "pulledAt": "2026-09-21T16:59:46.184Z"
+    "pulledAt": "2026-09-21T20:55:56.800Z"
   },
   "pulls": [
+    {
+      "id": 436,
+      "name": "bronzor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-21T20:55:56.800Z"
+    },
     {
       "id": 570,
       "name": "zorua",
@@ -117,17 +130,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-20T11:51:48.732Z"
-    },
-    {
-      "id": 36,
-      "name": "clefable",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 483,
-      "grade": "R",
-      "pulledAt": "2026-09-20T06:49:36.563Z"
     }
   ],
   "pokemon": {
@@ -360,6 +362,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T01:29:38.453Z",
       "lastPulledAt": "2026-09-20T01:29:38.453Z"
+    },
+    "436": {
+      "id": 436,
+      "name": "bronzor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-21T20:55:56.800Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T20:55:56.800Z",
+      "lastPulledAt": "2026-09-21T20:55:56.800Z"
     },
     "443": {
       "id": 443,
