@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 42,
-  "updatedAt": "2026-09-21T00:45:32.941Z",
+  "totalPulls": 43,
+  "updatedAt": "2026-09-21T05:33:04.500Z",
   "lastPull": {
-    "id": 941,
-    "name": "kilowattrel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/941.png",
+    "id": 240,
+    "name": "magby",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
     "types": [
-      "electric",
-      "flying"
+      "fire"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-09-21T00:45:32.941Z"
+    "totalStats": 365,
+    "grade": "N",
+    "pulledAt": "2026-09-21T05:33:04.500Z"
   },
   "pulls": [
+    {
+      "id": 240,
+      "name": "magby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 365,
+      "grade": "N",
+      "pulledAt": "2026-09-21T05:33:04.500Z"
+    },
     {
       "id": 941,
       "name": "kilowattrel",
@@ -118,17 +128,6 @@
       "totalStats": 355,
       "grade": "N",
       "pulledAt": "2026-09-19T23:29:27.192Z"
-    },
-    {
-      "id": 739,
-      "name": "crabrawler",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 338,
-      "grade": "N",
-      "pulledAt": "2026-09-19T21:36:15.323Z"
     }
   ],
   "pokemon": {
@@ -269,6 +268,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T05:17:51.963Z",
       "lastPulledAt": "2026-09-17T05:17:51.963Z"
+    },
+    "240": {
+      "id": 240,
+      "name": "magby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 365,
+      "grade": "N",
+      "pulledAt": "2026-09-21T05:33:04.500Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T05:33:04.500Z",
+      "lastPulledAt": "2026-09-21T05:33:04.500Z"
     },
     "286": {
       "id": 286,
