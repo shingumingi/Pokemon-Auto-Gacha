@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 46,
-  "updatedAt": "2026-09-21T20:55:56.800Z",
+  "totalPulls": 47,
+  "updatedAt": "2026-09-21T23:47:37.879Z",
   "lastPull": {
-    "id": 436,
-    "name": "bronzor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png",
+    "id": 162,
+    "name": "furret",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
     "types": [
-      "steel",
-      "psychic"
+      "normal"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-09-21T20:55:56.800Z"
+    "totalStats": 415,
+    "grade": "R",
+    "pulledAt": "2026-09-21T23:47:37.879Z"
   },
   "pulls": [
+    {
+      "id": 162,
+      "name": "furret",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 415,
+      "grade": "R",
+      "pulledAt": "2026-09-21T23:47:37.879Z"
+    },
     {
       "id": 436,
       "name": "bronzor",
@@ -118,18 +128,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-20T15:15:37.450Z"
-    },
-    {
-      "id": 898,
-      "name": "calyrex",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png",
-      "types": [
-        "psychic",
-        "grass"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-20T11:51:48.732Z"
     }
   ],
   "pokemon": {
@@ -224,6 +222,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T18:31:46.271Z",
       "lastPulledAt": "2026-09-18T18:31:46.271Z"
+    },
+    "162": {
+      "id": 162,
+      "name": "furret",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 415,
+      "grade": "R",
+      "pulledAt": "2026-09-21T23:47:37.879Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T23:47:37.879Z",
+      "lastPulledAt": "2026-09-21T23:47:37.879Z"
     },
     "191": {
       "id": 191,
