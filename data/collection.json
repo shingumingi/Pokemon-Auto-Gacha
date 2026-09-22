@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 50,
-  "updatedAt": "2026-09-22T12:38:45.506Z",
+  "totalPulls": 51,
+  "updatedAt": "2026-09-22T17:16:14.225Z",
   "lastPull": {
-    "id": 815,
-    "name": "cinderace",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
+    "id": 41,
+    "name": "zubat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png",
     "types": [
-      "fire"
+      "poison",
+      "flying"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-09-22T12:38:45.506Z"
+    "totalStats": 245,
+    "grade": "N",
+    "pulledAt": "2026-09-22T17:16:14.225Z"
   },
   "pulls": [
+    {
+      "id": 41,
+      "name": "zubat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-09-22T17:16:14.225Z"
+    },
     {
       "id": 815,
       "name": "cinderace",
@@ -116,18 +129,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-09-21T00:45:32.941Z"
-    },
-    {
-      "id": 1006,
-      "name": "iron-valiant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1006.png",
-      "types": [
-        "fairy",
-        "fighting"
-      ],
-      "totalStats": 590,
-      "grade": "SR",
-      "pulledAt": "2026-09-20T22:52:43.048Z"
     }
   ],
   "pokemon": {
@@ -145,6 +146,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T06:49:36.563Z",
       "lastPulledAt": "2026-09-20T06:49:36.563Z"
+    },
+    "41": {
+      "id": 41,
+      "name": "zubat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-09-22T17:16:14.225Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T17:16:14.225Z",
+      "lastPulledAt": "2026-09-22T17:16:14.225Z"
     },
     "48": {
       "id": 48,
