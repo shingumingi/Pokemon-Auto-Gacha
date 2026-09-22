@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 51,
-  "updatedAt": "2026-09-22T17:16:14.225Z",
+  "totalPulls": 52,
+  "updatedAt": "2026-09-22T20:13:21.937Z",
   "lastPull": {
-    "id": 41,
-    "name": "zubat",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png",
+    "id": 993,
+    "name": "iron-jugulis",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
     "types": [
-      "poison",
+      "dark",
       "flying"
     ],
-    "totalStats": 245,
-    "grade": "N",
-    "pulledAt": "2026-09-22T17:16:14.225Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-09-22T20:13:21.937Z"
   },
   "pulls": [
+    {
+      "id": 993,
+      "name": "iron-jugulis",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T20:13:21.937Z"
+    },
     {
       "id": 41,
       "name": "zubat",
@@ -117,18 +129,6 @@
       "totalStats": 365,
       "grade": "N",
       "pulledAt": "2026-09-21T05:33:04.500Z"
-    },
-    {
-      "id": 941,
-      "name": "kilowattrel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/941.png",
-      "types": [
-        "electric",
-        "flying"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-09-21T00:45:32.941Z"
     }
   ],
   "pokemon": {
@@ -881,6 +881,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T07:13:10.588Z",
       "lastPulledAt": "2026-09-22T07:13:10.588Z"
+    },
+    "993": {
+      "id": 993,
+      "name": "iron-jugulis",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T20:13:21.937Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T20:13:21.937Z",
+      "lastPulledAt": "2026-09-22T20:13:21.937Z"
     },
     "1006": {
       "id": 1006,
