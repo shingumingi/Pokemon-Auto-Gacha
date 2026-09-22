@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 47,
-  "updatedAt": "2026-09-21T23:47:37.879Z",
+  "totalPulls": 48,
+  "updatedAt": "2026-09-22T01:55:45.520Z",
   "lastPull": {
-    "id": 162,
-    "name": "furret",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
+    "id": 472,
+    "name": "gliscor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png",
     "types": [
-      "normal"
+      "ground",
+      "flying"
     ],
-    "totalStats": 415,
-    "grade": "R",
-    "pulledAt": "2026-09-21T23:47:37.879Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-09-22T01:55:45.520Z"
   },
   "pulls": [
+    {
+      "id": 472,
+      "name": "gliscor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png",
+      "types": [
+        "ground",
+        "flying"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T01:55:45.520Z"
+    },
     {
       "id": 162,
       "name": "furret",
@@ -116,18 +129,6 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-09-20T18:13:08.088Z"
-    },
-    {
-      "id": 703,
-      "name": "carbink",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png",
-      "types": [
-        "rock",
-        "fairy"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-20T15:15:37.450Z"
     }
   ],
   "pokemon": {
@@ -423,6 +424,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T19:21:54.581Z",
       "lastPulledAt": "2026-09-16T19:21:54.581Z"
+    },
+    "472": {
+      "id": 472,
+      "name": "gliscor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png",
+      "types": [
+        "ground",
+        "flying"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T01:55:45.520Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T01:55:45.520Z",
+      "lastPulledAt": "2026-09-22T01:55:45.520Z"
     },
     "540": {
       "id": 540,
