@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 49,
-  "updatedAt": "2026-09-22T07:13:10.588Z",
+  "totalPulls": 50,
+  "updatedAt": "2026-09-22T12:38:45.506Z",
   "lastPull": {
-    "id": 944,
-    "name": "shroodle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
+    "id": 815,
+    "name": "cinderace",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
     "types": [
-      "poison",
-      "normal"
+      "fire"
     ],
-    "totalStats": 290,
-    "grade": "N",
-    "pulledAt": "2026-09-22T07:13:10.588Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-09-22T12:38:45.506Z"
   },
   "pulls": [
+    {
+      "id": 815,
+      "name": "cinderace",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T12:38:45.506Z"
+    },
     {
       "id": 944,
       "name": "shroodle",
@@ -118,17 +128,6 @@
       "totalStats": 590,
       "grade": "SR",
       "pulledAt": "2026-09-20T22:52:43.048Z"
-    },
-    {
-      "id": 614,
-      "name": "beartic",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-09-20T20:52:05.558Z"
     }
   ],
   "pokemon": {
@@ -675,6 +674,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T14:21:06.062Z",
       "lastPulledAt": "2026-09-19T14:21:06.062Z"
+    },
+    "815": {
+      "id": 815,
+      "name": "cinderace",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T12:38:45.506Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T12:38:45.506Z",
+      "lastPulledAt": "2026-09-22T12:38:45.506Z"
     },
     "861": {
       "id": 861,
