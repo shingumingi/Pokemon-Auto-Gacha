@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 52,
-  "updatedAt": "2026-09-22T20:13:21.937Z",
+  "totalPulls": 53,
+  "updatedAt": "2026-09-22T22:59:19.988Z",
   "lastPull": {
-    "id": 993,
-    "name": "iron-jugulis",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
+    "id": 929,
+    "name": "dolliv",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png",
     "types": [
-      "dark",
-      "flying"
+      "grass",
+      "normal"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-09-22T20:13:21.937Z"
+    "totalStats": 354,
+    "grade": "N",
+    "pulledAt": "2026-09-22T22:59:19.988Z"
   },
   "pulls": [
+    {
+      "id": 929,
+      "name": "dolliv",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png",
+      "types": [
+        "grass",
+        "normal"
+      ],
+      "totalStats": 354,
+      "grade": "N",
+      "pulledAt": "2026-09-22T22:59:19.988Z"
+    },
     {
       "id": 993,
       "name": "iron-jugulis",
@@ -118,17 +130,6 @@
       "totalStats": 507,
       "grade": "SR",
       "pulledAt": "2026-09-21T11:04:09.506Z"
-    },
-    {
-      "id": 240,
-      "name": "magby",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 365,
-      "grade": "N",
-      "pulledAt": "2026-09-21T05:33:04.500Z"
     }
   ],
   "pokemon": {
@@ -833,6 +834,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T23:20:19.952Z",
       "lastPulledAt": "2026-09-18T23:20:19.952Z"
+    },
+    "929": {
+      "id": 929,
+      "name": "dolliv",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png",
+      "types": [
+        "grass",
+        "normal"
+      ],
+      "totalStats": 354,
+      "grade": "N",
+      "pulledAt": "2026-09-22T22:59:19.988Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T22:59:19.988Z",
+      "lastPulledAt": "2026-09-22T22:59:19.988Z"
     },
     "936": {
       "id": 936,
