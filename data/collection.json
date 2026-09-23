@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 54,
-  "updatedAt": "2026-09-23T01:21:03.668Z",
+  "totalPulls": 55,
+  "updatedAt": "2026-09-23T06:14:59.676Z",
   "lastPull": {
-    "id": 145,
-    "name": "zapdos",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png",
+    "id": 169,
+    "name": "crobat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png",
     "types": [
-      "electric",
+      "poison",
       "flying"
     ],
-    "totalStats": 580,
+    "totalStats": 535,
     "grade": "SR",
-    "pulledAt": "2026-09-23T01:21:03.668Z"
+    "pulledAt": "2026-09-23T06:14:59.676Z"
   },
   "pulls": [
+    {
+      "id": 169,
+      "name": "crobat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-09-23T06:14:59.676Z"
+    },
     {
       "id": 145,
       "name": "zapdos",
@@ -120,17 +132,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-21T20:55:56.800Z"
-    },
-    {
-      "id": 570,
-      "name": "zorua",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-09-21T16:59:46.184Z"
     }
   ],
   "pokemon": {
@@ -272,6 +273,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T23:47:37.879Z",
       "lastPulledAt": "2026-09-21T23:47:37.879Z"
+    },
+    "169": {
+      "id": 169,
+      "name": "crobat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-09-23T06:14:59.676Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T06:14:59.676Z",
+      "lastPulledAt": "2026-09-23T06:14:59.676Z"
     },
     "191": {
       "id": 191,
