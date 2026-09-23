@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 53,
-  "updatedAt": "2026-09-22T22:59:19.988Z",
+  "totalPulls": 54,
+  "updatedAt": "2026-09-23T01:21:03.668Z",
   "lastPull": {
-    "id": 929,
-    "name": "dolliv",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png",
+    "id": 145,
+    "name": "zapdos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png",
     "types": [
-      "grass",
-      "normal"
+      "electric",
+      "flying"
     ],
-    "totalStats": 354,
-    "grade": "N",
-    "pulledAt": "2026-09-22T22:59:19.988Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-09-23T01:21:03.668Z"
   },
   "pulls": [
+    {
+      "id": 145,
+      "name": "zapdos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png",
+      "types": [
+        "electric",
+        "flying"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-09-23T01:21:03.668Z"
+    },
     {
       "id": 929,
       "name": "dolliv",
@@ -119,17 +131,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-09-21T16:59:46.184Z"
-    },
-    {
-      "id": 865,
-      "name": "sirfetchd",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 507,
-      "grade": "SR",
-      "pulledAt": "2026-09-21T11:04:09.506Z"
     }
   ],
   "pokemon": {
@@ -240,6 +241,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T18:31:46.271Z",
       "lastPulledAt": "2026-09-18T18:31:46.271Z"
+    },
+    "145": {
+      "id": 145,
+      "name": "zapdos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png",
+      "types": [
+        "electric",
+        "flying"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-09-23T01:21:03.668Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T01:21:03.668Z",
+      "lastPulledAt": "2026-09-23T01:21:03.668Z"
     },
     "162": {
       "id": 162,
