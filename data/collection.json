@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 56,
-  "updatedAt": "2026-09-23T11:43:36.730Z",
+  "totalPulls": 57,
+  "updatedAt": "2026-09-23T15:35:08.130Z",
   "lastPull": {
-    "id": 307,
-    "name": "meditite",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/307.png",
+    "id": 92,
+    "name": "gastly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
     "types": [
-      "fighting",
-      "psychic"
+      "ghost",
+      "poison"
     ],
-    "totalStats": 280,
+    "totalStats": 310,
     "grade": "N",
-    "pulledAt": "2026-09-23T11:43:36.730Z"
+    "pulledAt": "2026-09-23T15:35:08.130Z"
   },
   "pulls": [
+    {
+      "id": 92,
+      "name": "gastly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-09-23T15:35:08.130Z"
+    },
     {
       "id": 307,
       "name": "meditite",
@@ -121,17 +133,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-09-22T01:55:45.520Z"
-    },
-    {
-      "id": 162,
-      "name": "furret",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 415,
-      "grade": "R",
-      "pulledAt": "2026-09-21T23:47:37.879Z"
     }
   ],
   "pokemon": {
@@ -212,6 +213,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:44:26.152Z",
       "lastPulledAt": "2026-09-16T01:44:26.152Z"
+    },
+    "92": {
+      "id": 92,
+      "name": "gastly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-09-23T15:35:08.130Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T15:35:08.130Z",
+      "lastPulledAt": "2026-09-23T15:35:08.130Z"
     },
     "113": {
       "id": 113,
