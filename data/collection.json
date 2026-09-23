@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 57,
-  "updatedAt": "2026-09-23T15:35:08.130Z",
+  "totalPulls": 58,
+  "updatedAt": "2026-09-23T19:12:19.855Z",
   "lastPull": {
-    "id": 92,
-    "name": "gastly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
+    "id": 124,
+    "name": "jynx",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png",
     "types": [
-      "ghost",
-      "poison"
+      "ice",
+      "psychic"
     ],
-    "totalStats": 310,
-    "grade": "N",
-    "pulledAt": "2026-09-23T15:35:08.130Z"
+    "totalStats": 455,
+    "grade": "R",
+    "pulledAt": "2026-09-23T19:12:19.855Z"
   },
   "pulls": [
+    {
+      "id": 124,
+      "name": "jynx",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png",
+      "types": [
+        "ice",
+        "psychic"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-09-23T19:12:19.855Z"
+    },
     {
       "id": 92,
       "name": "gastly",
@@ -121,18 +133,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-09-22T07:13:10.588Z"
-    },
-    {
-      "id": 472,
-      "name": "gliscor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png",
-      "types": [
-        "ground",
-        "flying"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-09-22T01:55:45.520Z"
     }
   ],
   "pokemon": {
@@ -259,6 +259,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T18:31:46.271Z",
       "lastPulledAt": "2026-09-18T18:31:46.271Z"
+    },
+    "124": {
+      "id": 124,
+      "name": "jynx",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png",
+      "types": [
+        "ice",
+        "psychic"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-09-23T19:12:19.855Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T19:12:19.855Z",
+      "lastPulledAt": "2026-09-23T19:12:19.855Z"
     },
     "145": {
       "id": 145,
