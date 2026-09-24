@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 59,
-  "updatedAt": "2026-09-23T22:20:00.470Z",
+  "totalPulls": 60,
+  "updatedAt": "2026-09-24T00:35:50.210Z",
   "lastPull": {
-    "id": 802,
-    "name": "marshadow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png",
+    "id": 603,
+    "name": "eelektrik",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png",
     "types": [
-      "fighting",
-      "ghost"
+      "electric"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-23T22:20:00.470Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-09-24T00:35:50.210Z"
   },
   "pulls": [
+    {
+      "id": 603,
+      "name": "eelektrik",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-09-24T00:35:50.210Z"
+    },
     {
       "id": 802,
       "name": "marshadow",
@@ -122,17 +132,6 @@
       "totalStats": 245,
       "grade": "N",
       "pulledAt": "2026-09-22T17:16:14.225Z"
-    },
-    {
-      "id": 815,
-      "name": "cinderace",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-09-22T12:38:45.506Z"
     }
   ],
   "pokemon": {
@@ -587,6 +586,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T16:59:46.184Z",
       "lastPulledAt": "2026-09-21T16:59:46.184Z"
+    },
+    "603": {
+      "id": 603,
+      "name": "eelektrik",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-09-24T00:35:50.210Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T00:35:50.210Z",
+      "lastPulledAt": "2026-09-24T00:35:50.210Z"
     },
     "614": {
       "id": 614,
