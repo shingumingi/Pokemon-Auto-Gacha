@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 63,
-  "updatedAt": "2026-09-24T15:10:45.063Z",
+  "totalPulls": 64,
+  "updatedAt": "2026-09-24T19:13:34.628Z",
   "lastPull": {
-    "id": 468,
-    "name": "togekiss",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
+    "id": 10,
+    "name": "caterpie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
     "types": [
-      "fairy",
-      "flying"
+      "bug"
     ],
-    "totalStats": 545,
-    "grade": "SR",
-    "pulledAt": "2026-09-24T15:10:45.063Z"
+    "totalStats": 195,
+    "grade": "N",
+    "pulledAt": "2026-09-24T19:13:34.628Z"
   },
   "pulls": [
+    {
+      "id": 10,
+      "name": "caterpie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 195,
+      "grade": "N",
+      "pulledAt": "2026-09-24T19:13:34.628Z"
+    },
     {
       "id": 468,
       "name": "togekiss",
@@ -121,21 +131,24 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-09-23T06:14:59.676Z"
-    },
-    {
-      "id": 145,
-      "name": "zapdos",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png",
-      "types": [
-        "electric",
-        "flying"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-09-23T01:21:03.668Z"
     }
   ],
   "pokemon": {
+    "10": {
+      "id": 10,
+      "name": "caterpie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 195,
+      "grade": "N",
+      "pulledAt": "2026-09-24T19:13:34.628Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T19:13:34.628Z",
+      "lastPulledAt": "2026-09-24T19:13:34.628Z"
+    },
     "36": {
       "id": 36,
       "name": "clefable",
