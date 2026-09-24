@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 62,
-  "updatedAt": "2026-09-24T10:12:11.322Z",
+  "totalPulls": 63,
+  "updatedAt": "2026-09-24T15:10:45.063Z",
   "lastPull": {
-    "id": 1025,
-    "name": "pecharunt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1025.png",
+    "id": 468,
+    "name": "togekiss",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
     "types": [
-      "poison",
-      "ghost"
+      "fairy",
+      "flying"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-24T10:12:11.322Z"
+    "totalStats": 545,
+    "grade": "SR",
+    "pulledAt": "2026-09-24T15:10:45.063Z"
   },
   "pulls": [
+    {
+      "id": 468,
+      "name": "togekiss",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
+      "types": [
+        "fairy",
+        "flying"
+      ],
+      "totalStats": 545,
+      "grade": "SR",
+      "pulledAt": "2026-09-24T15:10:45.063Z"
+    },
     {
       "id": 1025,
       "name": "pecharunt",
@@ -121,18 +133,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-09-23T01:21:03.668Z"
-    },
-    {
-      "id": 929,
-      "name": "dolliv",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png",
-      "types": [
-        "grass",
-        "normal"
-      ],
-      "totalStats": 354,
-      "grade": "N",
-      "pulledAt": "2026-09-22T22:59:19.988Z"
     }
   ],
   "pokemon": {
@@ -524,6 +524,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T19:21:54.581Z",
       "lastPulledAt": "2026-09-16T19:21:54.581Z"
+    },
+    "468": {
+      "id": 468,
+      "name": "togekiss",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
+      "types": [
+        "fairy",
+        "flying"
+      ],
+      "totalStats": 545,
+      "grade": "SR",
+      "pulledAt": "2026-09-24T15:10:45.063Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T15:10:45.063Z",
+      "lastPulledAt": "2026-09-24T15:10:45.063Z"
     },
     "472": {
       "id": 472,
