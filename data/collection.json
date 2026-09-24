@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 64,
-  "updatedAt": "2026-09-24T19:13:34.628Z",
+  "totalPulls": 65,
+  "updatedAt": "2026-09-24T22:27:22.181Z",
   "lastPull": {
-    "id": 10,
-    "name": "caterpie",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
+    "id": 767,
+    "name": "wimpod",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/767.png",
     "types": [
-      "bug"
+      "bug",
+      "water"
     ],
-    "totalStats": 195,
+    "totalStats": 230,
     "grade": "N",
-    "pulledAt": "2026-09-24T19:13:34.628Z"
+    "pulledAt": "2026-09-24T22:27:22.181Z"
   },
   "pulls": [
+    {
+      "id": 767,
+      "name": "wimpod",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/767.png",
+      "types": [
+        "bug",
+        "water"
+      ],
+      "totalStats": 230,
+      "grade": "N",
+      "pulledAt": "2026-09-24T22:27:22.181Z"
+    },
     {
       "id": 10,
       "name": "caterpie",
@@ -119,18 +132,6 @@
       "totalStats": 280,
       "grade": "N",
       "pulledAt": "2026-09-23T11:43:36.730Z"
-    },
-    {
-      "id": 169,
-      "name": "crobat",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png",
-      "types": [
-        "poison",
-        "flying"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-09-23T06:14:59.676Z"
     }
   ],
   "pokemon": {
@@ -787,6 +788,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T11:53:25.165Z",
       "lastPulledAt": "2026-09-16T11:53:25.165Z"
+    },
+    "767": {
+      "id": 767,
+      "name": "wimpod",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/767.png",
+      "types": [
+        "bug",
+        "water"
+      ],
+      "totalStats": 230,
+      "grade": "N",
+      "pulledAt": "2026-09-24T22:27:22.181Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T22:27:22.181Z",
+      "lastPulledAt": "2026-09-24T22:27:22.181Z"
     },
     "770": {
       "id": 770,
