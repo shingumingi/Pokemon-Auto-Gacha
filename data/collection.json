@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 69,
-  "updatedAt": "2026-09-25T15:23:08.206Z",
+  "totalPulls": 70,
+  "updatedAt": "2026-09-25T19:23:08.819Z",
   "lastPull": {
-    "id": 237,
-    "name": "hitmontop",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png",
+    "id": 165,
+    "name": "ledyba",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/165.png",
     "types": [
-      "fighting"
+      "bug",
+      "flying"
     ],
-    "totalStats": 455,
-    "grade": "R",
-    "pulledAt": "2026-09-25T15:23:08.206Z"
+    "totalStats": 265,
+    "grade": "N",
+    "pulledAt": "2026-09-25T19:23:08.819Z"
   },
   "pulls": [
+    {
+      "id": 165,
+      "name": "ledyba",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/165.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 265,
+      "grade": "N",
+      "pulledAt": "2026-09-25T19:23:08.819Z"
+    },
     {
       "id": 237,
       "name": "hitmontop",
@@ -119,17 +132,6 @@
       "totalStats": 185,
       "grade": "N",
       "pulledAt": "2026-09-24T05:19:37.368Z"
-    },
-    {
-      "id": 603,
-      "name": "eelektrik",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-09-24T00:35:50.210Z"
     }
   ],
   "pokemon": {
@@ -318,6 +320,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T23:47:37.879Z",
       "lastPulledAt": "2026-09-21T23:47:37.879Z"
+    },
+    "165": {
+      "id": 165,
+      "name": "ledyba",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/165.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 265,
+      "grade": "N",
+      "pulledAt": "2026-09-25T19:23:08.819Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T19:23:08.819Z",
+      "lastPulledAt": "2026-09-25T19:23:08.819Z"
     },
     "169": {
       "id": 169,
