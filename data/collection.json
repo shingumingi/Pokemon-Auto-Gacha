@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 66,
-  "updatedAt": "2026-09-25T00:40:28.872Z",
+  "totalPulls": 67,
+  "updatedAt": "2026-09-25T05:26:53.553Z",
   "lastPull": {
-    "id": 423,
-    "name": "gastrodon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/423.png",
+    "id": 625,
+    "name": "bisharp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png",
     "types": [
-      "water",
-      "ground"
+      "dark",
+      "steel"
     ],
-    "totalStats": 475,
+    "totalStats": 490,
     "grade": "R",
-    "pulledAt": "2026-09-25T00:40:28.872Z"
+    "pulledAt": "2026-09-25T05:26:53.553Z"
   },
   "pulls": [
+    {
+      "id": 625,
+      "name": "bisharp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png",
+      "types": [
+        "dark",
+        "steel"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-25T05:26:53.553Z"
+    },
     {
       "id": 423,
       "name": "gastrodon",
@@ -120,18 +132,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-09-23T19:12:19.855Z"
-    },
-    {
-      "id": 92,
-      "name": "gastly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
-      "types": [
-        "ghost",
-        "poison"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-09-23T15:35:08.130Z"
     }
   ],
   "pokemon": {
@@ -663,6 +663,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T20:52:05.558Z",
       "lastPulledAt": "2026-09-20T20:52:05.558Z"
+    },
+    "625": {
+      "id": 625,
+      "name": "bisharp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png",
+      "types": [
+        "dark",
+        "steel"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-25T05:26:53.553Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T05:26:53.553Z",
+      "lastPulledAt": "2026-09-25T05:26:53.553Z"
     },
     "627": {
       "id": 627,
