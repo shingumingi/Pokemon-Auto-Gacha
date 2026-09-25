@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 68,
-  "updatedAt": "2026-09-25T10:24:19.265Z",
+  "totalPulls": 69,
+  "updatedAt": "2026-09-25T15:23:08.206Z",
   "lastPull": {
-    "id": 609,
-    "name": "chandelure",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
+    "id": 237,
+    "name": "hitmontop",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png",
     "types": [
-      "ghost",
-      "fire"
+      "fighting"
     ],
-    "totalStats": 520,
-    "grade": "SR",
-    "pulledAt": "2026-09-25T10:24:19.265Z"
+    "totalStats": 455,
+    "grade": "R",
+    "pulledAt": "2026-09-25T15:23:08.206Z"
   },
   "pulls": [
+    {
+      "id": 237,
+      "name": "hitmontop",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-09-25T15:23:08.206Z"
+    },
     {
       "id": 609,
       "name": "chandelure",
@@ -120,18 +130,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-09-24T00:35:50.210Z"
-    },
-    {
-      "id": 802,
-      "name": "marshadow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png",
-      "types": [
-        "fighting",
-        "ghost"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-23T22:20:00.470Z"
     }
   ],
   "pokemon": {
@@ -382,6 +380,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T05:17:51.963Z",
       "lastPulledAt": "2026-09-17T05:17:51.963Z"
+    },
+    "237": {
+      "id": 237,
+      "name": "hitmontop",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-09-25T15:23:08.206Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T15:23:08.206Z",
+      "lastPulledAt": "2026-09-25T15:23:08.206Z"
     },
     "240": {
       "id": 240,
