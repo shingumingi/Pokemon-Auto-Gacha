@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 71,
-  "updatedAt": "2026-09-25T22:35:09.830Z",
+  "totalPulls": 72,
+  "updatedAt": "2026-09-26T00:50:43.249Z",
   "lastPull": {
-    "id": 588,
-    "name": "karrablast",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/588.png",
+    "id": 121,
+    "name": "starmie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
     "types": [
-      "bug"
+      "water",
+      "psychic"
     ],
-    "totalStats": 315,
-    "grade": "N",
-    "pulledAt": "2026-09-25T22:35:09.830Z"
+    "totalStats": 520,
+    "grade": "SR",
+    "pulledAt": "2026-09-26T00:50:43.249Z"
   },
   "pulls": [
+    {
+      "id": 121,
+      "name": "starmie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-09-26T00:50:43.249Z"
+    },
     {
       "id": 588,
       "name": "karrablast",
@@ -118,18 +131,6 @@
       "totalStats": 545,
       "grade": "SR",
       "pulledAt": "2026-09-24T15:10:45.063Z"
-    },
-    {
-      "id": 1025,
-      "name": "pecharunt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1025.png",
-      "types": [
-        "poison",
-        "ghost"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-24T10:12:11.322Z"
     }
   ],
   "pokemon": {
@@ -271,6 +272,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T18:31:46.271Z",
       "lastPulledAt": "2026-09-18T18:31:46.271Z"
+    },
+    "121": {
+      "id": 121,
+      "name": "starmie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-09-26T00:50:43.249Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T00:50:43.249Z",
+      "lastPulledAt": "2026-09-26T00:50:43.249Z"
     },
     "124": {
       "id": 124,
