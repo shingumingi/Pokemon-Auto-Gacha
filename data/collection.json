@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 73,
-  "updatedAt": "2026-09-26T05:44:53.641Z",
+  "totalPulls": 74,
+  "updatedAt": "2026-09-26T10:18:24.149Z",
   "lastPull": {
-    "id": 649,
-    "name": "genesect",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png",
+    "id": 382,
+    "name": "kyogre",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
     "types": [
-      "bug",
-      "steel"
+      "water"
     ],
-    "totalStats": 600,
+    "totalStats": 670,
     "grade": "SSR",
-    "pulledAt": "2026-09-26T05:44:53.641Z"
+    "pulledAt": "2026-09-26T10:18:24.149Z"
   },
   "pulls": [
+    {
+      "id": 382,
+      "name": "kyogre",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 670,
+      "grade": "SSR",
+      "pulledAt": "2026-09-26T10:18:24.149Z"
+    },
     {
       "id": 649,
       "name": "genesect",
@@ -120,17 +130,6 @@
       "totalStats": 230,
       "grade": "N",
       "pulledAt": "2026-09-24T22:27:22.181Z"
-    },
-    {
-      "id": 10,
-      "name": "caterpie",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 195,
-      "grade": "N",
-      "pulledAt": "2026-09-24T19:13:34.628Z"
     }
   ],
   "pokemon": {
@@ -521,6 +520,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T11:46:14.695Z",
       "lastPulledAt": "2026-09-18T15:12:14.198Z"
+    },
+    "382": {
+      "id": 382,
+      "name": "kyogre",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 670,
+      "grade": "SSR",
+      "pulledAt": "2026-09-26T10:18:24.149Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T10:18:24.149Z",
+      "lastPulledAt": "2026-09-26T10:18:24.149Z"
     },
     "383": {
       "id": 383,
