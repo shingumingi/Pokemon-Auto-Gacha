@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 76,
-  "updatedAt": "2026-09-26T17:58:45.826Z",
+  "totalPulls": 77,
+  "updatedAt": "2026-09-26T20:50:06.948Z",
   "lastPull": {
-    "id": 137,
-    "name": "porygon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
+    "id": 190,
+    "name": "aipom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
     "types": [
       "normal"
     ],
-    "totalStats": 395,
+    "totalStats": 360,
     "grade": "N",
-    "pulledAt": "2026-09-26T17:58:45.826Z"
+    "pulledAt": "2026-09-26T20:50:06.948Z"
   },
   "pulls": [
+    {
+      "id": 190,
+      "name": "aipom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-09-26T20:50:06.948Z"
+    },
     {
       "id": 137,
       "name": "porygon",
@@ -116,18 +127,6 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-09-25T10:24:19.265Z"
-    },
-    {
-      "id": 625,
-      "name": "bisharp",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png",
-      "types": [
-        "dark",
-        "steel"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-09-25T05:26:53.553Z"
     }
   ],
   "pokemon": {
@@ -379,6 +378,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T06:14:59.676Z",
       "lastPulledAt": "2026-09-23T06:14:59.676Z"
+    },
+    "190": {
+      "id": 190,
+      "name": "aipom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-09-26T20:50:06.948Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T20:50:06.948Z",
+      "lastPulledAt": "2026-09-26T20:50:06.948Z"
     },
     "191": {
       "id": 191,
