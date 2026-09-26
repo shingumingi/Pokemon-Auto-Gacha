@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 77,
-  "updatedAt": "2026-09-26T20:50:06.948Z",
+  "totalPulls": 78,
+  "updatedAt": "2026-09-26T23:12:09.200Z",
   "lastPull": {
-    "id": 190,
-    "name": "aipom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
+    "id": 251,
+    "name": "celebi",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
     "types": [
-      "normal"
+      "psychic",
+      "grass"
     ],
-    "totalStats": 360,
-    "grade": "N",
-    "pulledAt": "2026-09-26T20:50:06.948Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-26T23:12:09.200Z"
   },
   "pulls": [
+    {
+      "id": 251,
+      "name": "celebi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
+      "types": [
+        "psychic",
+        "grass"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-26T23:12:09.200Z"
+    },
     {
       "id": 190,
       "name": "aipom",
@@ -115,18 +128,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-09-25T15:23:08.206Z"
-    },
-    {
-      "id": 609,
-      "name": "chandelure",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
-      "types": [
-        "ghost",
-        "fire"
-      ],
-      "totalStats": 520,
-      "grade": "SR",
-      "pulledAt": "2026-09-25T10:24:19.265Z"
     }
   ],
   "pokemon": {
@@ -469,6 +470,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T05:33:04.500Z",
       "lastPulledAt": "2026-09-21T05:33:04.500Z"
+    },
+    "251": {
+      "id": 251,
+      "name": "celebi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
+      "types": [
+        "psychic",
+        "grass"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-26T23:12:09.200Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T23:12:09.200Z",
+      "lastPulledAt": "2026-09-26T23:12:09.200Z"
     },
     "286": {
       "id": 286,
