@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 72,
-  "updatedAt": "2026-09-26T00:50:43.249Z",
+  "totalPulls": 73,
+  "updatedAt": "2026-09-26T05:44:53.641Z",
   "lastPull": {
-    "id": 121,
-    "name": "starmie",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
+    "id": 649,
+    "name": "genesect",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png",
     "types": [
-      "water",
-      "psychic"
+      "bug",
+      "steel"
     ],
-    "totalStats": 520,
-    "grade": "SR",
-    "pulledAt": "2026-09-26T00:50:43.249Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-26T05:44:53.641Z"
   },
   "pulls": [
+    {
+      "id": 649,
+      "name": "genesect",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-26T05:44:53.641Z"
+    },
     {
       "id": 121,
       "name": "starmie",
@@ -119,18 +131,6 @@
       "totalStats": 195,
       "grade": "N",
       "pulledAt": "2026-09-24T19:13:34.628Z"
-    },
-    {
-      "id": 468,
-      "name": "togekiss",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
-      "types": [
-        "fairy",
-        "flying"
-      ],
-      "totalStats": 545,
-      "grade": "SR",
-      "pulledAt": "2026-09-24T15:10:45.063Z"
     }
   ],
   "pokemon": {
@@ -788,6 +788,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T06:36:06.545Z",
       "lastPulledAt": "2026-09-18T06:36:06.545Z"
+    },
+    "649": {
+      "id": 649,
+      "name": "genesect",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-26T05:44:53.641Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T05:44:53.641Z",
+      "lastPulledAt": "2026-09-26T05:44:53.641Z"
     },
     "654": {
       "id": 654,
