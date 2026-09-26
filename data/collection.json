@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 74,
-  "updatedAt": "2026-09-26T10:18:24.149Z",
+  "totalPulls": 75,
+  "updatedAt": "2026-09-26T14:34:04.121Z",
   "lastPull": {
-    "id": 382,
-    "name": "kyogre",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
+    "id": 359,
+    "name": "absol",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/359.png",
     "types": [
-      "water"
+      "dark"
     ],
-    "totalStats": 670,
-    "grade": "SSR",
-    "pulledAt": "2026-09-26T10:18:24.149Z"
+    "totalStats": 465,
+    "grade": "R",
+    "pulledAt": "2026-09-26T14:34:04.121Z"
   },
   "pulls": [
+    {
+      "id": 359,
+      "name": "absol",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/359.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 465,
+      "grade": "R",
+      "pulledAt": "2026-09-26T14:34:04.121Z"
+    },
     {
       "id": 382,
       "name": "kyogre",
@@ -118,18 +129,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-09-25T00:40:28.872Z"
-    },
-    {
-      "id": 767,
-      "name": "wimpod",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/767.png",
-      "types": [
-        "bug",
-        "water"
-      ],
-      "totalStats": 230,
-      "grade": "N",
-      "pulledAt": "2026-09-24T22:27:22.181Z"
     }
   ],
   "pokemon": {
@@ -489,6 +488,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T01:34:24.389Z",
       "lastPulledAt": "2026-09-18T01:34:24.389Z"
+    },
+    "359": {
+      "id": 359,
+      "name": "absol",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/359.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 465,
+      "grade": "R",
+      "pulledAt": "2026-09-26T14:34:04.121Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T14:34:04.121Z",
+      "lastPulledAt": "2026-09-26T14:34:04.121Z"
     },
     "361": {
       "id": 361,
