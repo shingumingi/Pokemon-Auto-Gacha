@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 79,
-  "updatedAt": "2026-09-27T01:30:58.338Z",
+  "totalPulls": 80,
+  "updatedAt": "2026-09-27T07:03:45.283Z",
   "lastPull": {
-    "id": 469,
-    "name": "yanmega",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/469.png",
+    "id": 1003,
+    "name": "ting-lu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png",
     "types": [
-      "bug",
-      "flying"
+      "dark",
+      "ground"
     ],
-    "totalStats": 515,
+    "totalStats": 570,
     "grade": "SR",
-    "pulledAt": "2026-09-27T01:30:58.338Z"
+    "pulledAt": "2026-09-27T07:03:45.283Z"
   },
   "pulls": [
+    {
+      "id": 1003,
+      "name": "ting-lu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png",
+      "types": [
+        "dark",
+        "ground"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-27T07:03:45.283Z"
+    },
     {
       "id": 469,
       "name": "yanmega",
@@ -117,18 +129,6 @@
       "totalStats": 315,
       "grade": "N",
       "pulledAt": "2026-09-25T22:35:09.830Z"
-    },
-    {
-      "id": 165,
-      "name": "ledyba",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/165.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 265,
-      "grade": "N",
-      "pulledAt": "2026-09-25T19:23:08.819Z"
     }
   ],
   "pokemon": {
@@ -1305,6 +1305,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T20:13:21.937Z",
       "lastPulledAt": "2026-09-22T20:13:21.937Z"
+    },
+    "1003": {
+      "id": 1003,
+      "name": "ting-lu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png",
+      "types": [
+        "dark",
+        "ground"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-27T07:03:45.283Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T07:03:45.283Z",
+      "lastPulledAt": "2026-09-27T07:03:45.283Z"
     },
     "1006": {
       "id": 1006,
