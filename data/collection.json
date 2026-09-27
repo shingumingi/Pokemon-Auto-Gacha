@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 80,
-  "updatedAt": "2026-09-27T07:03:45.283Z",
+  "totalPulls": 81,
+  "updatedAt": "2026-09-27T12:57:17.008Z",
   "lastPull": {
-    "id": 1003,
-    "name": "ting-lu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png",
+    "id": 529,
+    "name": "drilbur",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
     "types": [
-      "dark",
       "ground"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-09-27T07:03:45.283Z"
+    "totalStats": 328,
+    "grade": "N",
+    "pulledAt": "2026-09-27T12:57:17.008Z"
   },
   "pulls": [
+    {
+      "id": 529,
+      "name": "drilbur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 328,
+      "grade": "N",
+      "pulledAt": "2026-09-27T12:57:17.008Z"
+    },
     {
       "id": 1003,
       "name": "ting-lu",
@@ -118,17 +128,6 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-09-26T00:50:43.249Z"
-    },
-    {
-      "id": 588,
-      "name": "karrablast",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/588.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 315,
-      "grade": "N",
-      "pulledAt": "2026-09-25T22:35:09.830Z"
     }
   ],
   "pokemon": {
@@ -722,6 +721,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T01:55:45.520Z",
       "lastPulledAt": "2026-09-22T01:55:45.520Z"
+    },
+    "529": {
+      "id": 529,
+      "name": "drilbur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 328,
+      "grade": "N",
+      "pulledAt": "2026-09-27T12:57:17.008Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T12:57:17.008Z",
+      "lastPulledAt": "2026-09-27T12:57:17.008Z"
     },
     "540": {
       "id": 540,
