@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 82,
-  "updatedAt": "2026-09-27T17:32:11.249Z",
+  "totalPulls": 83,
+  "updatedAt": "2026-09-27T20:22:23.987Z",
   "lastPull": {
-    "id": 751,
-    "name": "dewpider",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
+    "id": 71,
+    "name": "victreebel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png",
     "types": [
-      "water",
-      "bug"
+      "grass",
+      "poison"
     ],
-    "totalStats": 269,
-    "grade": "N",
-    "pulledAt": "2026-09-27T17:32:11.249Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-09-27T20:22:23.987Z"
   },
   "pulls": [
+    {
+      "id": 71,
+      "name": "victreebel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-27T20:22:23.987Z"
+    },
     {
       "id": 751,
       "name": "dewpider",
@@ -117,18 +129,6 @@
       "totalStats": 670,
       "grade": "SSR",
       "pulledAt": "2026-09-26T10:18:24.149Z"
-    },
-    {
-      "id": 649,
-      "name": "genesect",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png",
-      "types": [
-        "bug",
-        "steel"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-26T05:44:53.641Z"
     }
   ],
   "pokemon": {
@@ -208,6 +208,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T17:21:02.180Z",
       "lastPulledAt": "2026-09-19T17:21:02.180Z"
+    },
+    "71": {
+      "id": 71,
+      "name": "victreebel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-27T20:22:23.987Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T20:22:23.987Z",
+      "lastPulledAt": "2026-09-27T20:22:23.987Z"
     },
     "81": {
       "id": 81,
