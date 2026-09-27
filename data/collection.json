@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 81,
-  "updatedAt": "2026-09-27T12:57:17.008Z",
+  "totalPulls": 82,
+  "updatedAt": "2026-09-27T17:32:11.249Z",
   "lastPull": {
-    "id": 529,
-    "name": "drilbur",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
+    "id": 751,
+    "name": "dewpider",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
     "types": [
-      "ground"
+      "water",
+      "bug"
     ],
-    "totalStats": 328,
+    "totalStats": 269,
     "grade": "N",
-    "pulledAt": "2026-09-27T12:57:17.008Z"
+    "pulledAt": "2026-09-27T17:32:11.249Z"
   },
   "pulls": [
+    {
+      "id": 751,
+      "name": "dewpider",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
+      "types": [
+        "water",
+        "bug"
+      ],
+      "totalStats": 269,
+      "grade": "N",
+      "pulledAt": "2026-09-27T17:32:11.249Z"
+    },
     {
       "id": 529,
       "name": "drilbur",
@@ -116,18 +129,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-26T05:44:53.641Z"
-    },
-    {
-      "id": 121,
-      "name": "starmie",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
-      "types": [
-        "water",
-        "psychic"
-      ],
-      "totalStats": 520,
-      "grade": "SR",
-      "pulledAt": "2026-09-26T00:50:43.249Z"
     }
   ],
   "pokemon": {
@@ -1001,6 +1002,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:45:11.071Z",
       "lastPulledAt": "2026-09-16T01:45:11.071Z"
+    },
+    "751": {
+      "id": 751,
+      "name": "dewpider",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
+      "types": [
+        "water",
+        "bug"
+      ],
+      "totalStats": 269,
+      "grade": "N",
+      "pulledAt": "2026-09-27T17:32:11.249Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T17:32:11.249Z",
+      "lastPulledAt": "2026-09-27T17:32:11.249Z"
     },
     "755": {
       "id": 755,
