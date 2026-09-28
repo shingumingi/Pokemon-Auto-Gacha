@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 87,
-  "updatedAt": "2026-09-28T16:01:20.605Z",
+  "totalPulls": 88,
+  "updatedAt": "2026-09-28T21:53:18.119Z",
   "lastPull": {
-    "id": 234,
-    "name": "stantler",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/234.png",
+    "id": 223,
+    "name": "remoraid",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/223.png",
     "types": [
-      "normal"
+      "water"
     ],
-    "totalStats": 465,
-    "grade": "R",
-    "pulledAt": "2026-09-28T16:01:20.605Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-09-28T21:53:18.119Z"
   },
   "pulls": [
+    {
+      "id": 223,
+      "name": "remoraid",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/223.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-28T21:53:18.119Z"
+    },
     {
       "id": 234,
       "name": "stantler",
@@ -118,18 +129,6 @@
       "totalStats": 515,
       "grade": "SR",
       "pulledAt": "2026-09-27T01:30:58.338Z"
-    },
-    {
-      "id": 251,
-      "name": "celebi",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
-      "types": [
-        "psychic",
-        "grass"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-26T23:12:09.200Z"
     }
   ],
   "pokemon": {
@@ -459,6 +458,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T10:05:02.966Z",
       "lastPulledAt": "2026-09-17T10:05:02.966Z"
+    },
+    "223": {
+      "id": 223,
+      "name": "remoraid",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/223.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-28T21:53:18.119Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T21:53:18.119Z",
+      "lastPulledAt": "2026-09-28T21:53:18.119Z"
     },
     "234": {
       "id": 234,
