@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 85,
-  "updatedAt": "2026-09-28T01:42:25.109Z",
+  "totalPulls": 86,
+  "updatedAt": "2026-09-28T07:42:05.997Z",
   "lastPull": {
-    "id": 183,
-    "name": "marill",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png",
+    "id": 579,
+    "name": "reuniclus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/579.png",
     "types": [
-      "water",
-      "fairy"
+      "psychic"
     ],
-    "totalStats": 250,
-    "grade": "N",
-    "pulledAt": "2026-09-28T01:42:25.109Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-09-28T07:42:05.997Z"
   },
   "pulls": [
+    {
+      "id": 579,
+      "name": "reuniclus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/579.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-28T07:42:05.997Z"
+    },
     {
       "id": 183,
       "name": "marill",
@@ -120,17 +130,6 @@
       "totalStats": 360,
       "grade": "N",
       "pulledAt": "2026-09-26T20:50:06.948Z"
-    },
-    {
-      "id": 137,
-      "name": "porygon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 395,
-      "grade": "N",
-      "pulledAt": "2026-09-26T17:58:45.826Z"
     }
   ],
   "pokemon": {
@@ -818,6 +817,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T16:59:46.184Z",
       "lastPulledAt": "2026-09-21T16:59:46.184Z"
+    },
+    "579": {
+      "id": 579,
+      "name": "reuniclus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/579.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-28T07:42:05.997Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T07:42:05.997Z",
+      "lastPulledAt": "2026-09-28T07:42:05.997Z"
     },
     "588": {
       "id": 588,
