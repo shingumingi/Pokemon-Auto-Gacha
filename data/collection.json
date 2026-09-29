@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 90,
-  "updatedAt": "2026-09-29T07:10:44.323Z",
+  "totalPulls": 91,
+  "updatedAt": "2026-09-29T14:06:21.500Z",
   "lastPull": {
-    "id": 121,
-    "name": "starmie",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
+    "id": 502,
+    "name": "dewott",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png",
     "types": [
-      "water",
-      "psychic"
+      "water"
     ],
-    "totalStats": 520,
-    "grade": "SR",
-    "pulledAt": "2026-09-29T07:10:44.323Z"
+    "totalStats": 413,
+    "grade": "R",
+    "pulledAt": "2026-09-29T14:06:21.500Z"
   },
   "pulls": [
+    {
+      "id": 502,
+      "name": "dewott",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 413,
+      "grade": "R",
+      "pulledAt": "2026-09-29T14:06:21.500Z"
+    },
     {
       "id": 121,
       "name": "starmie",
@@ -119,17 +129,6 @@
       "totalStats": 269,
       "grade": "N",
       "pulledAt": "2026-09-27T17:32:11.249Z"
-    },
-    {
-      "id": 529,
-      "name": "drilbur",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 328,
-      "grade": "N",
-      "pulledAt": "2026-09-27T12:57:17.008Z"
     }
   ],
   "pokemon": {
@@ -785,6 +784,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T01:55:45.520Z",
       "lastPulledAt": "2026-09-22T01:55:45.520Z"
+    },
+    "502": {
+      "id": 502,
+      "name": "dewott",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 413,
+      "grade": "R",
+      "pulledAt": "2026-09-29T14:06:21.500Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T14:06:21.500Z",
+      "lastPulledAt": "2026-09-29T14:06:21.500Z"
     },
     "529": {
       "id": 529,
