@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 92,
-  "updatedAt": "2026-09-29T19:21:50.972Z",
+  "totalPulls": 93,
+  "updatedAt": "2026-09-29T23:04:30.976Z",
   "lastPull": {
-    "id": 432,
-    "name": "purugly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png",
+    "id": 848,
+    "name": "toxel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png",
     "types": [
-      "normal"
+      "electric",
+      "poison"
     ],
-    "totalStats": 452,
-    "grade": "R",
-    "pulledAt": "2026-09-29T19:21:50.972Z"
+    "totalStats": 242,
+    "grade": "N",
+    "pulledAt": "2026-09-29T23:04:30.976Z"
   },
   "pulls": [
+    {
+      "id": 848,
+      "name": "toxel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png",
+      "types": [
+        "electric",
+        "poison"
+      ],
+      "totalStats": 242,
+      "grade": "N",
+      "pulledAt": "2026-09-29T23:04:30.976Z"
+    },
     {
       "id": 432,
       "name": "purugly",
@@ -116,18 +129,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-09-27T23:12:38.358Z"
-    },
-    {
-      "id": 71,
-      "name": "victreebel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-09-27T20:22:23.987Z"
     }
   ],
   "pokemon": {
@@ -1251,6 +1252,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T12:38:45.506Z",
       "lastPulledAt": "2026-09-22T12:38:45.506Z"
+    },
+    "848": {
+      "id": 848,
+      "name": "toxel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png",
+      "types": [
+        "electric",
+        "poison"
+      ],
+      "totalStats": 242,
+      "grade": "N",
+      "pulledAt": "2026-09-29T23:04:30.976Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T23:04:30.976Z",
+      "lastPulledAt": "2026-09-29T23:04:30.976Z"
     },
     "861": {
       "id": 861,
