@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 88,
-  "updatedAt": "2026-09-28T21:53:18.119Z",
+  "totalPulls": 89,
+  "updatedAt": "2026-09-29T01:23:37.993Z",
   "lastPull": {
-    "id": 223,
-    "name": "remoraid",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/223.png",
+    "id": 786,
+    "name": "tapu-lele",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
     "types": [
-      "water"
+      "psychic",
+      "fairy"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-09-28T21:53:18.119Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-09-29T01:23:37.993Z"
   },
   "pulls": [
+    {
+      "id": 786,
+      "name": "tapu-lele",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-29T01:23:37.993Z"
+    },
     {
       "id": 223,
       "name": "remoraid",
@@ -117,18 +130,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-09-27T07:03:45.283Z"
-    },
-    {
-      "id": 469,
-      "name": "yanmega",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/469.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 515,
-      "grade": "SR",
-      "pulledAt": "2026-09-27T01:30:58.338Z"
     }
   ],
   "pokemon": {
@@ -1159,6 +1160,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T21:12:34.119Z",
       "lastPulledAt": "2026-09-18T21:12:34.119Z"
+    },
+    "786": {
+      "id": 786,
+      "name": "tapu-lele",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-29T01:23:37.993Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T01:23:37.993Z",
+      "lastPulledAt": "2026-09-29T01:23:37.993Z"
     },
     "802": {
       "id": 802,
