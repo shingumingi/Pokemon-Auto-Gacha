@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 89,
-  "updatedAt": "2026-09-29T01:23:37.993Z",
+  "totalPulls": 90,
+  "updatedAt": "2026-09-29T07:10:44.323Z",
   "lastPull": {
-    "id": 786,
-    "name": "tapu-lele",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
+    "id": 121,
+    "name": "starmie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
     "types": [
-      "psychic",
-      "fairy"
+      "water",
+      "psychic"
     ],
-    "totalStats": 570,
+    "totalStats": 520,
     "grade": "SR",
-    "pulledAt": "2026-09-29T01:23:37.993Z"
+    "pulledAt": "2026-09-29T07:10:44.323Z"
   },
   "pulls": [
+    {
+      "id": 121,
+      "name": "starmie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-09-29T07:10:44.323Z"
+    },
     {
       "id": 786,
       "name": "tapu-lele",
@@ -118,18 +130,6 @@
       "totalStats": 328,
       "grade": "N",
       "pulledAt": "2026-09-27T12:57:17.008Z"
-    },
-    {
-      "id": 1003,
-      "name": "ting-lu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png",
-      "types": [
-        "dark",
-        "ground"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-09-27T07:03:45.283Z"
     }
   ],
   "pokemon": {
@@ -299,10 +299,10 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-09-26T00:50:43.249Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T00:50:43.249Z",
-      "lastPulledAt": "2026-09-26T00:50:43.249Z"
+      "lastPulledAt": "2026-09-29T07:10:44.323Z"
     },
     "124": {
       "id": 124,
