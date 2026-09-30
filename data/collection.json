@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 94,
-  "updatedAt": "2026-09-30T02:02:28.003Z",
+  "totalPulls": 95,
+  "updatedAt": "2026-09-30T08:24:39.590Z",
   "lastPull": {
-    "id": 383,
-    "name": "groudon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png",
+    "id": 477,
+    "name": "dusknoir",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png",
     "types": [
-      "ground"
+      "ghost"
     ],
-    "totalStats": 670,
-    "grade": "SSR",
-    "pulledAt": "2026-09-30T02:02:28.003Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-09-30T08:24:39.590Z"
   },
   "pulls": [
+    {
+      "id": 477,
+      "name": "dusknoir",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T08:24:39.590Z"
+    },
     {
       "id": 383,
       "name": "groudon",
@@ -115,18 +126,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-09-28T07:42:05.997Z"
-    },
-    {
-      "id": 183,
-      "name": "marill",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png",
-      "types": [
-        "water",
-        "fairy"
-      ],
-      "totalStats": 250,
-      "grade": "N",
-      "pulledAt": "2026-09-28T01:42:25.109Z"
     }
   ],
   "pokemon": {
@@ -797,6 +796,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T01:55:45.520Z",
       "lastPulledAt": "2026-09-22T01:55:45.520Z"
+    },
+    "477": {
+      "id": 477,
+      "name": "dusknoir",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T08:24:39.590Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T08:24:39.590Z",
+      "lastPulledAt": "2026-09-30T08:24:39.590Z"
     },
     "502": {
       "id": 502,
