@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 97,
-  "updatedAt": "2026-09-30T19:57:07.545Z",
+  "totalPulls": 98,
+  "updatedAt": "2026-09-30T23:30:17.903Z",
   "lastPull": {
-    "id": 634,
-    "name": "zweilous",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/634.png",
+    "id": 171,
+    "name": "lanturn",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/171.png",
     "types": [
-      "dark",
-      "dragon"
+      "water",
+      "electric"
     ],
-    "totalStats": 420,
+    "totalStats": 460,
     "grade": "R",
-    "pulledAt": "2026-09-30T19:57:07.545Z"
+    "pulledAt": "2026-09-30T23:30:17.903Z"
   },
   "pulls": [
+    {
+      "id": 171,
+      "name": "lanturn",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/171.png",
+      "types": [
+        "water",
+        "electric"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-09-30T23:30:17.903Z"
+    },
     {
       "id": 634,
       "name": "zweilous",
@@ -118,17 +130,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-09-29T01:23:37.993Z"
-    },
-    {
-      "id": 223,
-      "name": "remoraid",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/223.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-09-28T21:53:18.119Z"
     }
   ],
   "pokemon": {
@@ -396,6 +397,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T06:14:59.676Z",
       "lastPulledAt": "2026-09-23T06:14:59.676Z"
+    },
+    "171": {
+      "id": 171,
+      "name": "lanturn",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/171.png",
+      "types": [
+        "water",
+        "electric"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-09-30T23:30:17.903Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T23:30:17.903Z",
+      "lastPulledAt": "2026-09-30T23:30:17.903Z"
     },
     "183": {
       "id": 183,
