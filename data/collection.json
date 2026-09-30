@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 93,
-  "updatedAt": "2026-09-29T23:04:30.976Z",
+  "totalPulls": 94,
+  "updatedAt": "2026-09-30T02:02:28.003Z",
   "lastPull": {
-    "id": 848,
-    "name": "toxel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png",
+    "id": 383,
+    "name": "groudon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png",
     "types": [
-      "electric",
-      "poison"
+      "ground"
     ],
-    "totalStats": 242,
-    "grade": "N",
-    "pulledAt": "2026-09-29T23:04:30.976Z"
+    "totalStats": 670,
+    "grade": "SSR",
+    "pulledAt": "2026-09-30T02:02:28.003Z"
   },
   "pulls": [
+    {
+      "id": 383,
+      "name": "groudon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 670,
+      "grade": "SSR",
+      "pulledAt": "2026-09-30T02:02:28.003Z"
+    },
     {
       "id": 848,
       "name": "toxel",
@@ -117,18 +127,6 @@
       "totalStats": 250,
       "grade": "N",
       "pulledAt": "2026-09-28T01:42:25.109Z"
-    },
-    {
-      "id": 724,
-      "name": "decidueye",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
-      "types": [
-        "grass",
-        "ghost"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-09-27T23:12:38.358Z"
     }
   ],
   "pokemon": {
@@ -668,10 +666,10 @@
       "totalStats": 670,
       "grade": "SSR",
       "pulledAt": "2026-09-20T01:29:38.453Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T01:29:38.453Z",
-      "lastPulledAt": "2026-09-20T01:29:38.453Z"
+      "lastPulledAt": "2026-09-30T02:02:28.003Z"
     },
     "423": {
       "id": 423,
