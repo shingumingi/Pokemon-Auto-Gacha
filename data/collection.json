@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 95,
-  "updatedAt": "2026-09-30T08:24:39.590Z",
+  "totalPulls": 96,
+  "updatedAt": "2026-09-30T15:03:40.546Z",
   "lastPull": {
-    "id": 477,
-    "name": "dusknoir",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png",
+    "id": 947,
+    "name": "brambleghast",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/947.png",
     "types": [
+      "grass",
       "ghost"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-09-30T08:24:39.590Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-09-30T15:03:40.546Z"
   },
   "pulls": [
+    {
+      "id": 947,
+      "name": "brambleghast",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/947.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-09-30T15:03:40.546Z"
+    },
     {
       "id": 477,
       "name": "dusknoir",
@@ -115,17 +128,6 @@
       "totalStats": 465,
       "grade": "R",
       "pulledAt": "2026-09-28T16:01:20.605Z"
-    },
-    {
-      "id": 579,
-      "name": "reuniclus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/579.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-09-28T07:42:05.997Z"
     }
   ],
   "pokemon": {
@@ -1487,6 +1489,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T07:13:10.588Z",
       "lastPulledAt": "2026-09-22T07:13:10.588Z"
+    },
+    "947": {
+      "id": 947,
+      "name": "brambleghast",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/947.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-09-30T15:03:40.546Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T15:03:40.546Z",
+      "lastPulledAt": "2026-09-30T15:03:40.546Z"
     },
     "993": {
       "id": 993,
