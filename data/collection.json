@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 96,
-  "updatedAt": "2026-09-30T15:03:40.546Z",
+  "totalPulls": 97,
+  "updatedAt": "2026-09-30T19:57:07.545Z",
   "lastPull": {
-    "id": 947,
-    "name": "brambleghast",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/947.png",
+    "id": 634,
+    "name": "zweilous",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/634.png",
     "types": [
-      "grass",
-      "ghost"
+      "dark",
+      "dragon"
     ],
-    "totalStats": 480,
+    "totalStats": 420,
     "grade": "R",
-    "pulledAt": "2026-09-30T15:03:40.546Z"
+    "pulledAt": "2026-09-30T19:57:07.545Z"
   },
   "pulls": [
+    {
+      "id": 634,
+      "name": "zweilous",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/634.png",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-09-30T19:57:07.545Z"
+    },
     {
       "id": 947,
       "name": "brambleghast",
@@ -117,17 +129,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-28T21:53:18.119Z"
-    },
-    {
-      "id": 234,
-      "name": "stantler",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/234.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 465,
-      "grade": "R",
-      "pulledAt": "2026-09-28T16:01:20.605Z"
     }
   ],
   "pokemon": {
@@ -1014,6 +1015,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T06:36:06.545Z",
       "lastPulledAt": "2026-09-18T06:36:06.545Z"
+    },
+    "634": {
+      "id": 634,
+      "name": "zweilous",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/634.png",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-09-30T19:57:07.545Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T19:57:07.545Z",
+      "lastPulledAt": "2026-09-30T19:57:07.545Z"
     },
     "649": {
       "id": 649,
