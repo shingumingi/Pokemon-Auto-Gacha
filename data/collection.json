@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 99,
-  "updatedAt": "2026-10-01T02:21:48.085Z",
+  "totalPulls": 100,
+  "updatedAt": "2026-10-01T09:13:01.526Z",
   "lastPull": {
-    "id": 444,
-    "name": "gabite",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/444.png",
+    "id": 549,
+    "name": "lilligant",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/549.png",
     "types": [
-      "dragon",
-      "ground"
+      "grass"
     ],
-    "totalStats": 410,
+    "totalStats": 480,
     "grade": "R",
-    "pulledAt": "2026-10-01T02:21:48.085Z"
+    "pulledAt": "2026-10-01T09:13:01.526Z"
   },
   "pulls": [
+    {
+      "id": 549,
+      "name": "lilligant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/549.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-01T09:13:01.526Z"
+    },
     {
       "id": 444,
       "name": "gabite",
@@ -118,18 +128,6 @@
       "totalStats": 413,
       "grade": "R",
       "pulledAt": "2026-09-29T14:06:21.500Z"
-    },
-    {
-      "id": 121,
-      "name": "starmie",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
-      "types": [
-        "water",
-        "psychic"
-      ],
-      "totalStats": 520,
-      "grade": "SR",
-      "pulledAt": "2026-09-29T07:10:44.323Z"
     }
   ],
   "pokemon": {
@@ -893,6 +891,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:43:18.079Z",
       "lastPulledAt": "2026-09-16T01:43:18.079Z"
+    },
+    "549": {
+      "id": 549,
+      "name": "lilligant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/549.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-01T09:13:01.526Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T09:13:01.526Z",
+      "lastPulledAt": "2026-10-01T09:13:01.526Z"
     },
     "558": {
       "id": 558,
