@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 100,
-  "updatedAt": "2026-10-01T09:13:01.526Z",
+  "totalPulls": 101,
+  "updatedAt": "2026-10-01T16:28:48.341Z",
   "lastPull": {
-    "id": 549,
-    "name": "lilligant",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/549.png",
+    "id": 898,
+    "name": "calyrex",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png",
     "types": [
+      "psychic",
       "grass"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-10-01T09:13:01.526Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-10-01T16:28:48.341Z"
   },
   "pulls": [
+    {
+      "id": 898,
+      "name": "calyrex",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png",
+      "types": [
+        "psychic",
+        "grass"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-01T16:28:48.341Z"
+    },
     {
       "id": 549,
       "name": "lilligant",
@@ -117,17 +130,6 @@
       "totalStats": 452,
       "grade": "R",
       "pulledAt": "2026-09-29T19:21:50.972Z"
-    },
-    {
-      "id": 502,
-      "name": "dewott",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 413,
-      "grade": "R",
-      "pulledAt": "2026-09-29T14:06:21.500Z"
     }
   ],
   "pokemon": {
@@ -1452,10 +1454,10 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-16T06:20:25.218Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T06:20:25.218Z",
-      "lastPulledAt": "2026-09-20T11:51:48.732Z"
+      "lastPulledAt": "2026-10-01T16:28:48.341Z"
     },
     "899": {
       "id": 899,
