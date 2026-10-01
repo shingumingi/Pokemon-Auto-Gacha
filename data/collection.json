@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 98,
-  "updatedAt": "2026-09-30T23:30:17.903Z",
+  "totalPulls": 99,
+  "updatedAt": "2026-10-01T02:21:48.085Z",
   "lastPull": {
-    "id": 171,
-    "name": "lanturn",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/171.png",
+    "id": 444,
+    "name": "gabite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/444.png",
     "types": [
-      "water",
-      "electric"
+      "dragon",
+      "ground"
     ],
-    "totalStats": 460,
+    "totalStats": 410,
     "grade": "R",
-    "pulledAt": "2026-09-30T23:30:17.903Z"
+    "pulledAt": "2026-10-01T02:21:48.085Z"
   },
   "pulls": [
+    {
+      "id": 444,
+      "name": "gabite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/444.png",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-01T02:21:48.085Z"
+    },
     {
       "id": 171,
       "name": "lanturn",
@@ -118,18 +130,6 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-09-29T07:10:44.323Z"
-    },
-    {
-      "id": 786,
-      "name": "tapu-lele",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
-      "types": [
-        "psychic",
-        "fairy"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-09-29T01:23:37.993Z"
     }
   ],
   "pokemon": {
@@ -752,6 +752,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T15:56:21.103Z",
       "lastPulledAt": "2026-09-16T15:56:21.103Z"
+    },
+    "444": {
+      "id": 444,
+      "name": "gabite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/444.png",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-01T02:21:48.085Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T02:21:48.085Z",
+      "lastPulledAt": "2026-10-01T02:21:48.085Z"
     },
     "451": {
       "id": 451,
