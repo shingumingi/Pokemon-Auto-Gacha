@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 102,
-  "updatedAt": "2026-10-01T21:12:35.864Z",
+  "totalPulls": 103,
+  "updatedAt": "2026-10-02T00:49:56.018Z",
   "lastPull": {
-    "id": 873,
-    "name": "frosmoth",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/873.png",
+    "id": 402,
+    "name": "kricketune",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png",
     "types": [
-      "ice",
       "bug"
     ],
-    "totalStats": 475,
-    "grade": "R",
-    "pulledAt": "2026-10-01T21:12:35.864Z"
+    "totalStats": 384,
+    "grade": "N",
+    "pulledAt": "2026-10-02T00:49:56.018Z"
   },
   "pulls": [
+    {
+      "id": 402,
+      "name": "kricketune",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 384,
+      "grade": "N",
+      "pulledAt": "2026-10-02T00:49:56.018Z"
+    },
     {
       "id": 873,
       "name": "frosmoth",
@@ -119,18 +129,6 @@
       "totalStats": 670,
       "grade": "SSR",
       "pulledAt": "2026-09-30T02:02:28.003Z"
-    },
-    {
-      "id": 848,
-      "name": "toxel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png",
-      "types": [
-        "electric",
-        "poison"
-      ],
-      "totalStats": 242,
-      "grade": "N",
-      "pulledAt": "2026-09-29T23:04:30.976Z"
     }
   ],
   "pokemon": {
@@ -690,6 +688,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T01:29:38.453Z",
       "lastPulledAt": "2026-09-30T02:02:28.003Z"
+    },
+    "402": {
+      "id": 402,
+      "name": "kricketune",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 384,
+      "grade": "N",
+      "pulledAt": "2026-10-02T00:49:56.018Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T00:49:56.018Z",
+      "lastPulledAt": "2026-10-02T00:49:56.018Z"
     },
     "423": {
       "id": 423,
