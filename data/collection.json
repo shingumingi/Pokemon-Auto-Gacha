@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 105,
-  "updatedAt": "2026-10-02T12:50:32.192Z",
+  "totalPulls": 106,
+  "updatedAt": "2026-10-02T18:09:54.241Z",
   "lastPull": {
-    "id": 541,
-    "name": "swadloon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/541.png",
+    "id": 92,
+    "name": "gastly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
     "types": [
-      "bug",
-      "grass"
+      "ghost",
+      "poison"
     ],
-    "totalStats": 380,
+    "totalStats": 310,
     "grade": "N",
-    "pulledAt": "2026-10-02T12:50:32.192Z"
+    "pulledAt": "2026-10-02T18:09:54.241Z"
   },
   "pulls": [
+    {
+      "id": 92,
+      "name": "gastly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-02T18:09:54.241Z"
+    },
     {
       "id": 541,
       "name": "swadloon",
@@ -120,18 +132,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-09-30T19:57:07.545Z"
-    },
-    {
-      "id": 947,
-      "name": "brambleghast",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/947.png",
-      "types": [
-        "grass",
-        "ghost"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-09-30T15:03:40.546Z"
     }
   ],
   "pokemon": {
@@ -255,10 +255,10 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-09-23T15:35:08.130Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T15:35:08.130Z",
-      "lastPulledAt": "2026-09-23T15:35:08.130Z"
+      "lastPulledAt": "2026-10-02T18:09:54.241Z"
     },
     "113": {
       "id": 113,
