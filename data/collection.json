@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 104,
-  "updatedAt": "2026-10-02T06:19:26.371Z",
+  "totalPulls": 105,
+  "updatedAt": "2026-10-02T12:50:32.192Z",
   "lastPull": {
-    "id": 730,
-    "name": "primarina",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/730.png",
+    "id": 541,
+    "name": "swadloon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/541.png",
     "types": [
-      "water",
-      "fairy"
+      "bug",
+      "grass"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-10-02T06:19:26.371Z"
+    "totalStats": 380,
+    "grade": "N",
+    "pulledAt": "2026-10-02T12:50:32.192Z"
   },
   "pulls": [
+    {
+      "id": 541,
+      "name": "swadloon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/541.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 380,
+      "grade": "N",
+      "pulledAt": "2026-10-02T12:50:32.192Z"
+    },
     {
       "id": 730,
       "name": "primarina",
@@ -120,17 +132,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-09-30T15:03:40.546Z"
-    },
-    {
-      "id": 477,
-      "name": "dusknoir",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-09-30T08:24:39.590Z"
     }
   ],
   "pokemon": {
@@ -909,6 +910,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:43:18.079Z",
       "lastPulledAt": "2026-09-16T01:43:18.079Z"
+    },
+    "541": {
+      "id": 541,
+      "name": "swadloon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/541.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 380,
+      "grade": "N",
+      "pulledAt": "2026-10-02T12:50:32.192Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T12:50:32.192Z",
+      "lastPulledAt": "2026-10-02T12:50:32.192Z"
     },
     "549": {
       "id": 549,
