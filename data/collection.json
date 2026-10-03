@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 108,
-  "updatedAt": "2026-10-03T01:13:25.900Z",
+  "totalPulls": 109,
+  "updatedAt": "2026-10-03T06:35:49.362Z",
   "lastPull": {
-    "id": 714,
-    "name": "noibat",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png",
+    "id": 723,
+    "name": "dartrix",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png",
     "types": [
-      "flying",
-      "dragon"
+      "grass",
+      "flying"
     ],
-    "totalStats": 245,
-    "grade": "N",
-    "pulledAt": "2026-10-03T01:13:25.900Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-10-03T06:35:49.362Z"
   },
   "pulls": [
+    {
+      "id": 723,
+      "name": "dartrix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-03T06:35:49.362Z"
+    },
     {
       "id": 714,
       "name": "noibat",
@@ -119,18 +131,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-10-01T09:13:01.526Z"
-    },
-    {
-      "id": 444,
-      "name": "gabite",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/444.png",
-      "types": [
-        "dragon",
-        "ground"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-10-01T02:21:48.085Z"
     }
   ],
   "pokemon": {
@@ -1220,6 +1220,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T01:13:25.900Z",
       "lastPulledAt": "2026-10-03T01:13:25.900Z"
+    },
+    "723": {
+      "id": 723,
+      "name": "dartrix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-03T06:35:49.362Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T06:35:49.362Z",
+      "lastPulledAt": "2026-10-03T06:35:49.362Z"
     },
     "724": {
       "id": 724,
