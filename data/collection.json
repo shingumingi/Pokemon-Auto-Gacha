@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 112,
-  "updatedAt": "2026-10-03T19:07:12.111Z",
+  "totalPulls": 113,
+  "updatedAt": "2026-10-03T22:06:33.187Z",
   "lastPull": {
-    "id": 953,
-    "name": "rellor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/953.png",
+    "id": 325,
+    "name": "spoink",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/325.png",
     "types": [
-      "bug"
+      "psychic"
     ],
-    "totalStats": 270,
+    "totalStats": 330,
     "grade": "N",
-    "pulledAt": "2026-10-03T19:07:12.111Z"
+    "pulledAt": "2026-10-03T22:06:33.187Z"
   },
   "pulls": [
+    {
+      "id": 325,
+      "name": "spoink",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/325.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-03T22:06:33.187Z"
+    },
     {
       "id": 953,
       "name": "rellor",
@@ -118,17 +129,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-10-02T06:19:26.371Z"
-    },
-    {
-      "id": 402,
-      "name": "kricketune",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 384,
-      "grade": "N",
-      "pulledAt": "2026-10-02T00:49:56.018Z"
     }
   ],
   "pokemon": {
@@ -627,6 +627,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T01:34:24.389Z",
       "lastPulledAt": "2026-09-18T01:34:24.389Z"
+    },
+    "325": {
+      "id": 325,
+      "name": "spoink",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/325.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-03T22:06:33.187Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T22:06:33.187Z",
+      "lastPulledAt": "2026-10-03T22:06:33.187Z"
     },
     "359": {
       "id": 359,
