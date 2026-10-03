@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 109,
-  "updatedAt": "2026-10-03T06:35:49.362Z",
+  "totalPulls": 110,
+  "updatedAt": "2026-10-03T11:58:58.489Z",
   "lastPull": {
-    "id": 723,
-    "name": "dartrix",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png",
+    "id": 996,
+    "name": "frigibax",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png",
     "types": [
-      "grass",
-      "flying"
+      "dragon",
+      "ice"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-10-03T06:35:49.362Z"
+    "totalStats": 320,
+    "grade": "N",
+    "pulledAt": "2026-10-03T11:58:58.489Z"
   },
   "pulls": [
+    {
+      "id": 996,
+      "name": "frigibax",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-03T11:58:58.489Z"
+    },
     {
       "id": 723,
       "name": "dartrix",
@@ -120,17 +132,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-01T16:28:48.341Z"
-    },
-    {
-      "id": 549,
-      "name": "lilligant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/549.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-10-01T09:13:01.526Z"
     }
   ],
   "pokemon": {
@@ -1681,6 +1682,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T20:13:21.937Z",
       "lastPulledAt": "2026-09-22T20:13:21.937Z"
+    },
+    "996": {
+      "id": 996,
+      "name": "frigibax",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-03T11:58:58.489Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T11:58:58.489Z",
+      "lastPulledAt": "2026-10-03T11:58:58.489Z"
     },
     "1003": {
       "id": 1003,
