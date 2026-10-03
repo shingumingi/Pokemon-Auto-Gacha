@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 110,
-  "updatedAt": "2026-10-03T11:58:58.489Z",
+  "totalPulls": 111,
+  "updatedAt": "2026-10-03T15:59:21.349Z",
   "lastPull": {
-    "id": 996,
-    "name": "frigibax",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png",
+    "id": 614,
+    "name": "beartic",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png",
     "types": [
-      "dragon",
       "ice"
     ],
-    "totalStats": 320,
-    "grade": "N",
-    "pulledAt": "2026-10-03T11:58:58.489Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-10-03T15:59:21.349Z"
   },
   "pulls": [
+    {
+      "id": 614,
+      "name": "beartic",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-03T15:59:21.349Z"
+    },
     {
       "id": 996,
       "name": "frigibax",
@@ -120,18 +130,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-10-01T21:12:35.864Z"
-    },
-    {
-      "id": 898,
-      "name": "calyrex",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png",
-      "types": [
-        "psychic",
-        "grass"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-01T16:28:48.341Z"
     }
   ],
   "pokemon": {
@@ -1059,10 +1057,10 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-09-20T20:52:05.558Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T20:52:05.558Z",
-      "lastPulledAt": "2026-09-20T20:52:05.558Z"
+      "lastPulledAt": "2026-10-03T15:59:21.349Z"
     },
     "625": {
       "id": 625,
