@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 107,
-  "updatedAt": "2026-10-02T22:10:58.379Z",
+  "totalPulls": 108,
+  "updatedAt": "2026-10-03T01:13:25.900Z",
   "lastPull": {
-    "id": 263,
-    "name": "zigzagoon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/263.png",
+    "id": 714,
+    "name": "noibat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png",
     "types": [
-      "normal"
+      "flying",
+      "dragon"
     ],
-    "totalStats": 240,
+    "totalStats": 245,
     "grade": "N",
-    "pulledAt": "2026-10-02T22:10:58.379Z"
+    "pulledAt": "2026-10-03T01:13:25.900Z"
   },
   "pulls": [
+    {
+      "id": 714,
+      "name": "noibat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png",
+      "types": [
+        "flying",
+        "dragon"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-10-03T01:13:25.900Z"
+    },
     {
       "id": 263,
       "name": "zigzagoon",
@@ -118,18 +131,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-10-01T02:21:48.085Z"
-    },
-    {
-      "id": 171,
-      "name": "lanturn",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/171.png",
-      "types": [
-        "water",
-        "electric"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-09-30T23:30:17.903Z"
     }
   ],
   "pokemon": {
@@ -1203,6 +1204,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T15:15:37.450Z",
       "lastPulledAt": "2026-09-20T15:15:37.450Z"
+    },
+    "714": {
+      "id": 714,
+      "name": "noibat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png",
+      "types": [
+        "flying",
+        "dragon"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-10-03T01:13:25.900Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T01:13:25.900Z",
+      "lastPulledAt": "2026-10-03T01:13:25.900Z"
     },
     "724": {
       "id": 724,
