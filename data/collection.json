@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 111,
-  "updatedAt": "2026-10-03T15:59:21.349Z",
+  "totalPulls": 112,
+  "updatedAt": "2026-10-03T19:07:12.111Z",
   "lastPull": {
-    "id": 614,
-    "name": "beartic",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png",
+    "id": 953,
+    "name": "rellor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/953.png",
     "types": [
-      "ice"
+      "bug"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-10-03T15:59:21.349Z"
+    "totalStats": 270,
+    "grade": "N",
+    "pulledAt": "2026-10-03T19:07:12.111Z"
   },
   "pulls": [
+    {
+      "id": 953,
+      "name": "rellor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/953.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-10-03T19:07:12.111Z"
+    },
     {
       "id": 614,
       "name": "beartic",
@@ -118,18 +129,6 @@
       "totalStats": 384,
       "grade": "N",
       "pulledAt": "2026-10-02T00:49:56.018Z"
-    },
-    {
-      "id": 873,
-      "name": "frosmoth",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/873.png",
-      "types": [
-        "ice",
-        "bug"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-10-01T21:12:35.864Z"
     }
   ],
   "pokemon": {
@@ -1664,6 +1663,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T15:03:40.546Z",
       "lastPulledAt": "2026-09-30T15:03:40.546Z"
+    },
+    "953": {
+      "id": 953,
+      "name": "rellor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/953.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-10-03T19:07:12.111Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T19:07:12.111Z",
+      "lastPulledAt": "2026-10-03T19:07:12.111Z"
     },
     "993": {
       "id": 993,
