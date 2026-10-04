@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 115,
-  "updatedAt": "2026-10-04T06:16:50.024Z",
+  "totalPulls": 116,
+  "updatedAt": "2026-10-04T12:30:08.553Z",
   "lastPull": {
-    "id": 229,
-    "name": "houndoom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png",
+    "id": 191,
+    "name": "sunkern",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
     "types": [
-      "dark",
-      "fire"
+      "grass"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-10-04T06:16:50.024Z"
+    "totalStats": 180,
+    "grade": "N",
+    "pulledAt": "2026-10-04T12:30:08.553Z"
   },
   "pulls": [
+    {
+      "id": 191,
+      "name": "sunkern",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 180,
+      "grade": "N",
+      "pulledAt": "2026-10-04T12:30:08.553Z"
+    },
     {
       "id": 229,
       "name": "houndoom",
@@ -118,18 +128,6 @@
       "totalStats": 240,
       "grade": "N",
       "pulledAt": "2026-10-02T22:10:58.379Z"
-    },
-    {
-      "id": 92,
-      "name": "gastly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
-      "types": [
-        "ghost",
-        "poison"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-10-02T18:09:54.241Z"
     }
   ],
   "pokemon": {
@@ -455,10 +453,10 @@
       "totalStats": 180,
       "grade": "N",
       "pulledAt": "2026-09-16T01:39:41.023Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:39:41.023Z",
-      "lastPulledAt": "2026-09-16T01:39:41.023Z"
+      "lastPulledAt": "2026-10-04T12:30:08.553Z"
     },
     "222": {
       "id": 222,
