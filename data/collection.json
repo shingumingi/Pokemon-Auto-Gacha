@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 118,
-  "updatedAt": "2026-10-04T19:54:10.543Z",
+  "totalPulls": 119,
+  "updatedAt": "2026-10-04T22:39:41.306Z",
   "lastPull": {
-    "id": 885,
-    "name": "dreepy",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png",
+    "id": 835,
+    "name": "yamper",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png",
     "types": [
-      "dragon",
-      "ghost"
+      "electric"
     ],
     "totalStats": 270,
     "grade": "N",
-    "pulledAt": "2026-10-04T19:54:10.543Z"
+    "pulledAt": "2026-10-04T22:39:41.306Z"
   },
   "pulls": [
+    {
+      "id": 835,
+      "name": "yamper",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-10-04T22:39:41.306Z"
+    },
     {
       "id": 885,
       "name": "dreepy",
@@ -117,18 +127,6 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-10-03T11:58:58.489Z"
-    },
-    {
-      "id": 723,
-      "name": "dartrix",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png",
-      "types": [
-        "grass",
-        "flying"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-10-03T06:35:49.362Z"
     }
   ],
   "pokemon": {
@@ -1470,6 +1468,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T12:38:45.506Z",
       "lastPulledAt": "2026-09-22T12:38:45.506Z"
+    },
+    "835": {
+      "id": 835,
+      "name": "yamper",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-10-04T22:39:41.306Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T22:39:41.306Z",
+      "lastPulledAt": "2026-10-04T22:39:41.306Z"
     },
     "848": {
       "id": 848,
