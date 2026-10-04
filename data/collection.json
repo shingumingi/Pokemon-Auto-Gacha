@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 116,
-  "updatedAt": "2026-10-04T12:30:08.553Z",
+  "totalPulls": 117,
+  "updatedAt": "2026-10-04T16:56:55.565Z",
   "lastPull": {
-    "id": 191,
-    "name": "sunkern",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
+    "id": 532,
+    "name": "timburr",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
     "types": [
-      "grass"
+      "fighting"
     ],
-    "totalStats": 180,
+    "totalStats": 305,
     "grade": "N",
-    "pulledAt": "2026-10-04T12:30:08.553Z"
+    "pulledAt": "2026-10-04T16:56:55.565Z"
   },
   "pulls": [
+    {
+      "id": 532,
+      "name": "timburr",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-04T16:56:55.565Z"
+    },
     {
       "id": 191,
       "name": "sunkern",
@@ -117,17 +128,6 @@
       "totalStats": 245,
       "grade": "N",
       "pulledAt": "2026-10-03T01:13:25.900Z"
-    },
-    {
-      "id": 263,
-      "name": "zigzagoon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/263.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 240,
-      "grade": "N",
-      "pulledAt": "2026-10-02T22:10:58.379Z"
     }
   ],
   "pokemon": {
@@ -936,6 +936,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T12:57:17.008Z",
       "lastPulledAt": "2026-09-27T12:57:17.008Z"
+    },
+    "532": {
+      "id": 532,
+      "name": "timburr",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-04T16:56:55.565Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T16:56:55.565Z",
+      "lastPulledAt": "2026-10-04T16:56:55.565Z"
     },
     "540": {
       "id": 540,
