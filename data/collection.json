@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 113,
-  "updatedAt": "2026-10-03T22:06:33.187Z",
+  "totalPulls": 114,
+  "updatedAt": "2026-10-04T00:33:15.434Z",
   "lastPull": {
-    "id": 325,
-    "name": "spoink",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/325.png",
+    "id": 222,
+    "name": "corsola",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/222.png",
     "types": [
-      "psychic"
+      "water",
+      "rock"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-10-03T22:06:33.187Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-10-04T00:33:15.434Z"
   },
   "pulls": [
+    {
+      "id": 222,
+      "name": "corsola",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/222.png",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-04T00:33:15.434Z"
+    },
     {
       "id": 325,
       "name": "spoink",
@@ -117,18 +130,6 @@
       "totalStats": 380,
       "grade": "N",
       "pulledAt": "2026-10-02T12:50:32.192Z"
-    },
-    {
-      "id": 730,
-      "name": "primarina",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/730.png",
-      "types": [
-        "water",
-        "fairy"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-10-02T06:19:26.371Z"
     }
   ],
   "pokemon": {
@@ -470,10 +471,10 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-09-17T10:05:02.966Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T10:05:02.966Z",
-      "lastPulledAt": "2026-09-17T10:05:02.966Z"
+      "lastPulledAt": "2026-10-04T00:33:15.434Z"
     },
     "223": {
       "id": 223,
