@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 121,
-  "updatedAt": "2026-10-05T07:09:40.642Z",
+  "totalPulls": 122,
+  "updatedAt": "2026-10-05T15:58:27.043Z",
   "lastPull": {
-    "id": 372,
-    "name": "shelgon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/372.png",
+    "id": 863,
+    "name": "perrserker",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png",
     "types": [
-      "dragon"
+      "steel"
     ],
-    "totalStats": 420,
+    "totalStats": 440,
     "grade": "R",
-    "pulledAt": "2026-10-05T07:09:40.642Z"
+    "pulledAt": "2026-10-05T15:58:27.043Z"
   },
   "pulls": [
+    {
+      "id": 863,
+      "name": "perrserker",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-10-05T15:58:27.043Z"
+    },
     {
       "id": 372,
       "name": "shelgon",
@@ -116,17 +127,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-10-03T22:06:33.187Z"
-    },
-    {
-      "id": 953,
-      "name": "rellor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/953.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 270,
-      "grade": "N",
-      "pulledAt": "2026-10-03T19:07:12.111Z"
     }
   ],
   "pokemon": {
@@ -1546,6 +1546,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T18:13:08.088Z",
       "lastPulledAt": "2026-09-20T18:13:08.088Z"
+    },
+    "863": {
+      "id": 863,
+      "name": "perrserker",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-10-05T15:58:27.043Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-05T15:58:27.043Z",
+      "lastPulledAt": "2026-10-05T15:58:27.043Z"
     },
     "865": {
       "id": 865,
