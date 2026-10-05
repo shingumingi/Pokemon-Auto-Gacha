@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 120,
-  "updatedAt": "2026-10-05T01:16:38.895Z",
+  "totalPulls": 121,
+  "updatedAt": "2026-10-05T07:09:40.642Z",
   "lastPull": {
-    "id": 965,
-    "name": "varoom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png",
+    "id": 372,
+    "name": "shelgon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/372.png",
     "types": [
-      "steel",
-      "poison"
+      "dragon"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-10-05T01:16:38.895Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-10-05T07:09:40.642Z"
   },
   "pulls": [
+    {
+      "id": 372,
+      "name": "shelgon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/372.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-05T07:09:40.642Z"
+    },
     {
       "id": 965,
       "name": "varoom",
@@ -117,17 +127,6 @@
       "totalStats": 270,
       "grade": "N",
       "pulledAt": "2026-10-03T19:07:12.111Z"
-    },
-    {
-      "id": 614,
-      "name": "beartic",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-10-03T15:59:21.349Z"
     }
   ],
   "pokemon": {
@@ -703,6 +702,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T11:46:14.695Z",
       "lastPulledAt": "2026-09-18T15:12:14.198Z"
+    },
+    "372": {
+      "id": 372,
+      "name": "shelgon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/372.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-05T07:09:40.642Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-05T07:09:40.642Z",
+      "lastPulledAt": "2026-10-05T07:09:40.642Z"
     },
     "382": {
       "id": 382,
