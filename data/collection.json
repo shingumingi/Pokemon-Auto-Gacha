@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 123,
-  "updatedAt": "2026-10-05T22:22:08.399Z",
+  "totalPulls": 124,
+  "updatedAt": "2026-10-06T02:22:48.769Z",
   "lastPull": {
-    "id": 556,
-    "name": "maractus",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png",
+    "id": 174,
+    "name": "igglybuff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png",
     "types": [
-      "grass"
+      "normal",
+      "fairy"
     ],
-    "totalStats": 461,
-    "grade": "R",
-    "pulledAt": "2026-10-05T22:22:08.399Z"
+    "totalStats": 210,
+    "grade": "N",
+    "pulledAt": "2026-10-06T02:22:48.769Z"
   },
   "pulls": [
+    {
+      "id": 174,
+      "name": "igglybuff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "totalStats": 210,
+      "grade": "N",
+      "pulledAt": "2026-10-06T02:22:48.769Z"
+    },
     {
       "id": 556,
       "name": "maractus",
@@ -115,18 +128,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-04T06:16:50.024Z"
-    },
-    {
-      "id": 222,
-      "name": "corsola",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/222.png",
-      "types": [
-        "water",
-        "rock"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-10-04T00:33:15.434Z"
     }
   ],
   "pokemon": {
@@ -410,6 +411,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T23:30:17.903Z",
       "lastPulledAt": "2026-09-30T23:30:17.903Z"
+    },
+    "174": {
+      "id": 174,
+      "name": "igglybuff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "totalStats": 210,
+      "grade": "N",
+      "pulledAt": "2026-10-06T02:22:48.769Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-06T02:22:48.769Z",
+      "lastPulledAt": "2026-10-06T02:22:48.769Z"
     },
     "183": {
       "id": 183,
