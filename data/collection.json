@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 126,
-  "updatedAt": "2026-10-06T15:59:01.500Z",
+  "totalPulls": 127,
+  "updatedAt": "2026-10-06T20:51:19.396Z",
   "lastPull": {
-    "id": 304,
-    "name": "aron",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
+    "id": 663,
+    "name": "talonflame",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png",
     "types": [
-      "steel",
-      "rock"
+      "fire",
+      "flying"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-10-06T15:59:01.500Z"
+    "totalStats": 499,
+    "grade": "R",
+    "pulledAt": "2026-10-06T20:51:19.396Z"
   },
   "pulls": [
+    {
+      "id": 663,
+      "name": "talonflame",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 499,
+      "grade": "R",
+      "pulledAt": "2026-10-06T20:51:19.396Z"
+    },
     {
       "id": 304,
       "name": "aron",
@@ -117,17 +129,6 @@
       "totalStats": 270,
       "grade": "N",
       "pulledAt": "2026-10-04T19:54:10.543Z"
-    },
-    {
-      "id": 532,
-      "name": "timburr",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-04T16:56:55.565Z"
     }
   ],
   "pokemon": {
@@ -1278,6 +1279,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T11:05:38.991Z",
       "lastPulledAt": "2026-09-19T11:05:38.991Z"
+    },
+    "663": {
+      "id": 663,
+      "name": "talonflame",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 499,
+      "grade": "R",
+      "pulledAt": "2026-10-06T20:51:19.396Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-06T20:51:19.396Z",
+      "lastPulledAt": "2026-10-06T20:51:19.396Z"
     },
     "677": {
       "id": 677,
