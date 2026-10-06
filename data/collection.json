@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 125,
-  "updatedAt": "2026-10-06T09:11:32.451Z",
+  "totalPulls": 126,
+  "updatedAt": "2026-10-06T15:59:01.500Z",
   "lastPull": {
-    "id": 808,
-    "name": "meltan",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/808.png",
+    "id": 304,
+    "name": "aron",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
     "types": [
-      "steel"
+      "steel",
+      "rock"
     ],
-    "totalStats": 300,
+    "totalStats": 330,
     "grade": "N",
-    "pulledAt": "2026-10-06T09:11:32.451Z"
+    "pulledAt": "2026-10-06T15:59:01.500Z"
   },
   "pulls": [
+    {
+      "id": 304,
+      "name": "aron",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-06T15:59:01.500Z"
+    },
     {
       "id": 808,
       "name": "meltan",
@@ -115,17 +128,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-04T16:56:55.565Z"
-    },
-    {
-      "id": 191,
-      "name": "sunkern",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 180,
-      "grade": "N",
-      "pulledAt": "2026-10-04T12:30:08.553Z"
     }
   ],
   "pokemon": {
@@ -625,6 +627,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T14:54:48.438Z",
       "lastPulledAt": "2026-09-17T14:54:48.438Z"
+    },
+    "304": {
+      "id": 304,
+      "name": "aron",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-06T15:59:01.500Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-06T15:59:01.500Z",
+      "lastPulledAt": "2026-10-06T15:59:01.500Z"
     },
     "307": {
       "id": 307,
