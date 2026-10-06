@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 124,
-  "updatedAt": "2026-10-06T02:22:48.769Z",
+  "totalPulls": 125,
+  "updatedAt": "2026-10-06T09:11:32.451Z",
   "lastPull": {
-    "id": 174,
-    "name": "igglybuff",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png",
+    "id": 808,
+    "name": "meltan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/808.png",
     "types": [
-      "normal",
-      "fairy"
+      "steel"
     ],
-    "totalStats": 210,
+    "totalStats": 300,
     "grade": "N",
-    "pulledAt": "2026-10-06T02:22:48.769Z"
+    "pulledAt": "2026-10-06T09:11:32.451Z"
   },
   "pulls": [
+    {
+      "id": 808,
+      "name": "meltan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/808.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-06T09:11:32.451Z"
+    },
     {
       "id": 174,
       "name": "igglybuff",
@@ -116,18 +126,6 @@
       "totalStats": 180,
       "grade": "N",
       "pulledAt": "2026-10-04T12:30:08.553Z"
-    },
-    {
-      "id": 229,
-      "name": "houndoom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png",
-      "types": [
-        "dark",
-        "fire"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-04T06:16:50.024Z"
     }
   ],
   "pokemon": {
@@ -1500,6 +1498,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T14:21:06.062Z",
       "lastPulledAt": "2026-09-19T14:21:06.062Z"
+    },
+    "808": {
+      "id": 808,
+      "name": "meltan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/808.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-06T09:11:32.451Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-06T09:11:32.451Z",
+      "lastPulledAt": "2026-10-06T09:11:32.451Z"
     },
     "815": {
       "id": 815,
