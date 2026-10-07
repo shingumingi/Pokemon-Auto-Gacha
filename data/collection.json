@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 127,
-  "updatedAt": "2026-10-06T20:51:19.396Z",
+  "totalPulls": 128,
+  "updatedAt": "2026-10-07T00:18:19.853Z",
   "lastPull": {
-    "id": 663,
-    "name": "talonflame",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png",
+    "id": 986,
+    "name": "brute-bonnet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png",
     "types": [
-      "fire",
-      "flying"
+      "grass",
+      "dark"
     ],
-    "totalStats": 499,
-    "grade": "R",
-    "pulledAt": "2026-10-06T20:51:19.396Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-10-07T00:18:19.853Z"
   },
   "pulls": [
+    {
+      "id": 986,
+      "name": "brute-bonnet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-07T00:18:19.853Z"
+    },
     {
       "id": 663,
       "name": "talonflame",
@@ -117,18 +129,6 @@
       "totalStats": 270,
       "grade": "N",
       "pulledAt": "2026-10-04T22:39:41.306Z"
-    },
-    {
-      "id": 885,
-      "name": "dreepy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png",
-      "types": [
-        "dragon",
-        "ghost"
-      ],
-      "totalStats": 270,
-      "grade": "N",
-      "pulledAt": "2026-10-04T19:54:10.543Z"
     }
   ],
   "pokemon": {
@@ -1879,6 +1879,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-05T01:16:38.895Z",
       "lastPulledAt": "2026-10-05T01:16:38.895Z"
+    },
+    "986": {
+      "id": 986,
+      "name": "brute-bonnet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-07T00:18:19.853Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T00:18:19.853Z",
+      "lastPulledAt": "2026-10-07T00:18:19.853Z"
     },
     "993": {
       "id": 993,
