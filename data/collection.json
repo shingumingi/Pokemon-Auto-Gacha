@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 128,
-  "updatedAt": "2026-10-07T00:18:19.853Z",
+  "totalPulls": 129,
+  "updatedAt": "2026-10-07T06:10:15.696Z",
   "lastPull": {
-    "id": 986,
-    "name": "brute-bonnet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png",
+    "id": 973,
+    "name": "flamigo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/973.png",
     "types": [
-      "grass",
-      "dark"
+      "flying",
+      "fighting"
     ],
-    "totalStats": 570,
+    "totalStats": 500,
     "grade": "SR",
-    "pulledAt": "2026-10-07T00:18:19.853Z"
+    "pulledAt": "2026-10-07T06:10:15.696Z"
   },
   "pulls": [
+    {
+      "id": 973,
+      "name": "flamigo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/973.png",
+      "types": [
+        "flying",
+        "fighting"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-07T06:10:15.696Z"
+    },
     {
       "id": 986,
       "name": "brute-bonnet",
@@ -118,17 +130,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-05T01:16:38.895Z"
-    },
-    {
-      "id": 835,
-      "name": "yamper",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 270,
-      "grade": "N",
-      "pulledAt": "2026-10-04T22:39:41.306Z"
     }
   ],
   "pokemon": {
@@ -1879,6 +1880,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-05T01:16:38.895Z",
       "lastPulledAt": "2026-10-05T01:16:38.895Z"
+    },
+    "973": {
+      "id": 973,
+      "name": "flamigo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/973.png",
+      "types": [
+        "flying",
+        "fighting"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-07T06:10:15.696Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T06:10:15.696Z",
+      "lastPulledAt": "2026-10-07T06:10:15.696Z"
     },
     "986": {
       "id": 986,
