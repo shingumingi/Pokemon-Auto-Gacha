@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 131,
-  "updatedAt": "2026-10-07T19:30:02.850Z",
+  "totalPulls": 132,
+  "updatedAt": "2026-10-07T23:43:19.343Z",
   "lastPull": {
-    "id": 818,
-    "name": "inteleon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/818.png",
+    "id": 105,
+    "name": "marowak",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
     "types": [
-      "water"
+      "ground"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-10-07T19:30:02.850Z"
+    "totalStats": 425,
+    "grade": "R",
+    "pulledAt": "2026-10-07T23:43:19.343Z"
   },
   "pulls": [
+    {
+      "id": 105,
+      "name": "marowak",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-10-07T23:43:19.343Z"
+    },
     {
       "id": 818,
       "name": "inteleon",
@@ -118,17 +129,6 @@
       "totalStats": 461,
       "grade": "R",
       "pulledAt": "2026-10-05T22:22:08.399Z"
-    },
-    {
-      "id": 863,
-      "name": "perrserker",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png",
-      "types": [
-        "steel"
-      ],
-      "totalStats": 440,
-      "grade": "R",
-      "pulledAt": "2026-10-05T15:58:27.043Z"
     }
   ],
   "pokemon": {
@@ -256,6 +256,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T15:35:08.130Z",
       "lastPulledAt": "2026-10-02T18:09:54.241Z"
+    },
+    "105": {
+      "id": 105,
+      "name": "marowak",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-10-07T23:43:19.343Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T23:43:19.343Z",
+      "lastPulledAt": "2026-10-07T23:43:19.343Z"
     },
     "113": {
       "id": 113,
