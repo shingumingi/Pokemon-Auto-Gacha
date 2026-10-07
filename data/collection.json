@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 130,
-  "updatedAt": "2026-10-07T13:30:33.174Z",
+  "totalPulls": 131,
+  "updatedAt": "2026-10-07T19:30:02.850Z",
   "lastPull": {
-    "id": 205,
-    "name": "forretress",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
+    "id": 818,
+    "name": "inteleon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/818.png",
     "types": [
-      "bug",
-      "steel"
+      "water"
     ],
-    "totalStats": 465,
-    "grade": "R",
-    "pulledAt": "2026-10-07T13:30:33.174Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-10-07T19:30:02.850Z"
   },
   "pulls": [
+    {
+      "id": 818,
+      "name": "inteleon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/818.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-07T19:30:02.850Z"
+    },
     {
       "id": 205,
       "name": "forretress",
@@ -119,17 +129,6 @@
       "totalStats": 440,
       "grade": "R",
       "pulledAt": "2026-10-05T15:58:27.043Z"
-    },
-    {
-      "id": 372,
-      "name": "shelgon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/372.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-10-05T07:09:40.642Z"
     }
   ],
   "pokemon": {
@@ -1580,6 +1579,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T12:38:45.506Z",
       "lastPulledAt": "2026-09-22T12:38:45.506Z"
+    },
+    "818": {
+      "id": 818,
+      "name": "inteleon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/818.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-07T19:30:02.850Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T19:30:02.850Z",
+      "lastPulledAt": "2026-10-07T19:30:02.850Z"
     },
     "835": {
       "id": 835,
