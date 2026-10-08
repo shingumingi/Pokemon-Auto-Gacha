@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 134,
-  "updatedAt": "2026-10-08T10:19:55.392Z",
+  "totalPulls": 135,
+  "updatedAt": "2026-10-08T17:26:42.612Z",
   "lastPull": {
-    "id": 540,
-    "name": "sewaddle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/540.png",
+    "id": 545,
+    "name": "scolipede",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
     "types": [
       "bug",
-      "grass"
+      "poison"
     ],
-    "totalStats": 310,
-    "grade": "N",
-    "pulledAt": "2026-10-08T10:19:55.392Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-10-08T17:26:42.612Z"
   },
   "pulls": [
+    {
+      "id": 545,
+      "name": "scolipede",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-08T17:26:42.612Z"
+    },
     {
       "id": 540,
       "name": "sewaddle",
@@ -119,17 +131,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-10-06T15:59:01.500Z"
-    },
-    {
-      "id": 808,
-      "name": "meltan",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/808.png",
-      "types": [
-        "steel"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-06T09:11:32.451Z"
     }
   ],
   "pokemon": {
@@ -1063,6 +1064,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T12:50:32.192Z",
       "lastPulledAt": "2026-10-02T12:50:32.192Z"
+    },
+    "545": {
+      "id": 545,
+      "name": "scolipede",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-08T17:26:42.612Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-08T17:26:42.612Z",
+      "lastPulledAt": "2026-10-08T17:26:42.612Z"
     },
     "549": {
       "id": 549,
