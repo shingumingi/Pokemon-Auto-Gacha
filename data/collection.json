@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 133,
-  "updatedAt": "2026-10-08T02:59:56.033Z",
+  "totalPulls": 134,
+  "updatedAt": "2026-10-08T10:19:55.392Z",
   "lastPull": {
-    "id": 583,
-    "name": "vanillish",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/583.png",
+    "id": 540,
+    "name": "sewaddle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/540.png",
     "types": [
-      "ice"
+      "bug",
+      "grass"
     ],
-    "totalStats": 395,
+    "totalStats": 310,
     "grade": "N",
-    "pulledAt": "2026-10-08T02:59:56.033Z"
+    "pulledAt": "2026-10-08T10:19:55.392Z"
   },
   "pulls": [
+    {
+      "id": 540,
+      "name": "sewaddle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/540.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-08T10:19:55.392Z"
+    },
     {
       "id": 583,
       "name": "vanillish",
@@ -117,18 +130,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-06T09:11:32.451Z"
-    },
-    {
-      "id": 174,
-      "name": "igglybuff",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png",
-      "types": [
-        "normal",
-        "fairy"
-      ],
-      "totalStats": 210,
-      "grade": "N",
-      "pulledAt": "2026-10-06T02:22:48.769Z"
     }
   ],
   "pokemon": {
@@ -1042,10 +1043,10 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-09-16T01:43:18.079Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:43:18.079Z",
-      "lastPulledAt": "2026-09-16T01:43:18.079Z"
+      "lastPulledAt": "2026-10-08T10:19:55.392Z"
     },
     "541": {
       "id": 541,
