@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 139,
-  "updatedAt": "2026-10-09T16:16:54.274Z",
+  "totalPulls": 140,
+  "updatedAt": "2026-10-09T20:59:01.926Z",
   "lastPull": {
-    "id": 903,
-    "name": "sneasler",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/903.png",
+    "id": 838,
+    "name": "carkol",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png",
     "types": [
-      "fighting",
-      "poison"
+      "rock",
+      "fire"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-10-09T16:16:54.274Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-10-09T20:59:01.926Z"
   },
   "pulls": [
+    {
+      "id": 838,
+      "name": "carkol",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png",
+      "types": [
+        "rock",
+        "fire"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-09T20:59:01.926Z"
+    },
     {
       "id": 903,
       "name": "sneasler",
@@ -119,18 +131,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-10-07T19:30:02.850Z"
-    },
-    {
-      "id": 205,
-      "name": "forretress",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
-      "types": [
-        "bug",
-        "steel"
-      ],
-      "totalStats": 465,
-      "grade": "R",
-      "pulledAt": "2026-10-07T13:30:33.174Z"
     }
   ],
   "pokemon": {
@@ -1685,10 +1685,10 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-10-09T09:11:57.879Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-09T09:11:57.879Z",
-      "lastPulledAt": "2026-10-09T09:11:57.879Z"
+      "lastPulledAt": "2026-10-09T20:59:01.926Z"
     },
     "848": {
       "id": 848,
