@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 138,
-  "updatedAt": "2026-10-09T09:11:57.879Z",
+  "totalPulls": 139,
+  "updatedAt": "2026-10-09T16:16:54.274Z",
   "lastPull": {
-    "id": 838,
-    "name": "carkol",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png",
+    "id": 903,
+    "name": "sneasler",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/903.png",
     "types": [
-      "rock",
-      "fire"
+      "fighting",
+      "poison"
     ],
-    "totalStats": 410,
-    "grade": "R",
-    "pulledAt": "2026-10-09T09:11:57.879Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-10-09T16:16:54.274Z"
   },
   "pulls": [
+    {
+      "id": 903,
+      "name": "sneasler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/903.png",
+      "types": [
+        "fighting",
+        "poison"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-09T16:16:54.274Z"
+    },
     {
       "id": 838,
       "name": "carkol",
@@ -119,18 +131,6 @@
       "totalStats": 465,
       "grade": "R",
       "pulledAt": "2026-10-07T13:30:33.174Z"
-    },
-    {
-      "id": 973,
-      "name": "flamigo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/973.png",
-      "types": [
-        "flying",
-        "fighting"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-07T06:10:15.696Z"
     }
   ],
   "pokemon": {
@@ -1863,6 +1863,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:42:18.423Z",
       "lastPulledAt": "2026-09-16T01:42:18.423Z"
+    },
+    "903": {
+      "id": 903,
+      "name": "sneasler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/903.png",
+      "types": [
+        "fighting",
+        "poison"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-09T16:16:54.274Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T16:16:54.274Z",
+      "lastPulledAt": "2026-10-09T16:16:54.274Z"
     },
     "905": {
       "id": 905,
