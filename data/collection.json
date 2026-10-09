@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 137,
-  "updatedAt": "2026-10-09T02:16:12.205Z",
+  "totalPulls": 138,
+  "updatedAt": "2026-10-09T09:11:57.879Z",
   "lastPull": {
-    "id": 93,
-    "name": "haunter",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png",
+    "id": 838,
+    "name": "carkol",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png",
     "types": [
-      "ghost",
-      "poison"
+      "rock",
+      "fire"
     ],
-    "totalStats": 405,
+    "totalStats": 410,
     "grade": "R",
-    "pulledAt": "2026-10-09T02:16:12.205Z"
+    "pulledAt": "2026-10-09T09:11:57.879Z"
   },
   "pulls": [
+    {
+      "id": 838,
+      "name": "carkol",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png",
+      "types": [
+        "rock",
+        "fire"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-09T09:11:57.879Z"
+    },
     {
       "id": 93,
       "name": "haunter",
@@ -119,18 +131,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-07T06:10:15.696Z"
-    },
-    {
-      "id": 986,
-      "name": "brute-bonnet",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png",
-      "types": [
-        "grass",
-        "dark"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-07T00:18:19.853Z"
     }
   ],
   "pokemon": {
@@ -1673,6 +1673,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T22:39:41.306Z",
       "lastPulledAt": "2026-10-04T22:39:41.306Z"
+    },
+    "838": {
+      "id": 838,
+      "name": "carkol",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png",
+      "types": [
+        "rock",
+        "fire"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-09T09:11:57.879Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T09:11:57.879Z",
+      "lastPulledAt": "2026-10-09T09:11:57.879Z"
     },
     "848": {
       "id": 848,
