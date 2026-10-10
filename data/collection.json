@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 145,
-  "updatedAt": "2026-10-10T20:39:11.195Z",
+  "totalPulls": 146,
+  "updatedAt": "2026-10-10T23:49:10.646Z",
   "lastPull": {
-    "id": 357,
-    "name": "tropius",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
+    "id": 925,
+    "name": "maushold-family-of-four",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
     "types": [
-      "grass",
-      "flying"
+      "normal"
     ],
-    "totalStats": 460,
+    "totalStats": 470,
     "grade": "R",
-    "pulledAt": "2026-10-10T20:39:11.195Z"
+    "pulledAt": "2026-10-10T23:49:10.646Z"
   },
   "pulls": [
+    {
+      "id": 925,
+      "name": "maushold-family-of-four",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-10T23:49:10.646Z"
+    },
     {
       "id": 357,
       "name": "tropius",
@@ -120,18 +130,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-09T02:16:12.205Z"
-    },
-    {
-      "id": 1025,
-      "name": "pecharunt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1025.png",
-      "types": [
-        "poison",
-        "ghost"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-08T22:17:16.015Z"
     }
   ],
   "pokemon": {
@@ -1958,6 +1956,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T23:20:19.952Z",
       "lastPulledAt": "2026-09-18T23:20:19.952Z"
+    },
+    "925": {
+      "id": 925,
+      "name": "maushold-family-of-four",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-10T23:49:10.646Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T23:49:10.646Z",
+      "lastPulledAt": "2026-10-10T23:49:10.646Z"
     },
     "929": {
       "id": 929,
