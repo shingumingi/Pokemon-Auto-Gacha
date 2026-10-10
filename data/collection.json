@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 144,
-  "updatedAt": "2026-10-10T17:29:27.302Z",
+  "totalPulls": 145,
+  "updatedAt": "2026-10-10T20:39:11.195Z",
   "lastPull": {
-    "id": 983,
-    "name": "kingambit",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png",
+    "id": 357,
+    "name": "tropius",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
     "types": [
-      "dark",
-      "steel"
+      "grass",
+      "flying"
     ],
-    "totalStats": 550,
-    "grade": "SR",
-    "pulledAt": "2026-10-10T17:29:27.302Z"
+    "totalStats": 460,
+    "grade": "R",
+    "pulledAt": "2026-10-10T20:39:11.195Z"
   },
   "pulls": [
+    {
+      "id": 357,
+      "name": "tropius",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-10-10T20:39:11.195Z"
+    },
     {
       "id": 983,
       "name": "kingambit",
@@ -120,18 +132,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-08T22:17:16.015Z"
-    },
-    {
-      "id": 545,
-      "name": "scolipede",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-08T17:26:42.612Z"
     }
   ],
   "pokemon": {
@@ -740,6 +740,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T22:06:33.187Z",
       "lastPulledAt": "2026-10-03T22:06:33.187Z"
+    },
+    "357": {
+      "id": 357,
+      "name": "tropius",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-10-10T20:39:11.195Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T20:39:11.195Z",
+      "lastPulledAt": "2026-10-10T20:39:11.195Z"
     },
     "359": {
       "id": 359,
