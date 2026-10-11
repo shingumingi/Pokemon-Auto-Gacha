@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 146,
-  "updatedAt": "2026-10-10T23:49:10.646Z",
+  "totalPulls": 147,
+  "updatedAt": "2026-10-11T02:16:20.225Z",
   "lastPull": {
-    "id": 925,
-    "name": "maushold-family-of-four",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
+    "id": 395,
+    "name": "empoleon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
     "types": [
-      "normal"
+      "water",
+      "steel"
     ],
-    "totalStats": 470,
-    "grade": "R",
-    "pulledAt": "2026-10-10T23:49:10.646Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-10-11T02:16:20.225Z"
   },
   "pulls": [
+    {
+      "id": 395,
+      "name": "empoleon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
+      "types": [
+        "water",
+        "steel"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-11T02:16:20.225Z"
+    },
     {
       "id": 925,
       "name": "maushold-family-of-four",
@@ -118,18 +131,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-10-09T09:11:57.879Z"
-    },
-    {
-      "id": 93,
-      "name": "haunter",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png",
-      "types": [
-        "ghost",
-        "poison"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-10-09T02:16:12.205Z"
     }
   ],
   "pokemon": {
@@ -861,6 +862,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T01:29:38.453Z",
       "lastPulledAt": "2026-09-30T02:02:28.003Z"
+    },
+    "395": {
+      "id": 395,
+      "name": "empoleon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
+      "types": [
+        "water",
+        "steel"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-11T02:16:20.225Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T02:16:20.225Z",
+      "lastPulledAt": "2026-10-11T02:16:20.225Z"
     },
     "402": {
       "id": 402,
