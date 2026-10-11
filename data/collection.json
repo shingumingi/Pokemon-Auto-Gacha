@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 150,
-  "updatedAt": "2026-10-11T19:41:11.310Z",
+  "totalPulls": 151,
+  "updatedAt": "2026-10-11T23:12:04.833Z",
   "lastPull": {
-    "id": 200,
-    "name": "misdreavus",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/200.png",
+    "id": 54,
+    "name": "psyduck",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
     "types": [
-      "ghost"
+      "water"
     ],
-    "totalStats": 435,
-    "grade": "R",
-    "pulledAt": "2026-10-11T19:41:11.310Z"
+    "totalStats": 320,
+    "grade": "N",
+    "pulledAt": "2026-10-11T23:12:04.833Z"
   },
   "pulls": [
+    {
+      "id": 54,
+      "name": "psyduck",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-11T23:12:04.833Z"
+    },
     {
       "id": 200,
       "name": "misdreavus",
@@ -115,18 +126,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-10T06:21:24.438Z"
-    },
-    {
-      "id": 375,
-      "name": "metang",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/375.png",
-      "types": [
-        "steel",
-        "psychic"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-10-10T00:36:51.830Z"
     }
   ],
   "pokemon": {
@@ -191,6 +190,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T06:12:14.093Z",
       "lastPulledAt": "2026-09-19T06:12:14.093Z"
+    },
+    "54": {
+      "id": 54,
+      "name": "psyduck",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-11T23:12:04.833Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T23:12:04.833Z",
+      "lastPulledAt": "2026-10-11T23:12:04.833Z"
     },
     "66": {
       "id": 66,
