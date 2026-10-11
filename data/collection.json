@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 149,
-  "updatedAt": "2026-10-11T15:32:25.726Z",
+  "totalPulls": 150,
+  "updatedAt": "2026-10-11T19:41:11.310Z",
   "lastPull": {
-    "id": 309,
-    "name": "electrike",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
+    "id": 200,
+    "name": "misdreavus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/200.png",
     "types": [
-      "electric"
+      "ghost"
     ],
-    "totalStats": 295,
-    "grade": "N",
-    "pulledAt": "2026-10-11T15:32:25.726Z"
+    "totalStats": 435,
+    "grade": "R",
+    "pulledAt": "2026-10-11T19:41:11.310Z"
   },
   "pulls": [
+    {
+      "id": 200,
+      "name": "misdreavus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/200.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 435,
+      "grade": "R",
+      "pulledAt": "2026-10-11T19:41:11.310Z"
+    },
     {
       "id": 309,
       "name": "electrike",
@@ -116,18 +127,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-10-10T00:36:51.830Z"
-    },
-    {
-      "id": 838,
-      "name": "carkol",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png",
-      "types": [
-        "rock",
-        "fire"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-10-09T20:59:01.926Z"
     }
   ],
   "pokemon": {
@@ -504,6 +503,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:39:41.023Z",
       "lastPulledAt": "2026-10-04T12:30:08.553Z"
+    },
+    "200": {
+      "id": 200,
+      "name": "misdreavus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/200.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 435,
+      "grade": "R",
+      "pulledAt": "2026-10-11T19:41:11.310Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T19:41:11.310Z",
+      "lastPulledAt": "2026-10-11T19:41:11.310Z"
     },
     "205": {
       "id": 205,
