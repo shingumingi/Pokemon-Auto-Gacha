@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 147,
-  "updatedAt": "2026-10-11T02:16:20.225Z",
+  "totalPulls": 148,
+  "updatedAt": "2026-10-11T09:00:11.036Z",
   "lastPull": {
-    "id": 395,
-    "name": "empoleon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
+    "id": 568,
+    "name": "trubbish",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/568.png",
     "types": [
-      "water",
-      "steel"
+      "poison"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-10-11T02:16:20.225Z"
+    "totalStats": 329,
+    "grade": "N",
+    "pulledAt": "2026-10-11T09:00:11.036Z"
   },
   "pulls": [
+    {
+      "id": 568,
+      "name": "trubbish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/568.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 329,
+      "grade": "N",
+      "pulledAt": "2026-10-11T09:00:11.036Z"
+    },
     {
       "id": 395,
       "name": "empoleon",
@@ -119,18 +129,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-10-09T16:16:54.274Z"
-    },
-    {
-      "id": 838,
-      "name": "carkol",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png",
-      "types": [
-        "rock",
-        "fire"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-10-09T09:11:57.879Z"
     }
   ],
   "pokemon": {
@@ -1190,6 +1188,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T23:44:19.667Z",
       "lastPulledAt": "2026-09-17T23:44:19.667Z"
+    },
+    "568": {
+      "id": 568,
+      "name": "trubbish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/568.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 329,
+      "grade": "N",
+      "pulledAt": "2026-10-11T09:00:11.036Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T09:00:11.036Z",
+      "lastPulledAt": "2026-10-11T09:00:11.036Z"
     },
     "570": {
       "id": 570,
