@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 148,
-  "updatedAt": "2026-10-11T09:00:11.036Z",
+  "totalPulls": 149,
+  "updatedAt": "2026-10-11T15:32:25.726Z",
   "lastPull": {
-    "id": 568,
-    "name": "trubbish",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/568.png",
+    "id": 309,
+    "name": "electrike",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
     "types": [
-      "poison"
+      "electric"
     ],
-    "totalStats": 329,
+    "totalStats": 295,
     "grade": "N",
-    "pulledAt": "2026-10-11T09:00:11.036Z"
+    "pulledAt": "2026-10-11T15:32:25.726Z"
   },
   "pulls": [
+    {
+      "id": 309,
+      "name": "electrike",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 295,
+      "grade": "N",
+      "pulledAt": "2026-10-11T15:32:25.726Z"
+    },
     {
       "id": 568,
       "name": "trubbish",
@@ -117,18 +128,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-10-09T20:59:01.926Z"
-    },
-    {
-      "id": 903,
-      "name": "sneasler",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/903.png",
-      "types": [
-        "fighting",
-        "poison"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-10-09T16:16:54.274Z"
     }
   ],
   "pokemon": {
@@ -707,6 +706,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T11:43:36.730Z",
       "lastPulledAt": "2026-09-23T11:43:36.730Z"
+    },
+    "309": {
+      "id": 309,
+      "name": "electrike",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 295,
+      "grade": "N",
+      "pulledAt": "2026-10-11T15:32:25.726Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T15:32:25.726Z",
+      "lastPulledAt": "2026-10-11T15:32:25.726Z"
     },
     "312": {
       "id": 312,
