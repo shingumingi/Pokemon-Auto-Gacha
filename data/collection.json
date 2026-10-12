@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 152,
-  "updatedAt": "2026-10-12T02:27:14.051Z",
+  "totalPulls": 153,
+  "updatedAt": "2026-10-12T09:35:11.967Z",
   "lastPull": {
-    "id": 816,
-    "name": "sobble",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/816.png",
+    "id": 793,
+    "name": "nihilego",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/793.png",
     "types": [
-      "water"
+      "rock",
+      "poison"
     ],
-    "totalStats": 310,
-    "grade": "N",
-    "pulledAt": "2026-10-12T02:27:14.051Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-10-12T09:35:11.967Z"
   },
   "pulls": [
+    {
+      "id": 793,
+      "name": "nihilego",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/793.png",
+      "types": [
+        "rock",
+        "poison"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-12T09:35:11.967Z"
+    },
     {
       "id": 816,
       "name": "sobble",
@@ -115,17 +128,6 @@
       "totalStats": 550,
       "grade": "SR",
       "pulledAt": "2026-10-10T17:29:27.302Z"
-    },
-    {
-      "id": 870,
-      "name": "falinks",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-10-10T12:49:16.759Z"
     }
   ],
   "pokemon": {
@@ -1684,6 +1686,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T01:23:37.993Z",
       "lastPulledAt": "2026-09-29T01:23:37.993Z"
+    },
+    "793": {
+      "id": 793,
+      "name": "nihilego",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/793.png",
+      "types": [
+        "rock",
+        "poison"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-12T09:35:11.967Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-12T09:35:11.967Z",
+      "lastPulledAt": "2026-10-12T09:35:11.967Z"
     },
     "802": {
       "id": 802,
