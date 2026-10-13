@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 158,
-  "updatedAt": "2026-10-13T20:50:06.608Z",
+  "totalPulls": 159,
+  "updatedAt": "2026-10-13T23:58:17.527Z",
   "lastPull": {
-    "id": 399,
-    "name": "bidoof",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/399.png",
+    "id": 221,
+    "name": "piloswine",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png",
     "types": [
-      "normal"
+      "ice",
+      "ground"
     ],
-    "totalStats": 250,
-    "grade": "N",
-    "pulledAt": "2026-10-13T20:50:06.608Z"
+    "totalStats": 450,
+    "grade": "R",
+    "pulledAt": "2026-10-13T23:58:17.527Z"
   },
   "pulls": [
+    {
+      "id": 221,
+      "name": "piloswine",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png",
+      "types": [
+        "ice",
+        "ground"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-10-13T23:58:17.527Z"
+    },
     {
       "id": 399,
       "name": "bidoof",
@@ -116,17 +129,6 @@
       "totalStats": 435,
       "grade": "R",
       "pulledAt": "2026-10-11T19:41:11.310Z"
-    },
-    {
-      "id": 309,
-      "name": "electrike",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 295,
-      "grade": "N",
-      "pulledAt": "2026-10-11T15:32:25.726Z"
     }
   ],
   "pokemon": {
@@ -565,6 +567,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T13:30:33.174Z",
       "lastPulledAt": "2026-10-07T13:30:33.174Z"
+    },
+    "221": {
+      "id": 221,
+      "name": "piloswine",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png",
+      "types": [
+        "ice",
+        "ground"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-10-13T23:58:17.527Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-13T23:58:17.527Z",
+      "lastPulledAt": "2026-10-13T23:58:17.527Z"
     },
     "222": {
       "id": 222,
