@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 161,
-  "updatedAt": "2026-10-14T09:27:46.616Z",
+  "totalPulls": 162,
+  "updatedAt": "2026-10-14T14:37:10.113Z",
   "lastPull": {
-    "id": 670,
-    "name": "floette",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/670.png",
+    "id": 577,
+    "name": "solosis",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png",
     "types": [
-      "fairy"
+      "psychic"
     ],
-    "totalStats": 371,
+    "totalStats": 290,
     "grade": "N",
-    "pulledAt": "2026-10-14T09:27:46.616Z"
+    "pulledAt": "2026-10-14T14:37:10.113Z"
   },
   "pulls": [
+    {
+      "id": 577,
+      "name": "solosis",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-14T14:37:10.113Z"
+    },
     {
       "id": 670,
       "name": "floette",
@@ -118,17 +129,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-12T09:35:11.967Z"
-    },
-    {
-      "id": 816,
-      "name": "sobble",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/816.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-10-12T02:27:14.051Z"
     }
   ],
   "pokemon": {
@@ -1342,6 +1342,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T16:59:46.184Z",
       "lastPulledAt": "2026-09-21T16:59:46.184Z"
+    },
+    "577": {
+      "id": 577,
+      "name": "solosis",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-14T14:37:10.113Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-14T14:37:10.113Z",
+      "lastPulledAt": "2026-10-14T14:37:10.113Z"
     },
     "579": {
       "id": 579,
