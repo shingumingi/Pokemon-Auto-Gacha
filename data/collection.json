@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 162,
-  "updatedAt": "2026-10-14T14:37:10.113Z",
+  "totalPulls": 163,
+  "updatedAt": "2026-10-14T18:51:48.186Z",
   "lastPull": {
-    "id": 577,
-    "name": "solosis",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png",
+    "id": 606,
+    "name": "beheeyem",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/606.png",
     "types": [
       "psychic"
     ],
-    "totalStats": 290,
-    "grade": "N",
-    "pulledAt": "2026-10-14T14:37:10.113Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-10-14T18:51:48.186Z"
   },
   "pulls": [
+    {
+      "id": 606,
+      "name": "beheeyem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/606.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-14T18:51:48.186Z"
+    },
     {
       "id": 577,
       "name": "solosis",
@@ -117,18 +128,6 @@
       "totalStats": 280,
       "grade": "N",
       "pulledAt": "2026-10-12T19:17:00.119Z"
-    },
-    {
-      "id": 793,
-      "name": "nihilego",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/793.png",
-      "types": [
-        "rock",
-        "poison"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-12T09:35:11.967Z"
     }
   ],
   "pokemon": {
@@ -1433,6 +1432,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T00:35:50.210Z",
       "lastPulledAt": "2026-09-24T00:35:50.210Z"
+    },
+    "606": {
+      "id": 606,
+      "name": "beheeyem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/606.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-14T18:51:48.186Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-14T18:51:48.186Z",
+      "lastPulledAt": "2026-10-14T18:51:48.186Z"
     },
     "609": {
       "id": 609,
