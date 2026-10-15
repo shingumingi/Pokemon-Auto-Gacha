@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 167,
-  "updatedAt": "2026-10-15T09:39:10.385Z",
+  "totalPulls": 168,
+  "updatedAt": "2026-10-15T14:24:23.237Z",
   "lastPull": {
-    "id": 700,
-    "name": "sylveon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
+    "id": 15,
+    "name": "beedrill",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
     "types": [
-      "fairy"
+      "bug",
+      "poison"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-10-15T09:39:10.385Z"
+    "totalStats": 395,
+    "grade": "N",
+    "pulledAt": "2026-10-15T14:24:23.237Z"
   },
   "pulls": [
+    {
+      "id": 15,
+      "name": "beedrill",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 395,
+      "grade": "N",
+      "pulledAt": "2026-10-15T14:24:23.237Z"
+    },
     {
       "id": 700,
       "name": "sylveon",
@@ -114,17 +127,6 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-10-13T23:58:17.527Z"
-    },
-    {
-      "id": 399,
-      "name": "bidoof",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/399.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 250,
-      "grade": "N",
-      "pulledAt": "2026-10-13T20:50:06.608Z"
     }
   ],
   "pokemon": {
@@ -142,6 +144,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T19:13:34.628Z",
       "lastPulledAt": "2026-09-24T19:13:34.628Z"
+    },
+    "15": {
+      "id": 15,
+      "name": "beedrill",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 395,
+      "grade": "N",
+      "pulledAt": "2026-10-15T14:24:23.237Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T14:24:23.237Z",
+      "lastPulledAt": "2026-10-15T14:24:23.237Z"
     },
     "36": {
       "id": 36,
