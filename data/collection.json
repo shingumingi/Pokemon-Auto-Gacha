@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 164,
-  "updatedAt": "2026-10-14T22:00:00.059Z",
+  "totalPulls": 165,
+  "updatedAt": "2026-10-15T00:24:04.120Z",
   "lastPull": {
-    "id": 924,
-    "name": "tandemaus",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/924.png",
+    "id": 651,
+    "name": "quilladin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png",
     "types": [
-      "normal"
+      "grass"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-10-14T22:00:00.059Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-10-15T00:24:04.120Z"
   },
   "pulls": [
+    {
+      "id": 651,
+      "name": "quilladin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-15T00:24:04.120Z"
+    },
     {
       "id": 924,
       "name": "tandemaus",
@@ -116,18 +127,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-13T07:58:47.559Z"
-    },
-    {
-      "id": 76,
-      "name": "golem",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
-      "types": [
-        "rock",
-        "ground"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-13T01:24:26.715Z"
     }
   ],
   "pokemon": {
@@ -1558,6 +1557,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T05:44:53.641Z",
       "lastPulledAt": "2026-09-26T05:44:53.641Z"
+    },
+    "651": {
+      "id": 651,
+      "name": "quilladin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-15T00:24:04.120Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T00:24:04.120Z",
+      "lastPulledAt": "2026-10-15T00:24:04.120Z"
     },
     "654": {
       "id": 654,
