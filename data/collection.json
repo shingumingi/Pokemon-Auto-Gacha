@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 174,
-  "updatedAt": "2026-10-16T12:42:21.322Z",
+  "totalPulls": 175,
+  "updatedAt": "2026-10-16T16:59:46.508Z",
   "lastPull": {
-    "id": 414,
-    "name": "mothim",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/414.png",
+    "id": 695,
+    "name": "heliolisk",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
     "types": [
-      "bug",
-      "flying"
+      "electric",
+      "normal"
     ],
-    "totalStats": 424,
+    "totalStats": 481,
     "grade": "R",
-    "pulledAt": "2026-10-16T12:42:21.322Z"
+    "pulledAt": "2026-10-16T16:59:46.508Z"
   },
   "pulls": [
+    {
+      "id": 695,
+      "name": "heliolisk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
+      "types": [
+        "electric",
+        "normal"
+      ],
+      "totalStats": 481,
+      "grade": "R",
+      "pulledAt": "2026-10-16T16:59:46.508Z"
+    },
     {
       "id": 414,
       "name": "mothim",
@@ -119,17 +131,6 @@
       "totalStats": 280,
       "grade": "N",
       "pulledAt": "2026-10-15T04:57:48.575Z"
-    },
-    {
-      "id": 651,
-      "name": "quilladin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-10-15T00:24:04.120Z"
     }
   ],
   "pokemon": {
@@ -1762,6 +1763,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T23:29:27.192Z",
       "lastPulledAt": "2026-09-19T23:29:27.192Z"
+    },
+    "695": {
+      "id": 695,
+      "name": "heliolisk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
+      "types": [
+        "electric",
+        "normal"
+      ],
+      "totalStats": 481,
+      "grade": "R",
+      "pulledAt": "2026-10-16T16:59:46.508Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T16:59:46.508Z",
+      "lastPulledAt": "2026-10-16T16:59:46.508Z"
     },
     "700": {
       "id": 700,
