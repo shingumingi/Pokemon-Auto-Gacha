@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 171,
-  "updatedAt": "2026-10-15T23:50:41.829Z",
+  "totalPulls": 172,
+  "updatedAt": "2026-10-16T02:43:23.777Z",
   "lastPull": {
-    "id": 74,
-    "name": "geodude",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png",
+    "id": 63,
+    "name": "abra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
     "types": [
-      "rock",
-      "ground"
+      "psychic"
     ],
-    "totalStats": 300,
+    "totalStats": 310,
     "grade": "N",
-    "pulledAt": "2026-10-15T23:50:41.829Z"
+    "pulledAt": "2026-10-16T02:43:23.777Z"
   },
   "pulls": [
+    {
+      "id": 63,
+      "name": "abra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-16T02:43:23.777Z"
+    },
     {
       "id": 74,
       "name": "geodude",
@@ -117,17 +127,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-14T18:51:48.186Z"
-    },
-    {
-      "id": 577,
-      "name": "solosis",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 290,
-      "grade": "N",
-      "pulledAt": "2026-10-14T14:37:10.113Z"
     }
   ],
   "pokemon": {
@@ -223,6 +222,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T23:12:04.833Z",
       "lastPulledAt": "2026-10-11T23:12:04.833Z"
+    },
+    "63": {
+      "id": 63,
+      "name": "abra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-16T02:43:23.777Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T02:43:23.777Z",
+      "lastPulledAt": "2026-10-16T02:43:23.777Z"
     },
     "66": {
       "id": 66,
