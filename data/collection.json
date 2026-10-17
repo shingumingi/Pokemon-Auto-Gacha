@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 181,
-  "updatedAt": "2026-10-17T12:55:26.673Z",
+  "totalPulls": 182,
+  "updatedAt": "2026-10-17T16:05:18.851Z",
   "lastPull": {
-    "id": 614,
-    "name": "beartic",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png",
+    "id": 150,
+    "name": "mewtwo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
     "types": [
-      "ice"
+      "psychic"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-10-17T12:55:26.673Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-10-17T16:05:18.851Z"
   },
   "pulls": [
+    {
+      "id": 150,
+      "name": "mewtwo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-10-17T16:05:18.851Z"
+    },
     {
       "id": 614,
       "name": "beartic",
@@ -118,17 +129,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-16T07:32:31.969Z"
-    },
-    {
-      "id": 63,
-      "name": "abra",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-10-16T02:43:23.777Z"
     }
   ],
   "pokemon": {
@@ -505,6 +505,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T01:21:03.668Z",
       "lastPulledAt": "2026-09-23T01:21:03.668Z"
+    },
+    "150": {
+      "id": 150,
+      "name": "mewtwo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-10-17T16:05:18.851Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T16:05:18.851Z",
+      "lastPulledAt": "2026-10-17T16:05:18.851Z"
     },
     "162": {
       "id": 162,
