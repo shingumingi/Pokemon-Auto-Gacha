@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 184,
-  "updatedAt": "2026-10-17T20:47:22.982Z",
+  "totalPulls": 185,
+  "updatedAt": "2026-10-17T22:42:11.908Z",
   "lastPull": {
-    "id": 997,
-    "name": "arctibax",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/997.png",
+    "id": 654,
+    "name": "braixen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/654.png",
     "types": [
-      "dragon",
-      "ice"
+      "fire"
     ],
-    "totalStats": 423,
+    "totalStats": 409,
     "grade": "R",
-    "pulledAt": "2026-10-17T20:47:22.982Z"
+    "pulledAt": "2026-10-17T22:42:11.908Z"
   },
   "pulls": [
+    {
+      "id": 654,
+      "name": "braixen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/654.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 409,
+      "grade": "R",
+      "pulledAt": "2026-10-17T22:42:11.908Z"
+    },
     {
       "id": 997,
       "name": "arctibax",
@@ -118,18 +128,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-10-16T19:51:18.889Z"
-    },
-    {
-      "id": 695,
-      "name": "heliolisk",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
-      "types": [
-        "electric",
-        "normal"
-      ],
-      "totalStats": 481,
-      "grade": "R",
-      "pulledAt": "2026-10-16T16:59:46.508Z"
     }
   ],
   "pokemon": {
@@ -1773,10 +1771,10 @@
       "totalStats": 409,
       "grade": "R",
       "pulledAt": "2026-09-19T19:26:47.668Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T19:26:47.668Z",
-      "lastPulledAt": "2026-09-19T19:26:47.668Z"
+      "lastPulledAt": "2026-10-17T22:42:11.908Z"
     },
     "662": {
       "id": 662,
