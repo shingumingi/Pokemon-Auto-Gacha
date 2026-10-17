@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 178,
-  "updatedAt": "2026-10-17T00:39:54.661Z",
+  "totalPulls": 179,
+  "updatedAt": "2026-10-17T04:59:28.756Z",
   "lastPull": {
-    "id": 50,
-    "name": "diglett",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
+    "id": 429,
+    "name": "mismagius",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
     "types": [
-      "ground"
+      "ghost"
     ],
-    "totalStats": 265,
-    "grade": "N",
-    "pulledAt": "2026-10-17T00:39:54.661Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-10-17T04:59:28.756Z"
   },
   "pulls": [
+    {
+      "id": 429,
+      "name": "mismagius",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-17T04:59:28.756Z"
+    },
     {
       "id": 50,
       "name": "diglett",
@@ -119,18 +130,6 @@
       "totalStats": 488,
       "grade": "R",
       "pulledAt": "2026-10-15T21:38:47.390Z"
-    },
-    {
-      "id": 710,
-      "name": "pumpkaboo-average",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/710.png",
-      "types": [
-        "ghost",
-        "grass"
-      ],
-      "totalStats": 335,
-      "grade": "N",
-      "pulledAt": "2026-10-15T18:28:04.703Z"
     }
   ],
   "pokemon": {
@@ -1142,6 +1141,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T00:40:28.872Z",
       "lastPulledAt": "2026-09-25T00:40:28.872Z"
+    },
+    "429": {
+      "id": 429,
+      "name": "mismagius",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-17T04:59:28.756Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T04:59:28.756Z",
+      "lastPulledAt": "2026-10-17T04:59:28.756Z"
     },
     "432": {
       "id": 432,
