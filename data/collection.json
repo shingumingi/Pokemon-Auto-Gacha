@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 179,
-  "updatedAt": "2026-10-17T04:59:28.756Z",
+  "totalPulls": 180,
+  "updatedAt": "2026-10-17T09:07:07.446Z",
   "lastPull": {
-    "id": 429,
-    "name": "mismagius",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
+    "id": 74,
+    "name": "geodude",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png",
     "types": [
-      "ghost"
+      "rock",
+      "ground"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-10-17T04:59:28.756Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-10-17T09:07:07.446Z"
   },
   "pulls": [
+    {
+      "id": 74,
+      "name": "geodude",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-17T09:07:07.446Z"
+    },
     {
       "id": 429,
       "name": "mismagius",
@@ -118,18 +131,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-15T23:50:41.829Z"
-    },
-    {
-      "id": 521,
-      "name": "unfezant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/521.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 488,
-      "grade": "R",
-      "pulledAt": "2026-10-15T21:38:47.390Z"
     }
   ],
   "pokemon": {
@@ -298,10 +299,10 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-15T23:50:41.829Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T23:50:41.829Z",
-      "lastPulledAt": "2026-10-15T23:50:41.829Z"
+      "lastPulledAt": "2026-10-17T09:07:07.446Z"
     },
     "76": {
       "id": 76,
