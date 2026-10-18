@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 187,
-  "updatedAt": "2026-10-18T04:52:51.358Z",
+  "totalPulls": 188,
+  "updatedAt": "2026-10-18T09:16:45.749Z",
   "lastPull": {
-    "id": 929,
-    "name": "dolliv",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png",
+    "id": 694,
+    "name": "helioptile",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/694.png",
     "types": [
-      "grass",
+      "electric",
       "normal"
     ],
-    "totalStats": 354,
+    "totalStats": 289,
     "grade": "N",
-    "pulledAt": "2026-10-18T04:52:51.358Z"
+    "pulledAt": "2026-10-18T09:16:45.749Z"
   },
   "pulls": [
+    {
+      "id": 694,
+      "name": "helioptile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/694.png",
+      "types": [
+        "electric",
+        "normal"
+      ],
+      "totalStats": 289,
+      "grade": "N",
+      "pulledAt": "2026-10-18T09:16:45.749Z"
+    },
     {
       "id": 929,
       "name": "dolliv",
@@ -117,17 +129,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-17T04:59:28.756Z"
-    },
-    {
-      "id": 50,
-      "name": "diglett",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 265,
-      "grade": "N",
-      "pulledAt": "2026-10-17T00:39:54.661Z"
     }
   ],
   "pokemon": {
@@ -1837,6 +1838,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T23:29:27.192Z",
       "lastPulledAt": "2026-09-19T23:29:27.192Z"
+    },
+    "694": {
+      "id": 694,
+      "name": "helioptile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/694.png",
+      "types": [
+        "electric",
+        "normal"
+      ],
+      "totalStats": 289,
+      "grade": "N",
+      "pulledAt": "2026-10-18T09:16:45.749Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T09:16:45.749Z",
+      "lastPulledAt": "2026-10-18T09:16:45.749Z"
     },
     "695": {
       "id": 695,
