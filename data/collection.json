@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 188,
-  "updatedAt": "2026-10-18T09:16:45.749Z",
+  "totalPulls": 189,
+  "updatedAt": "2026-10-18T13:21:18.497Z",
   "lastPull": {
-    "id": 694,
-    "name": "helioptile",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/694.png",
+    "id": 743,
+    "name": "ribombee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/743.png",
     "types": [
-      "electric",
-      "normal"
+      "bug",
+      "fairy"
     ],
-    "totalStats": 289,
-    "grade": "N",
-    "pulledAt": "2026-10-18T09:16:45.749Z"
+    "totalStats": 464,
+    "grade": "R",
+    "pulledAt": "2026-10-18T13:21:18.497Z"
   },
   "pulls": [
+    {
+      "id": 743,
+      "name": "ribombee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/743.png",
+      "types": [
+        "bug",
+        "fairy"
+      ],
+      "totalStats": 464,
+      "grade": "R",
+      "pulledAt": "2026-10-18T13:21:18.497Z"
+    },
     {
       "id": 694,
       "name": "helioptile",
@@ -118,17 +130,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-17T09:07:07.446Z"
-    },
-    {
-      "id": 429,
-      "name": "mismagius",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-17T04:59:28.756Z"
     }
   ],
   "pokemon": {
@@ -2027,6 +2028,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:45:11.071Z",
       "lastPulledAt": "2026-09-16T01:45:11.071Z"
+    },
+    "743": {
+      "id": 743,
+      "name": "ribombee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/743.png",
+      "types": [
+        "bug",
+        "fairy"
+      ],
+      "totalStats": 464,
+      "grade": "R",
+      "pulledAt": "2026-10-18T13:21:18.497Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T13:21:18.497Z",
+      "lastPulledAt": "2026-10-18T13:21:18.497Z"
     },
     "744": {
       "id": 744,
