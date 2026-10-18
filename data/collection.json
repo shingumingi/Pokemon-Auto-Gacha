@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 189,
-  "updatedAt": "2026-10-18T13:21:18.497Z",
+  "totalPulls": 190,
+  "updatedAt": "2026-10-18T16:40:17.552Z",
   "lastPull": {
-    "id": 743,
-    "name": "ribombee",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/743.png",
+    "id": 52,
+    "name": "meowth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
     "types": [
-      "bug",
-      "fairy"
+      "normal"
     ],
-    "totalStats": 464,
-    "grade": "R",
-    "pulledAt": "2026-10-18T13:21:18.497Z"
+    "totalStats": 290,
+    "grade": "N",
+    "pulledAt": "2026-10-18T16:40:17.552Z"
   },
   "pulls": [
+    {
+      "id": 52,
+      "name": "meowth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-18T16:40:17.552Z"
+    },
     {
       "id": 743,
       "name": "ribombee",
@@ -118,18 +128,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-10-17T12:55:26.673Z"
-    },
-    {
-      "id": 74,
-      "name": "geodude",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png",
-      "types": [
-        "rock",
-        "ground"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-17T09:07:07.446Z"
     }
   ],
   "pokemon": {
@@ -225,6 +223,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T00:39:54.661Z",
       "lastPulledAt": "2026-10-17T00:39:54.661Z"
+    },
+    "52": {
+      "id": 52,
+      "name": "meowth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-18T16:40:17.552Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T16:40:17.552Z",
+      "lastPulledAt": "2026-10-18T16:40:17.552Z"
     },
     "54": {
       "id": 54,
