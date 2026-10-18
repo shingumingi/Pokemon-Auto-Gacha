@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 186,
-  "updatedAt": "2026-10-18T00:25:13.005Z",
+  "totalPulls": 187,
+  "updatedAt": "2026-10-18T04:52:51.358Z",
   "lastPull": {
-    "id": 705,
-    "name": "sliggoo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
+    "id": 929,
+    "name": "dolliv",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png",
     "types": [
-      "dragon"
+      "grass",
+      "normal"
     ],
-    "totalStats": 452,
-    "grade": "R",
-    "pulledAt": "2026-10-18T00:25:13.005Z"
+    "totalStats": 354,
+    "grade": "N",
+    "pulledAt": "2026-10-18T04:52:51.358Z"
   },
   "pulls": [
+    {
+      "id": 929,
+      "name": "dolliv",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png",
+      "types": [
+        "grass",
+        "normal"
+      ],
+      "totalStats": 354,
+      "grade": "N",
+      "pulledAt": "2026-10-18T04:52:51.358Z"
+    },
     {
       "id": 705,
       "name": "sliggoo",
@@ -115,18 +128,6 @@
       "totalStats": 265,
       "grade": "N",
       "pulledAt": "2026-10-17T00:39:54.661Z"
-    },
-    {
-      "id": 441,
-      "name": "chatot",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/441.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 411,
-      "grade": "R",
-      "pulledAt": "2026-10-16T22:24:30.307Z"
     }
   ],
   "pokemon": {
@@ -2537,10 +2538,10 @@
       "totalStats": 354,
       "grade": "N",
       "pulledAt": "2026-09-22T22:59:19.988Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T22:59:19.988Z",
-      "lastPulledAt": "2026-09-22T22:59:19.988Z"
+      "lastPulledAt": "2026-10-18T04:52:51.358Z"
     },
     "936": {
       "id": 936,
