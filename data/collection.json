@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 190,
-  "updatedAt": "2026-10-18T16:40:17.552Z",
+  "totalPulls": 191,
+  "updatedAt": "2026-10-18T18:58:48.850Z",
   "lastPull": {
-    "id": 52,
-    "name": "meowth",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+    "id": 760,
+    "name": "bewear",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
     "types": [
-      "normal"
+      "normal",
+      "fighting"
     ],
-    "totalStats": 290,
-    "grade": "N",
-    "pulledAt": "2026-10-18T16:40:17.552Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-10-18T18:58:48.850Z"
   },
   "pulls": [
+    {
+      "id": 760,
+      "name": "bewear",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
+      "types": [
+        "normal",
+        "fighting"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-18T18:58:48.850Z"
+    },
     {
       "id": 52,
       "name": "meowth",
@@ -117,17 +130,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-10-17T16:05:18.851Z"
-    },
-    {
-      "id": 614,
-      "name": "beartic",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-10-17T12:55:26.673Z"
     }
   ],
   "pokemon": {
@@ -2104,6 +2106,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T11:53:25.165Z",
       "lastPulledAt": "2026-09-16T11:53:25.165Z"
+    },
+    "760": {
+      "id": 760,
+      "name": "bewear",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
+      "types": [
+        "normal",
+        "fighting"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-18T18:58:48.850Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T18:58:48.850Z",
+      "lastPulledAt": "2026-10-18T18:58:48.850Z"
     },
     "767": {
       "id": 767,
