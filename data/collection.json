@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 197,
-  "updatedAt": "2026-10-19T19:37:01.999Z",
+  "totalPulls": 198,
+  "updatedAt": "2026-10-19T23:04:07.427Z",
   "lastPull": {
-    "id": 434,
-    "name": "stunky",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png",
+    "id": 896,
+    "name": "glastrier",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
     "types": [
-      "poison",
-      "dark"
+      "ice"
     ],
-    "totalStats": 329,
-    "grade": "N",
-    "pulledAt": "2026-10-19T19:37:01.999Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-10-19T23:04:07.427Z"
   },
   "pulls": [
+    {
+      "id": 896,
+      "name": "glastrier",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-19T23:04:07.427Z"
+    },
     {
       "id": 434,
       "name": "stunky",
@@ -120,18 +130,6 @@
       "totalStats": 464,
       "grade": "R",
       "pulledAt": "2026-10-18T13:21:18.497Z"
-    },
-    {
-      "id": 694,
-      "name": "helioptile",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/694.png",
-      "types": [
-        "electric",
-        "normal"
-      ],
-      "totalStats": 289,
-      "grade": "N",
-      "pulledAt": "2026-10-18T09:16:45.749Z"
     }
   ],
   "pokemon": {
@@ -2594,6 +2592,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:45:47.287Z",
       "lastPulledAt": "2026-09-16T01:45:47.287Z"
+    },
+    "896": {
+      "id": 896,
+      "name": "glastrier",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-19T23:04:07.427Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T23:04:07.427Z",
+      "lastPulledAt": "2026-10-19T23:04:07.427Z"
     },
     "898": {
       "id": 898,
