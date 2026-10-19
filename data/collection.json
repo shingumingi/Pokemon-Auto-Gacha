@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 193,
-  "updatedAt": "2026-10-18T23:22:40.231Z",
+  "totalPulls": 194,
+  "updatedAt": "2026-10-19T01:28:33.434Z",
   "lastPull": {
-    "id": 406,
-    "name": "budew",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/406.png",
+    "id": 708,
+    "name": "phantump",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/708.png",
     "types": [
-      "grass",
-      "poison"
+      "ghost",
+      "grass"
     ],
-    "totalStats": 280,
+    "totalStats": 309,
     "grade": "N",
-    "pulledAt": "2026-10-18T23:22:40.231Z"
+    "pulledAt": "2026-10-19T01:28:33.434Z"
   },
   "pulls": [
+    {
+      "id": 708,
+      "name": "phantump",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/708.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 309,
+      "grade": "N",
+      "pulledAt": "2026-10-19T01:28:33.434Z"
+    },
     {
       "id": 406,
       "name": "budew",
@@ -119,18 +131,6 @@
       "totalStats": 409,
       "grade": "R",
       "pulledAt": "2026-10-17T22:42:11.908Z"
-    },
-    {
-      "id": 997,
-      "name": "arctibax",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/997.png",
-      "types": [
-        "dragon",
-        "ice"
-      ],
-      "totalStats": 423,
-      "grade": "R",
-      "pulledAt": "2026-10-17T20:47:22.982Z"
     }
   ],
   "pokemon": {
@@ -1949,6 +1949,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T00:25:13.005Z",
       "lastPulledAt": "2026-10-18T00:25:13.005Z"
+    },
+    "708": {
+      "id": 708,
+      "name": "phantump",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/708.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 309,
+      "grade": "N",
+      "pulledAt": "2026-10-19T01:28:33.434Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T01:28:33.434Z",
+      "lastPulledAt": "2026-10-19T01:28:33.434Z"
     },
     "710": {
       "id": 710,
