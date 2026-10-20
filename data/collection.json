@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 201,
-  "updatedAt": "2026-10-20T12:16:34.072Z",
+  "totalPulls": 202,
+  "updatedAt": "2026-10-20T17:16:39.047Z",
   "lastPull": {
-    "id": 771,
-    "name": "pyukumuku",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png",
+    "id": 262,
+    "name": "mightyena",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png",
     "types": [
-      "water"
+      "dark"
     ],
-    "totalStats": 410,
+    "totalStats": 420,
     "grade": "R",
-    "pulledAt": "2026-10-20T12:16:34.072Z"
+    "pulledAt": "2026-10-20T17:16:39.047Z"
   },
   "pulls": [
+    {
+      "id": 262,
+      "name": "mightyena",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-20T17:16:39.047Z"
+    },
     {
       "id": 771,
       "name": "pyukumuku",
@@ -117,18 +128,6 @@
       "totalStats": 280,
       "grade": "N",
       "pulledAt": "2026-10-18T23:22:40.231Z"
-    },
-    {
-      "id": 747,
-      "name": "mareanie",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/747.png",
-      "types": [
-        "poison",
-        "water"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-18T21:20:04.525Z"
     }
   ],
   "pokemon": {
@@ -892,6 +891,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-13T15:43:16.737Z",
       "lastPulledAt": "2026-10-13T15:43:16.737Z"
+    },
+    "262": {
+      "id": 262,
+      "name": "mightyena",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-20T17:16:39.047Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T17:16:39.047Z",
+      "lastPulledAt": "2026-10-20T17:16:39.047Z"
     },
     "263": {
       "id": 263,
