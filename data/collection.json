@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 199,
-  "updatedAt": "2026-10-20T01:44:16.540Z",
+  "totalPulls": 200,
+  "updatedAt": "2026-10-20T06:40:25.552Z",
   "lastPull": {
-    "id": 51,
-    "name": "dugtrio",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
+    "id": 274,
+    "name": "nuzleaf",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png",
     "types": [
-      "ground"
+      "grass",
+      "dark"
     ],
-    "totalStats": 425,
-    "grade": "R",
-    "pulledAt": "2026-10-20T01:44:16.540Z"
+    "totalStats": 340,
+    "grade": "N",
+    "pulledAt": "2026-10-20T06:40:25.552Z"
   },
   "pulls": [
+    {
+      "id": 274,
+      "name": "nuzleaf",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-10-20T06:40:25.552Z"
+    },
     {
       "id": 51,
       "name": "dugtrio",
@@ -118,17 +131,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-18T18:58:48.850Z"
-    },
-    {
-      "id": 52,
-      "name": "meowth",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 290,
-      "grade": "N",
-      "pulledAt": "2026-10-18T16:40:17.552Z"
     }
   ],
   "pokemon": {
@@ -907,6 +909,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T22:10:58.379Z",
       "lastPulledAt": "2026-10-02T22:10:58.379Z"
+    },
+    "274": {
+      "id": 274,
+      "name": "nuzleaf",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-10-20T06:40:25.552Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T06:40:25.552Z",
+      "lastPulledAt": "2026-10-20T06:40:25.552Z"
     },
     "286": {
       "id": 286,
