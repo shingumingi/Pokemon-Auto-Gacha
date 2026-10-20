@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 198,
-  "updatedAt": "2026-10-19T23:04:07.427Z",
+  "totalPulls": 199,
+  "updatedAt": "2026-10-20T01:44:16.540Z",
   "lastPull": {
-    "id": 896,
-    "name": "glastrier",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
+    "id": 51,
+    "name": "dugtrio",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
     "types": [
-      "ice"
+      "ground"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-10-19T23:04:07.427Z"
+    "totalStats": 425,
+    "grade": "R",
+    "pulledAt": "2026-10-20T01:44:16.540Z"
   },
   "pulls": [
+    {
+      "id": 51,
+      "name": "dugtrio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-10-20T01:44:16.540Z"
+    },
     {
       "id": 896,
       "name": "glastrier",
@@ -118,18 +129,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-10-18T16:40:17.552Z"
-    },
-    {
-      "id": 743,
-      "name": "ribombee",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/743.png",
-      "types": [
-        "bug",
-        "fairy"
-      ],
-      "totalStats": 464,
-      "grade": "R",
-      "pulledAt": "2026-10-18T13:21:18.497Z"
     }
   ],
   "pokemon": {
@@ -225,6 +224,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T00:39:54.661Z",
       "lastPulledAt": "2026-10-17T00:39:54.661Z"
+    },
+    "51": {
+      "id": 51,
+      "name": "dugtrio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-10-20T01:44:16.540Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T01:44:16.540Z",
+      "lastPulledAt": "2026-10-20T01:44:16.540Z"
     },
     "52": {
       "id": 52,
