@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 200,
-  "updatedAt": "2026-10-20T06:40:25.552Z",
+  "totalPulls": 201,
+  "updatedAt": "2026-10-20T12:16:34.072Z",
   "lastPull": {
-    "id": 274,
-    "name": "nuzleaf",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png",
+    "id": 771,
+    "name": "pyukumuku",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png",
     "types": [
-      "grass",
-      "dark"
+      "water"
     ],
-    "totalStats": 340,
-    "grade": "N",
-    "pulledAt": "2026-10-20T06:40:25.552Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-10-20T12:16:34.072Z"
   },
   "pulls": [
+    {
+      "id": 771,
+      "name": "pyukumuku",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-20T12:16:34.072Z"
+    },
     {
       "id": 274,
       "name": "nuzleaf",
@@ -119,18 +129,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-18T21:20:04.525Z"
-    },
-    {
-      "id": 760,
-      "name": "bewear",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
-      "types": [
-        "normal",
-        "fighting"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-18T18:58:48.850Z"
     }
   ],
   "pokemon": {
@@ -2281,6 +2279,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T21:12:34.119Z",
       "lastPulledAt": "2026-09-18T21:12:34.119Z"
+    },
+    "771": {
+      "id": 771,
+      "name": "pyukumuku",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-20T12:16:34.072Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T12:16:34.072Z",
+      "lastPulledAt": "2026-10-20T12:16:34.072Z"
     },
     "786": {
       "id": 786,
