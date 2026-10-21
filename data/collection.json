@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 207,
-  "updatedAt": "2026-10-21T12:23:47.629Z",
+  "totalPulls": 208,
+  "updatedAt": "2026-10-21T17:29:43.493Z",
   "lastPull": {
-    "id": 468,
-    "name": "togekiss",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
+    "id": 782,
+    "name": "jangmo-o",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png",
     "types": [
-      "fairy",
-      "flying"
+      "dragon"
     ],
-    "totalStats": 545,
-    "grade": "SR",
-    "pulledAt": "2026-10-21T12:23:47.629Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-10-21T17:29:43.493Z"
   },
   "pulls": [
+    {
+      "id": 782,
+      "name": "jangmo-o",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-21T17:29:43.493Z"
+    },
     {
       "id": 468,
       "name": "togekiss",
@@ -118,17 +128,6 @@
       "totalStats": 425,
       "grade": "R",
       "pulledAt": "2026-10-20T01:44:16.540Z"
-    },
-    {
-      "id": 896,
-      "name": "glastrier",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-10-19T23:04:07.427Z"
     }
   ],
   "pokemon": {
@@ -2325,6 +2324,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-20T12:16:34.072Z",
       "lastPulledAt": "2026-10-20T12:16:34.072Z"
+    },
+    "782": {
+      "id": 782,
+      "name": "jangmo-o",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-21T17:29:43.493Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T17:29:43.493Z",
+      "lastPulledAt": "2026-10-21T17:29:43.493Z"
     },
     "786": {
       "id": 786,
