@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 206,
-  "updatedAt": "2026-10-21T06:38:55.457Z",
+  "totalPulls": 207,
+  "updatedAt": "2026-10-21T12:23:47.629Z",
   "lastPull": {
-    "id": 939,
-    "name": "bellibolt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
+    "id": 468,
+    "name": "togekiss",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
     "types": [
-      "electric"
+      "fairy",
+      "flying"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-10-21T06:38:55.457Z"
+    "totalStats": 545,
+    "grade": "SR",
+    "pulledAt": "2026-10-21T12:23:47.629Z"
   },
   "pulls": [
+    {
+      "id": 468,
+      "name": "togekiss",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
+      "types": [
+        "fairy",
+        "flying"
+      ],
+      "totalStats": 545,
+      "grade": "SR",
+      "pulledAt": "2026-10-21T12:23:47.629Z"
+    },
     {
       "id": 939,
       "name": "bellibolt",
@@ -116,18 +129,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-10-19T23:04:07.427Z"
-    },
-    {
-      "id": 434,
-      "name": "stunky",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png",
-      "types": [
-        "poison",
-        "dark"
-      ],
-      "totalStats": 329,
-      "grade": "N",
-      "pulledAt": "2026-10-19T19:37:01.999Z"
     }
   ],
   "pokemon": {
@@ -1401,10 +1402,10 @@
       "totalStats": 545,
       "grade": "SR",
       "pulledAt": "2026-09-24T15:10:45.063Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T15:10:45.063Z",
-      "lastPulledAt": "2026-09-24T15:10:45.063Z"
+      "lastPulledAt": "2026-10-21T12:23:47.629Z"
     },
     "469": {
       "id": 469,
