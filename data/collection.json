@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 205,
-  "updatedAt": "2026-10-21T01:50:08.028Z",
+  "totalPulls": 206,
+  "updatedAt": "2026-10-21T06:38:55.457Z",
   "lastPull": {
-    "id": 304,
-    "name": "aron",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
+    "id": 939,
+    "name": "bellibolt",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
     "types": [
-      "steel",
-      "rock"
+      "electric"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-10-21T01:50:08.028Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-10-21T06:38:55.457Z"
   },
   "pulls": [
+    {
+      "id": 939,
+      "name": "bellibolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-21T06:38:55.457Z"
+    },
     {
       "id": 304,
       "name": "aron",
@@ -118,17 +128,6 @@
       "totalStats": 329,
       "grade": "N",
       "pulledAt": "2026-10-19T19:37:01.999Z"
-    },
-    {
-      "id": 626,
-      "name": "bouffalant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/626.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-19T13:55:21.470Z"
     }
   ],
   "pokemon": {
@@ -2809,6 +2808,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T00:35:20.187Z",
       "lastPulledAt": "2026-09-17T00:35:20.187Z"
+    },
+    "939": {
+      "id": 939,
+      "name": "bellibolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-21T06:38:55.457Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T06:38:55.457Z",
+      "lastPulledAt": "2026-10-21T06:38:55.457Z"
     },
     "941": {
       "id": 941,
