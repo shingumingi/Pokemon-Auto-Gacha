@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 204,
-  "updatedAt": "2026-10-20T23:26:43.691Z",
+  "totalPulls": 205,
+  "updatedAt": "2026-10-21T01:50:08.028Z",
   "lastPull": {
-    "id": 45,
-    "name": "vileplume",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png",
+    "id": 304,
+    "name": "aron",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
     "types": [
-      "grass",
-      "poison"
+      "steel",
+      "rock"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-10-20T23:26:43.691Z"
+    "totalStats": 330,
+    "grade": "N",
+    "pulledAt": "2026-10-21T01:50:08.028Z"
   },
   "pulls": [
+    {
+      "id": 304,
+      "name": "aron",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-21T01:50:08.028Z"
+    },
     {
       "id": 45,
       "name": "vileplume",
@@ -117,18 +129,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-19T13:55:21.470Z"
-    },
-    {
-      "id": 177,
-      "name": "natu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
-      "types": [
-        "psychic",
-        "flying"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-10-19T06:37:39.165Z"
     }
   ],
   "pokemon": {
@@ -982,10 +982,10 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-10-06T15:59:01.500Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-06T15:59:01.500Z",
-      "lastPulledAt": "2026-10-06T15:59:01.500Z"
+      "lastPulledAt": "2026-10-21T01:50:08.028Z"
     },
     "307": {
       "id": 307,
