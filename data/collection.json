@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 209,
-  "updatedAt": "2026-10-21T20:50:11.686Z",
+  "totalPulls": 210,
+  "updatedAt": "2026-10-21T23:52:01.656Z",
   "lastPull": {
-    "id": 263,
-    "name": "zigzagoon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/263.png",
+    "id": 883,
+    "name": "arctovish",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/883.png",
     "types": [
-      "normal"
+      "water",
+      "ice"
     ],
-    "totalStats": 240,
-    "grade": "N",
-    "pulledAt": "2026-10-21T20:50:11.686Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-10-21T23:52:01.656Z"
   },
   "pulls": [
+    {
+      "id": 883,
+      "name": "arctovish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/883.png",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-21T23:52:01.656Z"
+    },
     {
       "id": 263,
       "name": "zigzagoon",
@@ -116,18 +129,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-10-20T12:16:34.072Z"
-    },
-    {
-      "id": 274,
-      "name": "nuzleaf",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png",
-      "types": [
-        "grass",
-        "dark"
-      ],
-      "totalStats": 340,
-      "grade": "N",
-      "pulledAt": "2026-10-20T06:40:25.552Z"
     }
   ],
   "pokemon": {
@@ -2650,6 +2651,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T18:25:03.712Z",
       "lastPulledAt": "2026-10-17T18:25:03.712Z"
+    },
+    "883": {
+      "id": 883,
+      "name": "arctovish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/883.png",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-21T23:52:01.656Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T23:52:01.656Z",
+      "lastPulledAt": "2026-10-21T23:52:01.656Z"
     },
     "885": {
       "id": 885,
