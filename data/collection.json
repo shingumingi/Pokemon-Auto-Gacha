@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 214,
-  "updatedAt": "2026-10-22T18:11:06.432Z",
+  "totalPulls": 215,
+  "updatedAt": "2026-10-22T21:40:30.754Z",
   "lastPull": {
-    "id": 641,
-    "name": "tornadus-incarnate",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png",
+    "id": 950,
+    "name": "klawf",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
     "types": [
-      "flying"
+      "rock"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-10-22T18:11:06.432Z"
+    "totalStats": 450,
+    "grade": "R",
+    "pulledAt": "2026-10-22T21:40:30.754Z"
   },
   "pulls": [
+    {
+      "id": 950,
+      "name": "klawf",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-10-22T21:40:30.754Z"
+    },
     {
       "id": 641,
       "name": "tornadus-incarnate",
@@ -115,18 +126,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-21T06:38:55.457Z"
-    },
-    {
-      "id": 304,
-      "name": "aron",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
-      "types": [
-        "steel",
-        "rock"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-10-21T01:50:08.028Z"
     }
   ],
   "pokemon": {
@@ -2947,6 +2946,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T15:03:40.546Z",
       "lastPulledAt": "2026-09-30T15:03:40.546Z"
+    },
+    "950": {
+      "id": 950,
+      "name": "klawf",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-10-22T21:40:30.754Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T21:40:30.754Z",
+      "lastPulledAt": "2026-10-22T21:40:30.754Z"
     },
     "953": {
       "id": 953,
