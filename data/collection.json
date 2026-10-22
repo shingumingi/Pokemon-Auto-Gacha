@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 210,
-  "updatedAt": "2026-10-21T23:52:01.656Z",
+  "totalPulls": 211,
+  "updatedAt": "2026-10-22T02:53:30.605Z",
   "lastPull": {
-    "id": 883,
-    "name": "arctovish",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/883.png",
+    "id": 272,
+    "name": "ludicolo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
     "types": [
       "water",
-      "ice"
+      "grass"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-10-21T23:52:01.656Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-10-22T02:53:30.605Z"
   },
   "pulls": [
+    {
+      "id": 272,
+      "name": "ludicolo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
+      "types": [
+        "water",
+        "grass"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-22T02:53:30.605Z"
+    },
     {
       "id": 883,
       "name": "arctovish",
@@ -118,17 +130,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-10-20T17:16:39.047Z"
-    },
-    {
-      "id": 771,
-      "name": "pyukumuku",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-10-20T12:16:34.072Z"
     }
   ],
   "pokemon": {
@@ -938,6 +939,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T22:10:58.379Z",
       "lastPulledAt": "2026-10-21T20:50:11.686Z"
+    },
+    "272": {
+      "id": 272,
+      "name": "ludicolo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
+      "types": [
+        "water",
+        "grass"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-22T02:53:30.605Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T02:53:30.605Z",
+      "lastPulledAt": "2026-10-22T02:53:30.605Z"
     },
     "274": {
       "id": 274,
