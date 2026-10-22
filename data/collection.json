@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 211,
-  "updatedAt": "2026-10-22T02:53:30.605Z",
+  "totalPulls": 212,
+  "updatedAt": "2026-10-22T08:13:10.100Z",
   "lastPull": {
-    "id": 272,
-    "name": "ludicolo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
+    "id": 919,
+    "name": "nymble",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png",
     "types": [
-      "water",
-      "grass"
+      "bug"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-10-22T02:53:30.605Z"
+    "totalStats": 210,
+    "grade": "N",
+    "pulledAt": "2026-10-22T08:13:10.100Z"
   },
   "pulls": [
+    {
+      "id": 919,
+      "name": "nymble",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 210,
+      "grade": "N",
+      "pulledAt": "2026-10-22T08:13:10.100Z"
+    },
     {
       "id": 272,
       "name": "ludicolo",
@@ -119,17 +129,6 @@
       "totalStats": 555,
       "grade": "SR",
       "pulledAt": "2026-10-20T20:40:17.569Z"
-    },
-    {
-      "id": 262,
-      "name": "mightyena",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-10-20T17:16:39.047Z"
     }
   ],
   "pokemon": {
@@ -2795,6 +2794,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T23:20:19.952Z",
       "lastPulledAt": "2026-09-18T23:20:19.952Z"
+    },
+    "919": {
+      "id": 919,
+      "name": "nymble",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 210,
+      "grade": "N",
+      "pulledAt": "2026-10-22T08:13:10.100Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T08:13:10.100Z",
+      "lastPulledAt": "2026-10-22T08:13:10.100Z"
     },
     "924": {
       "id": 924,
