@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 212,
-  "updatedAt": "2026-10-22T08:13:10.100Z",
+  "totalPulls": 213,
+  "updatedAt": "2026-10-22T13:49:54.825Z",
   "lastPull": {
-    "id": 919,
-    "name": "nymble",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png",
+    "id": 237,
+    "name": "hitmontop",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png",
     "types": [
-      "bug"
+      "fighting"
     ],
-    "totalStats": 210,
-    "grade": "N",
-    "pulledAt": "2026-10-22T08:13:10.100Z"
+    "totalStats": 455,
+    "grade": "R",
+    "pulledAt": "2026-10-22T13:49:54.825Z"
   },
   "pulls": [
+    {
+      "id": 237,
+      "name": "hitmontop",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-10-22T13:49:54.825Z"
+    },
     {
       "id": 919,
       "name": "nymble",
@@ -117,18 +128,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-20T23:26:43.691Z"
-    },
-    {
-      "id": 1016,
-      "name": "fezandipiti",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1016.png",
-      "types": [
-        "poison",
-        "fairy"
-      ],
-      "totalStats": 555,
-      "grade": "SR",
-      "pulledAt": "2026-10-20T20:40:17.569Z"
     }
   ],
   "pokemon": {
@@ -857,10 +856,10 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-09-25T15:23:08.206Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T15:23:08.206Z",
-      "lastPulledAt": "2026-09-25T15:23:08.206Z"
+      "lastPulledAt": "2026-10-22T13:49:54.825Z"
     },
     "240": {
       "id": 240,
