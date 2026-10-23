@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 218,
-  "updatedAt": "2026-10-23T09:45:48.878Z",
+  "totalPulls": 219,
+  "updatedAt": "2026-10-23T14:28:17.358Z",
   "lastPull": {
-    "id": 687,
-    "name": "malamar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/687.png",
+    "id": 765,
+    "name": "oranguru",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/765.png",
     "types": [
-      "dark",
+      "normal",
       "psychic"
     ],
-    "totalStats": 482,
+    "totalStats": 490,
     "grade": "R",
-    "pulledAt": "2026-10-23T09:45:48.878Z"
+    "pulledAt": "2026-10-23T14:28:17.358Z"
   },
   "pulls": [
+    {
+      "id": 765,
+      "name": "oranguru",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/765.png",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-23T14:28:17.358Z"
+    },
     {
       "id": 687,
       "name": "malamar",
@@ -116,17 +128,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-10-21T23:52:01.656Z"
-    },
-    {
-      "id": 263,
-      "name": "zigzagoon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/263.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 240,
-      "grade": "N",
-      "pulledAt": "2026-10-21T20:50:11.686Z"
     }
   ],
   "pokemon": {
@@ -2353,6 +2354,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T18:58:48.850Z",
       "lastPulledAt": "2026-10-18T18:58:48.850Z"
+    },
+    "765": {
+      "id": 765,
+      "name": "oranguru",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/765.png",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-23T14:28:17.358Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T14:28:17.358Z",
+      "lastPulledAt": "2026-10-23T14:28:17.358Z"
     },
     "767": {
       "id": 767,
