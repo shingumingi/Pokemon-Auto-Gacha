@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 215,
-  "updatedAt": "2026-10-22T21:40:30.754Z",
+  "totalPulls": 216,
+  "updatedAt": "2026-10-23T00:12:01.333Z",
   "lastPull": {
-    "id": 950,
-    "name": "klawf",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
+    "id": 620,
+    "name": "mienshao",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png",
     "types": [
-      "rock"
+      "fighting"
     ],
-    "totalStats": 450,
-    "grade": "R",
-    "pulledAt": "2026-10-22T21:40:30.754Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-10-23T00:12:01.333Z"
   },
   "pulls": [
+    {
+      "id": 620,
+      "name": "mienshao",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-23T00:12:01.333Z"
+    },
     {
       "id": 950,
       "name": "klawf",
@@ -115,17 +126,6 @@
       "totalStats": 545,
       "grade": "SR",
       "pulledAt": "2026-10-21T12:23:47.629Z"
-    },
-    {
-      "id": 939,
-      "name": "bellibolt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-21T06:38:55.457Z"
     }
   ],
   "pokemon": {
@@ -1804,6 +1804,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T20:52:05.558Z",
       "lastPulledAt": "2026-10-17T12:55:26.673Z"
+    },
+    "620": {
+      "id": 620,
+      "name": "mienshao",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-23T00:12:01.333Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T00:12:01.333Z",
+      "lastPulledAt": "2026-10-23T00:12:01.333Z"
     },
     "625": {
       "id": 625,
