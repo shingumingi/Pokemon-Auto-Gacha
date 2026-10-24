@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 222,
-  "updatedAt": "2026-10-24T00:00:03.195Z",
+  "totalPulls": 223,
+  "updatedAt": "2026-10-24T04:17:21.995Z",
   "lastPull": {
-    "id": 609,
-    "name": "chandelure",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
+    "id": 786,
+    "name": "tapu-lele",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
     "types": [
-      "ghost",
-      "fire"
+      "psychic",
+      "fairy"
     ],
-    "totalStats": 520,
+    "totalStats": 570,
     "grade": "SR",
-    "pulledAt": "2026-10-24T00:00:03.195Z"
+    "pulledAt": "2026-10-24T04:17:21.995Z"
   },
   "pulls": [
+    {
+      "id": 786,
+      "name": "tapu-lele",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T04:17:21.995Z"
+    },
     {
       "id": 609,
       "name": "chandelure",
@@ -118,17 +130,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-10-22T18:11:06.432Z"
-    },
-    {
-      "id": 237,
-      "name": "hitmontop",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-10-22T13:49:54.825Z"
     }
   ],
   "pokemon": {
@@ -2461,10 +2462,10 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-09-29T01:23:37.993Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T01:23:37.993Z",
-      "lastPulledAt": "2026-09-29T01:23:37.993Z"
+      "lastPulledAt": "2026-10-24T04:17:21.995Z"
     },
     "793": {
       "id": 793,
