@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 227,
-  "updatedAt": "2026-10-24T18:58:24.003Z",
+  "totalPulls": 228,
+  "updatedAt": "2026-10-24T21:26:26.738Z",
   "lastPull": {
-    "id": 685,
-    "name": "slurpuff",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png",
+    "id": 95,
+    "name": "onix",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
     "types": [
-      "fairy"
+      "rock",
+      "ground"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-10-24T18:58:24.003Z"
+    "totalStats": 385,
+    "grade": "N",
+    "pulledAt": "2026-10-24T21:26:26.738Z"
   },
   "pulls": [
+    {
+      "id": 95,
+      "name": "onix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 385,
+      "grade": "N",
+      "pulledAt": "2026-10-24T21:26:26.738Z"
+    },
     {
       "id": 685,
       "name": "slurpuff",
@@ -119,18 +132,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-23T14:28:17.358Z"
-    },
-    {
-      "id": 687,
-      "name": "malamar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/687.png",
-      "types": [
-        "dark",
-        "psychic"
-      ],
-      "totalStats": 482,
-      "grade": "R",
-      "pulledAt": "2026-10-23T09:45:48.878Z"
     }
   ],
   "pokemon": {
@@ -429,6 +430,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-09T02:16:12.205Z",
       "lastPulledAt": "2026-10-09T02:16:12.205Z"
+    },
+    "95": {
+      "id": 95,
+      "name": "onix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 385,
+      "grade": "N",
+      "pulledAt": "2026-10-24T21:26:26.738Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T21:26:26.738Z",
+      "lastPulledAt": "2026-10-24T21:26:26.738Z"
     },
     "105": {
       "id": 105,
