@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 221,
-  "updatedAt": "2026-10-23T21:38:48.366Z",
+  "totalPulls": 222,
+  "updatedAt": "2026-10-24T00:00:03.195Z",
   "lastPull": {
-    "id": 858,
-    "name": "hatterene",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
+    "id": 609,
+    "name": "chandelure",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
     "types": [
-      "psychic",
-      "fairy"
+      "ghost",
+      "fire"
     ],
-    "totalStats": 510,
+    "totalStats": 520,
     "grade": "SR",
-    "pulledAt": "2026-10-23T21:38:48.366Z"
+    "pulledAt": "2026-10-24T00:00:03.195Z"
   },
   "pulls": [
+    {
+      "id": 609,
+      "name": "chandelure",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
+      "types": [
+        "ghost",
+        "fire"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T00:00:03.195Z"
+    },
     {
       "id": 858,
       "name": "hatterene",
@@ -117,17 +129,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-10-22T13:49:54.825Z"
-    },
-    {
-      "id": 919,
-      "name": "nymble",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 210,
-      "grade": "N",
-      "pulledAt": "2026-10-22T08:13:10.100Z"
     }
   ],
   "pokemon": {
@@ -1818,10 +1819,10 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-09-25T10:24:19.265Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T10:24:19.265Z",
-      "lastPulledAt": "2026-09-25T10:24:19.265Z"
+      "lastPulledAt": "2026-10-24T00:00:03.195Z"
     },
     "614": {
       "id": 614,
