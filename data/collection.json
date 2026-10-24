@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 224,
-  "updatedAt": "2026-10-24T08:56:15.667Z",
+  "totalPulls": 225,
+  "updatedAt": "2026-10-24T13:04:41.119Z",
   "lastPull": {
-    "id": 607,
-    "name": "litwick",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
+    "id": 228,
+    "name": "houndour",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png",
     "types": [
-      "ghost",
+      "dark",
       "fire"
     ],
-    "totalStats": 275,
+    "totalStats": 330,
     "grade": "N",
-    "pulledAt": "2026-10-24T08:56:15.667Z"
+    "pulledAt": "2026-10-24T13:04:41.119Z"
   },
   "pulls": [
+    {
+      "id": 228,
+      "name": "houndour",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-24T13:04:41.119Z"
+    },
     {
       "id": 607,
       "name": "litwick",
@@ -120,17 +132,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-10-23T00:12:01.333Z"
-    },
-    {
-      "id": 950,
-      "name": "klawf",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 450,
-      "grade": "R",
-      "pulledAt": "2026-10-22T21:40:30.754Z"
     }
   ],
   "pokemon": {
@@ -802,6 +803,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T21:53:18.119Z",
       "lastPulledAt": "2026-09-28T21:53:18.119Z"
+    },
+    "228": {
+      "id": 228,
+      "name": "houndour",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-24T13:04:41.119Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T13:04:41.119Z",
+      "lastPulledAt": "2026-10-24T13:04:41.119Z"
     },
     "229": {
       "id": 229,
