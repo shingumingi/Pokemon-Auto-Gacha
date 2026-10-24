@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 223,
-  "updatedAt": "2026-10-24T04:17:21.995Z",
+  "totalPulls": 224,
+  "updatedAt": "2026-10-24T08:56:15.667Z",
   "lastPull": {
-    "id": 786,
-    "name": "tapu-lele",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
+    "id": 607,
+    "name": "litwick",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
     "types": [
-      "psychic",
-      "fairy"
+      "ghost",
+      "fire"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-10-24T04:17:21.995Z"
+    "totalStats": 275,
+    "grade": "N",
+    "pulledAt": "2026-10-24T08:56:15.667Z"
   },
   "pulls": [
+    {
+      "id": 607,
+      "name": "litwick",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
+      "types": [
+        "ghost",
+        "fire"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-10-24T08:56:15.667Z"
+    },
     {
       "id": 786,
       "name": "tapu-lele",
@@ -119,17 +131,6 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-10-22T21:40:30.754Z"
-    },
-    {
-      "id": 641,
-      "name": "tornadus-incarnate",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png",
-      "types": [
-        "flying"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-10-22T18:11:06.432Z"
     }
   ],
   "pokemon": {
@@ -1808,6 +1809,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-14T18:51:48.186Z",
       "lastPulledAt": "2026-10-14T18:51:48.186Z"
+    },
+    "607": {
+      "id": 607,
+      "name": "litwick",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
+      "types": [
+        "ghost",
+        "fire"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-10-24T08:56:15.667Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T08:56:15.667Z",
+      "lastPulledAt": "2026-10-24T08:56:15.667Z"
     },
     "609": {
       "id": 609,
