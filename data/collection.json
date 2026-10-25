@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 235,
-  "updatedAt": "2026-10-25T21:29:16.448Z",
+  "totalPulls": 236,
+  "updatedAt": "2026-10-25T23:28:58.033Z",
   "lastPull": {
-    "id": 68,
-    "name": "machamp",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
+    "id": 618,
+    "name": "stunfisk",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/618.png",
     "types": [
-      "fighting"
+      "ground",
+      "electric"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-10-25T21:29:16.448Z"
+    "totalStats": 471,
+    "grade": "R",
+    "pulledAt": "2026-10-25T23:28:58.033Z"
   },
   "pulls": [
+    {
+      "id": 618,
+      "name": "stunfisk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/618.png",
+      "types": [
+        "ground",
+        "electric"
+      ],
+      "totalStats": 471,
+      "grade": "R",
+      "pulledAt": "2026-10-25T23:28:58.033Z"
+    },
     {
       "id": 68,
       "name": "machamp",
@@ -116,17 +129,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-10-24T18:58:24.003Z"
-    },
-    {
-      "id": 352,
-      "name": "kecleon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/352.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 440,
-      "grade": "R",
-      "pulledAt": "2026-10-24T16:32:29.748Z"
     }
   ],
   "pokemon": {
@@ -1944,6 +1946,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T20:52:05.558Z",
       "lastPulledAt": "2026-10-17T12:55:26.673Z"
+    },
+    "618": {
+      "id": 618,
+      "name": "stunfisk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/618.png",
+      "types": [
+        "ground",
+        "electric"
+      ],
+      "totalStats": 471,
+      "grade": "R",
+      "pulledAt": "2026-10-25T23:28:58.033Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T23:28:58.033Z",
+      "lastPulledAt": "2026-10-25T23:28:58.033Z"
     },
     "620": {
       "id": 620,
