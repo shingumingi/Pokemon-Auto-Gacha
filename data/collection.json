@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 230,
-  "updatedAt": "2026-10-25T01:33:54.434Z",
+  "totalPulls": 231,
+  "updatedAt": "2026-10-25T06:46:41.746Z",
   "lastPull": {
-    "id": 718,
-    "name": "zygarde-50",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png",
+    "id": 486,
+    "name": "regigigas",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png",
     "types": [
-      "dragon",
-      "ground"
+      "normal"
     ],
-    "totalStats": 600,
+    "totalStats": 670,
     "grade": "SSR",
-    "pulledAt": "2026-10-25T01:33:54.434Z"
+    "pulledAt": "2026-10-25T06:46:41.746Z"
   },
   "pulls": [
+    {
+      "id": 486,
+      "name": "regigigas",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 670,
+      "grade": "SSR",
+      "pulledAt": "2026-10-25T06:46:41.746Z"
+    },
     {
       "id": 718,
       "name": "zygarde-50",
@@ -119,18 +129,6 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-10-24T00:00:03.195Z"
-    },
-    {
-      "id": 858,
-      "name": "hatterene",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
-      "types": [
-        "psychic",
-        "fairy"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-10-23T21:38:48.366Z"
     }
   ],
   "pokemon": {
@@ -1549,6 +1547,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T08:24:39.590Z",
       "lastPulledAt": "2026-09-30T08:24:39.590Z"
+    },
+    "486": {
+      "id": 486,
+      "name": "regigigas",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 670,
+      "grade": "SSR",
+      "pulledAt": "2026-10-25T06:46:41.746Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T06:46:41.746Z",
+      "lastPulledAt": "2026-10-25T06:46:41.746Z"
     },
     "487": {
       "id": 487,
