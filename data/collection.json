@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 231,
-  "updatedAt": "2026-10-25T06:46:41.746Z",
+  "totalPulls": 232,
+  "updatedAt": "2026-10-25T12:04:39.885Z",
   "lastPull": {
-    "id": 486,
-    "name": "regigigas",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png",
+    "id": 702,
+    "name": "dedenne",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
     "types": [
-      "normal"
+      "electric",
+      "fairy"
     ],
-    "totalStats": 670,
-    "grade": "SSR",
-    "pulledAt": "2026-10-25T06:46:41.746Z"
+    "totalStats": 431,
+    "grade": "R",
+    "pulledAt": "2026-10-25T12:04:39.885Z"
   },
   "pulls": [
+    {
+      "id": 702,
+      "name": "dedenne",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
+      "types": [
+        "electric",
+        "fairy"
+      ],
+      "totalStats": 431,
+      "grade": "R",
+      "pulledAt": "2026-10-25T12:04:39.885Z"
+    },
     {
       "id": 486,
       "name": "regigigas",
@@ -117,18 +130,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-24T04:17:21.995Z"
-    },
-    {
-      "id": 609,
-      "name": "chandelure",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
-      "types": [
-        "ghost",
-        "fire"
-      ],
-      "totalStats": 520,
-      "grade": "SR",
-      "pulledAt": "2026-10-24T00:00:03.195Z"
     }
   ],
   "pokemon": {
@@ -2226,6 +2227,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T09:39:10.385Z",
       "lastPulledAt": "2026-10-15T09:39:10.385Z"
+    },
+    "702": {
+      "id": 702,
+      "name": "dedenne",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
+      "types": [
+        "electric",
+        "fairy"
+      ],
+      "totalStats": 431,
+      "grade": "R",
+      "pulledAt": "2026-10-25T12:04:39.885Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T12:04:39.885Z",
+      "lastPulledAt": "2026-10-25T12:04:39.885Z"
     },
     "703": {
       "id": 703,
