@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 233,
-  "updatedAt": "2026-10-25T16:04:46.036Z",
+  "totalPulls": 234,
+  "updatedAt": "2026-10-25T18:57:37.050Z",
   "lastPull": {
-    "id": 1019,
-    "name": "hydrapple",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1019.png",
+    "id": 863,
+    "name": "perrserker",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png",
     "types": [
-      "grass",
-      "dragon"
+      "steel"
     ],
-    "totalStats": 540,
-    "grade": "SR",
-    "pulledAt": "2026-10-25T16:04:46.036Z"
+    "totalStats": 440,
+    "grade": "R",
+    "pulledAt": "2026-10-25T18:57:37.050Z"
   },
   "pulls": [
+    {
+      "id": 863,
+      "name": "perrserker",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-10-25T18:57:37.050Z"
+    },
     {
       "id": 1019,
       "name": "hydrapple",
@@ -118,18 +128,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-10-24T13:04:41.119Z"
-    },
-    {
-      "id": 607,
-      "name": "litwick",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
-      "types": [
-        "ghost",
-        "fire"
-      ],
-      "totalStats": 275,
-      "grade": "N",
-      "pulledAt": "2026-10-24T08:56:15.667Z"
     }
   ],
   "pokemon": {
@@ -2835,10 +2833,10 @@
       "totalStats": 440,
       "grade": "R",
       "pulledAt": "2026-10-05T15:58:27.043Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-05T15:58:27.043Z",
-      "lastPulledAt": "2026-10-05T15:58:27.043Z"
+      "lastPulledAt": "2026-10-25T18:57:37.050Z"
     },
     "865": {
       "id": 865,
