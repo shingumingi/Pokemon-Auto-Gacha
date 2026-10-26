@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 236,
-  "updatedAt": "2026-10-25T23:28:58.033Z",
+  "totalPulls": 237,
+  "updatedAt": "2026-10-26T01:31:37.981Z",
   "lastPull": {
-    "id": 618,
-    "name": "stunfisk",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/618.png",
+    "id": 721,
+    "name": "volcanion",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/721.png",
     "types": [
-      "ground",
-      "electric"
+      "fire",
+      "water"
     ],
-    "totalStats": 471,
-    "grade": "R",
-    "pulledAt": "2026-10-25T23:28:58.033Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-10-26T01:31:37.981Z"
   },
   "pulls": [
+    {
+      "id": 721,
+      "name": "volcanion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/721.png",
+      "types": [
+        "fire",
+        "water"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-26T01:31:37.981Z"
+    },
     {
       "id": 618,
       "name": "stunfisk",
@@ -118,17 +130,6 @@
       "totalStats": 385,
       "grade": "N",
       "pulledAt": "2026-10-24T21:26:26.738Z"
-    },
-    {
-      "id": 685,
-      "name": "slurpuff",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-10-24T18:58:24.003Z"
     }
   ],
   "pokemon": {
@@ -2368,6 +2369,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-25T01:33:54.434Z",
       "lastPulledAt": "2026-10-25T01:33:54.434Z"
+    },
+    "721": {
+      "id": 721,
+      "name": "volcanion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/721.png",
+      "types": [
+        "fire",
+        "water"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-26T01:31:37.981Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T01:31:37.981Z",
+      "lastPulledAt": "2026-10-26T01:31:37.981Z"
     },
     "723": {
       "id": 723,
