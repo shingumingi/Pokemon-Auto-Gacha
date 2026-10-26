@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 237,
-  "updatedAt": "2026-10-26T01:31:37.981Z",
+  "totalPulls": 238,
+  "updatedAt": "2026-10-26T06:54:04.290Z",
   "lastPull": {
-    "id": 721,
-    "name": "volcanion",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/721.png",
+    "id": 926,
+    "name": "fidough",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png",
     "types": [
-      "fire",
-      "water"
+      "fairy"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-10-26T01:31:37.981Z"
+    "totalStats": 312,
+    "grade": "N",
+    "pulledAt": "2026-10-26T06:54:04.290Z"
   },
   "pulls": [
+    {
+      "id": 926,
+      "name": "fidough",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 312,
+      "grade": "N",
+      "pulledAt": "2026-10-26T06:54:04.290Z"
+    },
     {
       "id": 721,
       "name": "volcanion",
@@ -118,18 +128,6 @@
       "totalStats": 483,
       "grade": "R",
       "pulledAt": "2026-10-24T23:31:09.621Z"
-    },
-    {
-      "id": 95,
-      "name": "onix",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
-      "types": [
-        "rock",
-        "ground"
-      ],
-      "totalStats": 385,
-      "grade": "N",
-      "pulledAt": "2026-10-24T21:26:26.738Z"
     }
   ],
   "pokemon": {
@@ -3136,6 +3134,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T23:49:10.646Z",
       "lastPulledAt": "2026-10-10T23:49:10.646Z"
+    },
+    "926": {
+      "id": 926,
+      "name": "fidough",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 312,
+      "grade": "N",
+      "pulledAt": "2026-10-26T06:54:04.290Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T06:54:04.290Z",
+      "lastPulledAt": "2026-10-26T06:54:04.290Z"
     },
     "929": {
       "id": 929,
