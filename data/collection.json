@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 242,
-  "updatedAt": "2026-10-27T02:09:18.504Z",
+  "totalPulls": 243,
+  "updatedAt": "2026-10-27T07:46:02.779Z",
   "lastPull": {
-    "id": 1008,
-    "name": "miraidon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png",
+    "id": 927,
+    "name": "dachsbun",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png",
     "types": [
-      "electric",
-      "dragon"
+      "fairy"
     ],
-    "totalStats": 670,
-    "grade": "SSR",
-    "pulledAt": "2026-10-27T02:09:18.504Z"
+    "totalStats": 477,
+    "grade": "R",
+    "pulledAt": "2026-10-27T07:46:02.779Z"
   },
   "pulls": [
+    {
+      "id": 927,
+      "name": "dachsbun",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 477,
+      "grade": "R",
+      "pulledAt": "2026-10-27T07:46:02.779Z"
+    },
     {
       "id": 1008,
       "name": "miraidon",
@@ -116,18 +126,6 @@
       "totalStats": 440,
       "grade": "R",
       "pulledAt": "2026-10-25T18:57:37.050Z"
-    },
-    {
-      "id": 1019,
-      "name": "hydrapple",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1019.png",
-      "types": [
-        "grass",
-        "dragon"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-10-25T16:04:46.036Z"
     }
   ],
   "pokemon": {
@@ -3194,6 +3192,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-26T06:54:04.290Z",
       "lastPulledAt": "2026-10-26T06:54:04.290Z"
+    },
+    "927": {
+      "id": 927,
+      "name": "dachsbun",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 477,
+      "grade": "R",
+      "pulledAt": "2026-10-27T07:46:02.779Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-27T07:46:02.779Z",
+      "lastPulledAt": "2026-10-27T07:46:02.779Z"
     },
     "929": {
       "id": 929,
