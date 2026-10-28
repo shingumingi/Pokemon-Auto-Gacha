@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 246,
-  "updatedAt": "2026-10-27T22:51:35.507Z",
+  "totalPulls": 247,
+  "updatedAt": "2026-10-28T01:58:06.997Z",
   "lastPull": {
-    "id": 486,
-    "name": "regigigas",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png",
+    "id": 585,
+    "name": "deerling",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/585.png",
     "types": [
-      "normal"
+      "normal",
+      "grass"
     ],
-    "totalStats": 670,
-    "grade": "SSR",
-    "pulledAt": "2026-10-27T22:51:35.507Z"
+    "totalStats": 335,
+    "grade": "N",
+    "pulledAt": "2026-10-28T01:58:06.997Z"
   },
   "pulls": [
+    {
+      "id": 585,
+      "name": "deerling",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/585.png",
+      "types": [
+        "normal",
+        "grass"
+      ],
+      "totalStats": 335,
+      "grade": "N",
+      "pulledAt": "2026-10-28T01:58:06.997Z"
+    },
     {
       "id": 486,
       "name": "regigigas",
@@ -115,18 +128,6 @@
       "totalStats": 312,
       "grade": "N",
       "pulledAt": "2026-10-26T06:54:04.290Z"
-    },
-    {
-      "id": 721,
-      "name": "volcanion",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/721.png",
-      "types": [
-        "fire",
-        "water"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-26T01:31:37.981Z"
     }
   ],
   "pokemon": {
@@ -1898,6 +1899,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T02:59:56.033Z",
       "lastPulledAt": "2026-10-08T02:59:56.033Z"
+    },
+    "585": {
+      "id": 585,
+      "name": "deerling",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/585.png",
+      "types": [
+        "normal",
+        "grass"
+      ],
+      "totalStats": 335,
+      "grade": "N",
+      "pulledAt": "2026-10-28T01:58:06.997Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-28T01:58:06.997Z",
+      "lastPulledAt": "2026-10-28T01:58:06.997Z"
     },
     "588": {
       "id": 588,
