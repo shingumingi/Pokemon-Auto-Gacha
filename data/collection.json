@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 247,
-  "updatedAt": "2026-10-28T01:58:06.997Z",
+  "totalPulls": 248,
+  "updatedAt": "2026-10-28T08:00:18.395Z",
   "lastPull": {
-    "id": 585,
-    "name": "deerling",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/585.png",
+    "id": 641,
+    "name": "tornadus-incarnate",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png",
     "types": [
-      "normal",
-      "grass"
+      "flying"
     ],
-    "totalStats": 335,
-    "grade": "N",
-    "pulledAt": "2026-10-28T01:58:06.997Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-10-28T08:00:18.395Z"
   },
   "pulls": [
+    {
+      "id": 641,
+      "name": "tornadus-incarnate",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png",
+      "types": [
+        "flying"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-28T08:00:18.395Z"
+    },
     {
       "id": 585,
       "name": "deerling",
@@ -117,17 +127,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-10-26T13:48:04.948Z"
-    },
-    {
-      "id": 926,
-      "name": "fidough",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 312,
-      "grade": "N",
-      "pulledAt": "2026-10-26T06:54:04.290Z"
     }
   ],
   "pokemon": {
@@ -2144,10 +2143,10 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-10-22T18:11:06.432Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T18:11:06.432Z",
-      "lastPulledAt": "2026-10-22T18:11:06.432Z"
+      "lastPulledAt": "2026-10-28T08:00:18.395Z"
     },
     "649": {
       "id": 649,
