@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 248,
-  "updatedAt": "2026-10-28T08:00:18.395Z",
+  "totalPulls": 249,
+  "updatedAt": "2026-10-28T15:03:07.425Z",
   "lastPull": {
-    "id": 641,
-    "name": "tornadus-incarnate",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png",
+    "id": 419,
+    "name": "floatzel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png",
     "types": [
-      "flying"
+      "water"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-10-28T08:00:18.395Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-10-28T15:03:07.425Z"
   },
   "pulls": [
+    {
+      "id": 419,
+      "name": "floatzel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-28T15:03:07.425Z"
+    },
     {
       "id": 641,
       "name": "tornadus-incarnate",
@@ -116,17 +127,6 @@
       "totalStats": 175,
       "grade": "N",
       "pulledAt": "2026-10-26T19:35:58.262Z"
-    },
-    {
-      "id": 204,
-      "name": "pineco",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/204.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 290,
-      "grade": "N",
-      "pulledAt": "2026-10-26T13:48:04.948Z"
     }
   ],
   "pokemon": {
@@ -1385,6 +1385,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-16T12:42:21.322Z",
       "lastPulledAt": "2026-10-16T12:42:21.322Z"
+    },
+    "419": {
+      "id": 419,
+      "name": "floatzel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-28T15:03:07.425Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-28T15:03:07.425Z",
+      "lastPulledAt": "2026-10-28T15:03:07.425Z"
     },
     "423": {
       "id": 423,
