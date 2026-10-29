@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 254,
-  "updatedAt": "2026-10-29T17:34:38.322Z",
+  "totalPulls": 255,
+  "updatedAt": "2026-10-29T21:58:25.725Z",
   "lastPull": {
-    "id": 239,
-    "name": "elekid",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png",
+    "id": 204,
+    "name": "pineco",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/204.png",
     "types": [
-      "electric"
+      "bug"
     ],
-    "totalStats": 360,
+    "totalStats": 290,
     "grade": "N",
-    "pulledAt": "2026-10-29T17:34:38.322Z"
+    "pulledAt": "2026-10-29T21:58:25.725Z"
   },
   "pulls": [
+    {
+      "id": 204,
+      "name": "pineco",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/204.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-29T21:58:25.725Z"
+    },
     {
       "id": 239,
       "name": "elekid",
@@ -113,18 +124,6 @@
       "totalStats": 670,
       "grade": "SSR",
       "pulledAt": "2026-10-27T22:51:35.507Z"
-    },
-    {
-      "id": 343,
-      "name": "baltoy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/343.png",
-      "types": [
-        "ground",
-        "psychic"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-27T18:57:22.007Z"
     }
   ],
   "pokemon": {
@@ -805,10 +804,10 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-10-26T13:48:04.948Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-26T13:48:04.948Z",
-      "lastPulledAt": "2026-10-26T13:48:04.948Z"
+      "lastPulledAt": "2026-10-29T21:58:25.725Z"
     },
     "205": {
       "id": 205,
