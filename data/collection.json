@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 251,
-  "updatedAt": "2026-10-29T00:01:39.204Z",
+  "totalPulls": 252,
+  "updatedAt": "2026-10-29T05:38:03.856Z",
   "lastPull": {
-    "id": 239,
-    "name": "elekid",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png",
+    "id": 497,
+    "name": "serperior",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png",
     "types": [
-      "electric"
+      "grass"
     ],
-    "totalStats": 360,
-    "grade": "N",
-    "pulledAt": "2026-10-29T00:01:39.204Z"
+    "totalStats": 528,
+    "grade": "SR",
+    "pulledAt": "2026-10-29T05:38:03.856Z"
   },
   "pulls": [
+    {
+      "id": 497,
+      "name": "serperior",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 528,
+      "grade": "SR",
+      "pulledAt": "2026-10-29T05:38:03.856Z"
+    },
     {
       "id": 239,
       "name": "elekid",
@@ -115,18 +126,6 @@
       "totalStats": 477,
       "grade": "R",
       "pulledAt": "2026-10-27T07:46:02.779Z"
-    },
-    {
-      "id": 1008,
-      "name": "miraidon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png",
-      "types": [
-        "electric",
-        "dragon"
-      ],
-      "totalStats": 670,
-      "grade": "SSR",
-      "pulledAt": "2026-10-27T02:09:18.504Z"
     }
   ],
   "pokemon": {
@@ -1682,6 +1681,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-16T19:51:18.889Z",
       "lastPulledAt": "2026-10-16T19:51:18.889Z"
+    },
+    "497": {
+      "id": 497,
+      "name": "serperior",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 528,
+      "grade": "SR",
+      "pulledAt": "2026-10-29T05:38:03.856Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-29T05:38:03.856Z",
+      "lastPulledAt": "2026-10-29T05:38:03.856Z"
     },
     "502": {
       "id": 502,
