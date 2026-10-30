@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 259,
-  "updatedAt": "2026-10-30T19:38:59.037Z",
+  "totalPulls": 260,
+  "updatedAt": "2026-10-30T23:13:06.798Z",
   "lastPull": {
-    "id": 428,
-    "name": "lopunny",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png",
+    "id": 724,
+    "name": "decidueye",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
     "types": [
-      "normal"
+      "grass",
+      "ghost"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-10-30T19:38:59.037Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-10-30T23:13:06.798Z"
   },
   "pulls": [
+    {
+      "id": 724,
+      "name": "decidueye",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-30T23:13:06.798Z"
+    },
     {
       "id": 428,
       "name": "lopunny",
@@ -114,17 +127,6 @@
       "totalStats": 360,
       "grade": "N",
       "pulledAt": "2026-10-29T00:01:39.204Z"
-    },
-    {
-      "id": 19,
-      "name": "rattata",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 253,
-      "grade": "N",
-      "pulledAt": "2026-10-28T20:13:13.816Z"
     }
   ],
   "pokemon": {
@@ -2591,10 +2593,10 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-09-27T23:12:38.358Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T23:12:38.358Z",
-      "lastPulledAt": "2026-09-27T23:12:38.358Z"
+      "lastPulledAt": "2026-10-30T23:13:06.798Z"
     },
     "730": {
       "id": 730,
