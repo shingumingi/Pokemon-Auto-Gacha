@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 258,
-  "updatedAt": "2026-10-30T14:32:49.018Z",
+  "totalPulls": 259,
+  "updatedAt": "2026-10-30T19:38:59.037Z",
   "lastPull": {
-    "id": 443,
-    "name": "gible",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png",
+    "id": 428,
+    "name": "lopunny",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png",
     "types": [
-      "dragon",
-      "ground"
+      "normal"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-10-30T14:32:49.018Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-10-30T19:38:59.037Z"
   },
   "pulls": [
+    {
+      "id": 428,
+      "name": "lopunny",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-30T19:38:59.037Z"
+    },
     {
       "id": 443,
       "name": "gible",
@@ -115,17 +125,6 @@
       "totalStats": 253,
       "grade": "N",
       "pulledAt": "2026-10-28T20:13:13.816Z"
-    },
-    {
-      "id": 419,
-      "name": "floatzel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-28T15:03:07.425Z"
     }
   ],
   "pokemon": {
@@ -1460,6 +1459,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T00:40:28.872Z",
       "lastPulledAt": "2026-09-25T00:40:28.872Z"
+    },
+    "428": {
+      "id": 428,
+      "name": "lopunny",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-30T19:38:59.037Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-30T19:38:59.037Z",
+      "lastPulledAt": "2026-10-30T19:38:59.037Z"
     },
     "429": {
       "id": 429,
