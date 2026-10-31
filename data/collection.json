@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 262,
-  "updatedAt": "2026-10-31T08:40:01.771Z",
+  "totalPulls": 263,
+  "updatedAt": "2026-10-31T14:44:41.794Z",
   "lastPull": {
-    "id": 150,
-    "name": "mewtwo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+    "id": 690,
+    "name": "skrelp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
     "types": [
-      "psychic"
+      "poison",
+      "water"
     ],
-    "totalStats": 680,
-    "grade": "SSR",
-    "pulledAt": "2026-10-31T08:40:01.771Z"
+    "totalStats": 320,
+    "grade": "N",
+    "pulledAt": "2026-10-31T14:44:41.794Z"
   },
   "pulls": [
+    {
+      "id": 690,
+      "name": "skrelp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-31T14:44:41.794Z"
+    },
     {
       "id": 150,
       "name": "mewtwo",
@@ -116,17 +129,6 @@
       "totalStats": 360,
       "grade": "N",
       "pulledAt": "2026-10-29T17:34:38.322Z"
-    },
-    {
-      "id": 457,
-      "name": "lumineon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/457.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-10-29T11:44:35.844Z"
     }
   ],
   "pokemon": {
@@ -2391,6 +2393,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-23T09:45:48.878Z",
       "lastPulledAt": "2026-10-23T09:45:48.878Z"
+    },
+    "690": {
+      "id": 690,
+      "name": "skrelp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-31T14:44:41.794Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-31T14:44:41.794Z",
+      "lastPulledAt": "2026-10-31T14:44:41.794Z"
     },
     "694": {
       "id": 694,
