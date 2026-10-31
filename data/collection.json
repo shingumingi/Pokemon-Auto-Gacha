@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 261,
-  "updatedAt": "2026-10-31T02:26:46.928Z",
+  "totalPulls": 262,
+  "updatedAt": "2026-10-31T08:40:01.771Z",
   "lastPull": {
-    "id": 718,
-    "name": "zygarde-50",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png",
+    "id": 150,
+    "name": "mewtwo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
     "types": [
-      "dragon",
-      "ground"
+      "psychic"
     ],
-    "totalStats": 600,
+    "totalStats": 680,
     "grade": "SSR",
-    "pulledAt": "2026-10-31T02:26:46.928Z"
+    "pulledAt": "2026-10-31T08:40:01.771Z"
   },
   "pulls": [
+    {
+      "id": 150,
+      "name": "mewtwo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-10-31T08:40:01.771Z"
+    },
     {
       "id": 718,
       "name": "zygarde-50",
@@ -117,17 +127,6 @@
       "totalStats": 460,
       "grade": "R",
       "pulledAt": "2026-10-29T11:44:35.844Z"
-    },
-    {
-      "id": 497,
-      "name": "serperior",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 528,
-      "grade": "SR",
-      "pulledAt": "2026-10-29T05:38:03.856Z"
     }
   ],
   "pokemon": {
@@ -622,10 +621,10 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-10-17T16:05:18.851Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T16:05:18.851Z",
-      "lastPulledAt": "2026-10-17T16:05:18.851Z"
+      "lastPulledAt": "2026-10-31T08:40:01.771Z"
     },
     "162": {
       "id": 162,
