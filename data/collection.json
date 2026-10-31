@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 263,
-  "updatedAt": "2026-10-31T14:44:41.794Z",
+  "totalPulls": 264,
+  "updatedAt": "2026-10-31T18:48:33.710Z",
   "lastPull": {
-    "id": 690,
-    "name": "skrelp",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
+    "id": 498,
+    "name": "tepig",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/498.png",
     "types": [
-      "poison",
-      "water"
+      "fire"
     ],
-    "totalStats": 320,
+    "totalStats": 308,
     "grade": "N",
-    "pulledAt": "2026-10-31T14:44:41.794Z"
+    "pulledAt": "2026-10-31T18:48:33.710Z"
   },
   "pulls": [
+    {
+      "id": 498,
+      "name": "tepig",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/498.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-10-31T18:48:33.710Z"
+    },
     {
       "id": 690,
       "name": "skrelp",
@@ -118,17 +128,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-10-29T21:58:25.725Z"
-    },
-    {
-      "id": 239,
-      "name": "elekid",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 360,
-      "grade": "N",
-      "pulledAt": "2026-10-29T17:34:38.322Z"
     }
   ],
   "pokemon": {
@@ -1744,6 +1743,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-29T05:38:03.856Z",
       "lastPulledAt": "2026-10-29T05:38:03.856Z"
+    },
+    "498": {
+      "id": 498,
+      "name": "tepig",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/498.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-10-31T18:48:33.710Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-31T18:48:33.710Z",
+      "lastPulledAt": "2026-10-31T18:48:33.710Z"
     },
     "502": {
       "id": 502,
