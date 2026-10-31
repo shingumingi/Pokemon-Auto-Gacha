@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 260,
-  "updatedAt": "2026-10-30T23:13:06.798Z",
+  "totalPulls": 261,
+  "updatedAt": "2026-10-31T02:26:46.928Z",
   "lastPull": {
-    "id": 724,
-    "name": "decidueye",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
+    "id": 718,
+    "name": "zygarde-50",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png",
     "types": [
-      "grass",
-      "ghost"
+      "dragon",
+      "ground"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-10-30T23:13:06.798Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-10-31T02:26:46.928Z"
   },
   "pulls": [
+    {
+      "id": 718,
+      "name": "zygarde-50",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-31T02:26:46.928Z"
+    },
     {
       "id": 724,
       "name": "decidueye",
@@ -116,17 +128,6 @@
       "totalStats": 528,
       "grade": "SR",
       "pulledAt": "2026-10-29T05:38:03.856Z"
-    },
-    {
-      "id": 239,
-      "name": "elekid",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 360,
-      "grade": "N",
-      "pulledAt": "2026-10-29T00:01:39.204Z"
     }
   ],
   "pokemon": {
@@ -2545,10 +2546,10 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-25T01:33:54.434Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-25T01:33:54.434Z",
-      "lastPulledAt": "2026-10-25T01:33:54.434Z"
+      "lastPulledAt": "2026-10-31T02:26:46.928Z"
     },
     "721": {
       "id": 721,
