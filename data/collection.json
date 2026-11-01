@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 269,
-  "updatedAt": "2026-11-01T18:46:39.956Z",
+  "totalPulls": 270,
+  "updatedAt": "2026-11-01T22:27:34.638Z",
   "lastPull": {
-    "id": 795,
-    "name": "pheromosa",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/795.png",
+    "id": 914,
+    "name": "quaquaval",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
     "types": [
-      "bug",
+      "water",
       "fighting"
     ],
-    "totalStats": 570,
+    "totalStats": 530,
     "grade": "SR",
-    "pulledAt": "2026-11-01T18:46:39.956Z"
+    "pulledAt": "2026-11-01T22:27:34.638Z"
   },
   "pulls": [
+    {
+      "id": 914,
+      "name": "quaquaval",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
+      "types": [
+        "water",
+        "fighting"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-01T22:27:34.638Z"
+    },
     {
       "id": 795,
       "name": "pheromosa",
@@ -118,18 +130,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-31T02:26:46.928Z"
-    },
-    {
-      "id": 724,
-      "name": "decidueye",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
-      "types": [
-        "grass",
-        "ghost"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-10-30T23:13:06.798Z"
     }
   ],
   "pokemon": {
@@ -3382,6 +3382,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T23:20:19.952Z",
       "lastPulledAt": "2026-09-18T23:20:19.952Z"
+    },
+    "914": {
+      "id": 914,
+      "name": "quaquaval",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
+      "types": [
+        "water",
+        "fighting"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-01T22:27:34.638Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-01T22:27:34.638Z",
+      "lastPulledAt": "2026-11-01T22:27:34.638Z"
     },
     "919": {
       "id": 919,
