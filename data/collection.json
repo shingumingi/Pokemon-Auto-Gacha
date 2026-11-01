@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 267,
-  "updatedAt": "2026-11-01T06:53:04.966Z",
+  "totalPulls": 268,
+  "updatedAt": "2026-11-01T13:58:10.147Z",
   "lastPull": {
-    "id": 745,
-    "name": "lycanroc-midday",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png",
+    "id": 810,
+    "name": "grookey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/810.png",
     "types": [
-      "rock"
+      "grass"
     ],
-    "totalStats": 487,
-    "grade": "R",
-    "pulledAt": "2026-11-01T06:53:04.966Z"
+    "totalStats": 310,
+    "grade": "N",
+    "pulledAt": "2026-11-01T13:58:10.147Z"
   },
   "pulls": [
+    {
+      "id": 810,
+      "name": "grookey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/810.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-11-01T13:58:10.147Z"
+    },
     {
       "id": 745,
       "name": "lycanroc-midday",
@@ -117,18 +128,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-10-30T19:38:59.037Z"
-    },
-    {
-      "id": 443,
-      "name": "gible",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png",
-      "types": [
-        "dragon",
-        "ground"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-30T14:32:49.018Z"
     }
   ],
   "pokemon": {
@@ -2975,6 +2974,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-06T09:11:32.451Z",
       "lastPulledAt": "2026-10-06T09:11:32.451Z"
+    },
+    "810": {
+      "id": 810,
+      "name": "grookey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/810.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-11-01T13:58:10.147Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-01T13:58:10.147Z",
+      "lastPulledAt": "2026-11-01T13:58:10.147Z"
     },
     "815": {
       "id": 815,
