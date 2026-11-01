@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 268,
-  "updatedAt": "2026-11-01T13:58:10.147Z",
+  "totalPulls": 269,
+  "updatedAt": "2026-11-01T18:46:39.956Z",
   "lastPull": {
-    "id": 810,
-    "name": "grookey",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/810.png",
+    "id": 795,
+    "name": "pheromosa",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/795.png",
     "types": [
-      "grass"
+      "bug",
+      "fighting"
     ],
-    "totalStats": 310,
-    "grade": "N",
-    "pulledAt": "2026-11-01T13:58:10.147Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-11-01T18:46:39.956Z"
   },
   "pulls": [
+    {
+      "id": 795,
+      "name": "pheromosa",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/795.png",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-01T18:46:39.956Z"
+    },
     {
       "id": 810,
       "name": "grookey",
@@ -117,17 +130,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-10-30T23:13:06.798Z"
-    },
-    {
-      "id": 428,
-      "name": "lopunny",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-10-30T19:38:59.037Z"
     }
   ],
   "pokemon": {
@@ -2927,6 +2929,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-12T09:35:11.967Z",
       "lastPulledAt": "2026-10-12T09:35:11.967Z"
+    },
+    "795": {
+      "id": 795,
+      "name": "pheromosa",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/795.png",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-01T18:46:39.956Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-01T18:46:39.956Z",
+      "lastPulledAt": "2026-11-01T18:46:39.956Z"
     },
     "802": {
       "id": 802,
