@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 272,
-  "updatedAt": "2026-11-02T08:21:10.361Z",
+  "totalPulls": 273,
+  "updatedAt": "2026-11-02T18:38:52.437Z",
   "lastPull": {
-    "id": 973,
-    "name": "flamigo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/973.png",
+    "id": 1022,
+    "name": "iron-boulder",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1022.png",
     "types": [
-      "flying",
-      "fighting"
+      "rock",
+      "psychic"
     ],
-    "totalStats": 500,
+    "totalStats": 590,
     "grade": "SR",
-    "pulledAt": "2026-11-02T08:21:10.361Z"
+    "pulledAt": "2026-11-02T18:38:52.437Z"
   },
   "pulls": [
+    {
+      "id": 1022,
+      "name": "iron-boulder",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1022.png",
+      "types": [
+        "rock",
+        "psychic"
+      ],
+      "totalStats": 590,
+      "grade": "SR",
+      "pulledAt": "2026-11-02T18:38:52.437Z"
+    },
     {
       "id": 973,
       "name": "flamigo",
@@ -119,18 +131,6 @@
       "totalStats": 308,
       "grade": "N",
       "pulledAt": "2026-10-31T18:48:33.710Z"
-    },
-    {
-      "id": 690,
-      "name": "skrelp",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
-      "types": [
-        "poison",
-        "water"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-10-31T14:44:41.794Z"
     }
   ],
   "pokemon": {
@@ -3823,6 +3823,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-25T16:04:46.036Z",
       "lastPulledAt": "2026-10-25T16:04:46.036Z"
+    },
+    "1022": {
+      "id": 1022,
+      "name": "iron-boulder",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1022.png",
+      "types": [
+        "rock",
+        "psychic"
+      ],
+      "totalStats": 590,
+      "grade": "SR",
+      "pulledAt": "2026-11-02T18:38:52.437Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-02T18:38:52.437Z",
+      "lastPulledAt": "2026-11-02T18:38:52.437Z"
     },
     "1025": {
       "id": 1025,
