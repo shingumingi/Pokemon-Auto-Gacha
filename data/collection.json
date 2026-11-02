@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 270,
-  "updatedAt": "2026-11-01T22:27:34.638Z",
+  "totalPulls": 271,
+  "updatedAt": "2026-11-02T01:42:02.543Z",
   "lastPull": {
-    "id": 914,
-    "name": "quaquaval",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
+    "id": 291,
+    "name": "ninjask",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/291.png",
     "types": [
-      "water",
-      "fighting"
+      "bug",
+      "flying"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-11-01T22:27:34.638Z"
+    "totalStats": 456,
+    "grade": "R",
+    "pulledAt": "2026-11-02T01:42:02.543Z"
   },
   "pulls": [
+    {
+      "id": 291,
+      "name": "ninjask",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/291.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 456,
+      "grade": "R",
+      "pulledAt": "2026-11-02T01:42:02.543Z"
+    },
     {
       "id": 914,
       "name": "quaquaval",
@@ -118,18 +130,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-10-31T08:40:01.771Z"
-    },
-    {
-      "id": 718,
-      "name": "zygarde-50",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png",
-      "types": [
-        "dragon",
-        "ground"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-31T02:26:46.928Z"
     }
   ],
   "pokemon": {
@@ -1109,6 +1109,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T14:54:48.438Z",
       "lastPulledAt": "2026-09-17T14:54:48.438Z"
+    },
+    "291": {
+      "id": 291,
+      "name": "ninjask",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/291.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 456,
+      "grade": "R",
+      "pulledAt": "2026-11-02T01:42:02.543Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-02T01:42:02.543Z",
+      "lastPulledAt": "2026-11-02T01:42:02.543Z"
     },
     "304": {
       "id": 304,
