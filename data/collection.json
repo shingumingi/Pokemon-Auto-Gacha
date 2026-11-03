@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 275,
-  "updatedAt": "2026-11-03T07:57:35.164Z",
+  "totalPulls": 276,
+  "updatedAt": "2026-11-03T15:53:38.053Z",
   "lastPull": {
-    "id": 709,
-    "name": "trevenant",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
+    "id": 378,
+    "name": "regice",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png",
     "types": [
-      "ghost",
-      "grass"
+      "ice"
     ],
-    "totalStats": 474,
-    "grade": "R",
-    "pulledAt": "2026-11-03T07:57:35.164Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-11-03T15:53:38.053Z"
   },
   "pulls": [
+    {
+      "id": 378,
+      "name": "regice",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-11-03T15:53:38.053Z"
+    },
     {
       "id": 709,
       "name": "trevenant",
@@ -120,18 +130,6 @@
       "totalStats": 487,
       "grade": "R",
       "pulledAt": "2026-11-01T06:53:04.966Z"
-    },
-    {
-      "id": 1011,
-      "name": "dipplin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1011.png",
-      "types": [
-        "grass",
-        "dragon"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-11-01T00:40:38.257Z"
     }
   ],
   "pokemon": {
@@ -1343,6 +1341,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T00:36:51.830Z",
       "lastPulledAt": "2026-10-10T00:36:51.830Z"
+    },
+    "378": {
+      "id": 378,
+      "name": "regice",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-11-03T15:53:38.053Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-03T15:53:38.053Z",
+      "lastPulledAt": "2026-11-03T15:53:38.053Z"
     },
     "382": {
       "id": 382,
