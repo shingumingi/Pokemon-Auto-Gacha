@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 276,
-  "updatedAt": "2026-11-03T15:53:38.053Z",
+  "totalPulls": 277,
+  "updatedAt": "2026-11-03T21:25:30.269Z",
   "lastPull": {
-    "id": 378,
-    "name": "regice",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png",
+    "id": 551,
+    "name": "sandile",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png",
     "types": [
-      "ice"
+      "ground",
+      "dark"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-11-03T15:53:38.053Z"
+    "totalStats": 292,
+    "grade": "N",
+    "pulledAt": "2026-11-03T21:25:30.269Z"
   },
   "pulls": [
+    {
+      "id": 551,
+      "name": "sandile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png",
+      "types": [
+        "ground",
+        "dark"
+      ],
+      "totalStats": 292,
+      "grade": "N",
+      "pulledAt": "2026-11-03T21:25:30.269Z"
+    },
     {
       "id": 378,
       "name": "regice",
@@ -119,17 +132,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-11-01T13:58:10.147Z"
-    },
-    {
-      "id": 745,
-      "name": "lycanroc-midday",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 487,
-      "grade": "R",
-      "pulledAt": "2026-11-01T06:53:04.966Z"
     }
   ],
   "pokemon": {
@@ -1947,6 +1949,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T09:13:01.526Z",
       "lastPulledAt": "2026-10-01T09:13:01.526Z"
+    },
+    "551": {
+      "id": 551,
+      "name": "sandile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png",
+      "types": [
+        "ground",
+        "dark"
+      ],
+      "totalStats": 292,
+      "grade": "N",
+      "pulledAt": "2026-11-03T21:25:30.269Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-03T21:25:30.269Z",
+      "lastPulledAt": "2026-11-03T21:25:30.269Z"
     },
     "556": {
       "id": 556,
