@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 273,
-  "updatedAt": "2026-11-02T18:38:52.437Z",
+  "totalPulls": 274,
+  "updatedAt": "2026-11-03T01:15:04.372Z",
   "lastPull": {
-    "id": 1022,
-    "name": "iron-boulder",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1022.png",
+    "id": 948,
+    "name": "toedscool",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png",
     "types": [
-      "rock",
-      "psychic"
+      "ground",
+      "grass"
     ],
-    "totalStats": 590,
-    "grade": "SR",
-    "pulledAt": "2026-11-02T18:38:52.437Z"
+    "totalStats": 335,
+    "grade": "N",
+    "pulledAt": "2026-11-03T01:15:04.372Z"
   },
   "pulls": [
+    {
+      "id": 948,
+      "name": "toedscool",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png",
+      "types": [
+        "ground",
+        "grass"
+      ],
+      "totalStats": 335,
+      "grade": "N",
+      "pulledAt": "2026-11-03T01:15:04.372Z"
+    },
     {
       "id": 1022,
       "name": "iron-boulder",
@@ -120,17 +132,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-31T21:56:16.414Z"
-    },
-    {
-      "id": 498,
-      "name": "tepig",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/498.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 308,
-      "grade": "N",
-      "pulledAt": "2026-10-31T18:48:33.710Z"
     }
   ],
   "pokemon": {
@@ -3585,6 +3586,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T15:03:40.546Z",
       "lastPulledAt": "2026-09-30T15:03:40.546Z"
+    },
+    "948": {
+      "id": 948,
+      "name": "toedscool",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png",
+      "types": [
+        "ground",
+        "grass"
+      ],
+      "totalStats": 335,
+      "grade": "N",
+      "pulledAt": "2026-11-03T01:15:04.372Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-03T01:15:04.372Z",
+      "lastPulledAt": "2026-11-03T01:15:04.372Z"
     },
     "950": {
       "id": 950,
