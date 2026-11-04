@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 277,
-  "updatedAt": "2026-11-03T21:25:30.269Z",
+  "totalPulls": 278,
+  "updatedAt": "2026-11-04T01:32:17.851Z",
   "lastPull": {
-    "id": 551,
-    "name": "sandile",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png",
+    "id": 509,
+    "name": "purrloin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/509.png",
     "types": [
-      "ground",
       "dark"
     ],
-    "totalStats": 292,
+    "totalStats": 281,
     "grade": "N",
-    "pulledAt": "2026-11-03T21:25:30.269Z"
+    "pulledAt": "2026-11-04T01:32:17.851Z"
   },
   "pulls": [
+    {
+      "id": 509,
+      "name": "purrloin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/509.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 281,
+      "grade": "N",
+      "pulledAt": "2026-11-04T01:32:17.851Z"
+    },
     {
       "id": 551,
       "name": "sandile",
@@ -121,17 +131,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-11-01T18:46:39.956Z"
-    },
-    {
-      "id": 810,
-      "name": "grookey",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/810.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-11-01T13:58:10.147Z"
     }
   ],
   "pokemon": {
@@ -1824,6 +1823,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T14:06:21.500Z",
       "lastPulledAt": "2026-09-29T14:06:21.500Z"
+    },
+    "509": {
+      "id": 509,
+      "name": "purrloin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/509.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 281,
+      "grade": "N",
+      "pulledAt": "2026-11-04T01:32:17.851Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-04T01:32:17.851Z",
+      "lastPulledAt": "2026-11-04T01:32:17.851Z"
     },
     "519": {
       "id": 519,
