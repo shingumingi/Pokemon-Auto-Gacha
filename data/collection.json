@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 278,
-  "updatedAt": "2026-11-04T01:32:17.851Z",
+  "totalPulls": 279,
+  "updatedAt": "2026-11-04T07:57:58.527Z",
   "lastPull": {
-    "id": 509,
-    "name": "purrloin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/509.png",
+    "id": 386,
+    "name": "deoxys-normal",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png",
     "types": [
-      "dark"
+      "psychic"
     ],
-    "totalStats": 281,
-    "grade": "N",
-    "pulledAt": "2026-11-04T01:32:17.851Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-11-04T07:57:58.527Z"
   },
   "pulls": [
+    {
+      "id": 386,
+      "name": "deoxys-normal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-04T07:57:58.527Z"
+    },
     {
       "id": 509,
       "name": "purrloin",
@@ -119,18 +130,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-11-01T22:27:34.638Z"
-    },
-    {
-      "id": 795,
-      "name": "pheromosa",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/795.png",
-      "types": [
-        "bug",
-        "fighting"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-11-01T18:46:39.956Z"
     }
   ],
   "pokemon": {
@@ -1387,6 +1386,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T01:29:38.453Z",
       "lastPulledAt": "2026-09-30T02:02:28.003Z"
+    },
+    "386": {
+      "id": 386,
+      "name": "deoxys-normal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-04T07:57:58.527Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-04T07:57:58.527Z",
+      "lastPulledAt": "2026-11-04T07:57:58.527Z"
     },
     "395": {
       "id": 395,
