@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 283,
-  "updatedAt": "2026-11-05T08:51:47.271Z",
+  "totalPulls": 284,
+  "updatedAt": "2026-11-05T17:01:54.731Z",
   "lastPull": {
-    "id": 859,
-    "name": "impidimp",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/859.png",
+    "id": 53,
+    "name": "persian",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
     "types": [
-      "dark",
-      "fairy"
+      "normal"
     ],
-    "totalStats": 265,
-    "grade": "N",
-    "pulledAt": "2026-11-05T08:51:47.271Z"
+    "totalStats": 440,
+    "grade": "R",
+    "pulledAt": "2026-11-05T17:01:54.731Z"
   },
   "pulls": [
+    {
+      "id": 53,
+      "name": "persian",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-11-05T17:01:54.731Z"
+    },
     {
       "id": 859,
       "name": "impidimp",
@@ -118,18 +128,6 @@
       "totalStats": 474,
       "grade": "R",
       "pulledAt": "2026-11-03T07:57:35.164Z"
-    },
-    {
-      "id": 948,
-      "name": "toedscool",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png",
-      "types": [
-        "ground",
-        "grass"
-      ],
-      "totalStats": 335,
-      "grade": "N",
-      "pulledAt": "2026-11-03T01:15:04.372Z"
     }
   ],
   "pokemon": {
@@ -317,6 +315,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T16:40:17.552Z",
       "lastPulledAt": "2026-10-18T16:40:17.552Z"
+    },
+    "53": {
+      "id": 53,
+      "name": "persian",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-11-05T17:01:54.731Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-05T17:01:54.731Z",
+      "lastPulledAt": "2026-11-05T17:01:54.731Z"
     },
     "54": {
       "id": 54,
