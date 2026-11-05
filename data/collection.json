@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 282,
-  "updatedAt": "2026-11-05T01:50:41.546Z",
+  "totalPulls": 283,
+  "updatedAt": "2026-11-05T08:51:47.271Z",
   "lastPull": {
-    "id": 886,
-    "name": "drakloak",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/886.png",
+    "id": 859,
+    "name": "impidimp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/859.png",
     "types": [
-      "dragon",
-      "ghost"
+      "dark",
+      "fairy"
     ],
-    "totalStats": 410,
-    "grade": "R",
-    "pulledAt": "2026-11-05T01:50:41.546Z"
+    "totalStats": 265,
+    "grade": "N",
+    "pulledAt": "2026-11-05T08:51:47.271Z"
   },
   "pulls": [
+    {
+      "id": 859,
+      "name": "impidimp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/859.png",
+      "types": [
+        "dark",
+        "fairy"
+      ],
+      "totalStats": 265,
+      "grade": "N",
+      "pulledAt": "2026-11-05T08:51:47.271Z"
+    },
     {
       "id": 886,
       "name": "drakloak",
@@ -118,18 +130,6 @@
       "totalStats": 335,
       "grade": "N",
       "pulledAt": "2026-11-03T01:15:04.372Z"
-    },
-    {
-      "id": 1022,
-      "name": "iron-boulder",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1022.png",
-      "types": [
-        "rock",
-        "psychic"
-      ],
-      "totalStats": 590,
-      "grade": "SR",
-      "pulledAt": "2026-11-02T18:38:52.437Z"
     }
   ],
   "pokemon": {
@@ -3254,6 +3254,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-23T21:38:48.366Z",
       "lastPulledAt": "2026-10-23T21:38:48.366Z"
+    },
+    "859": {
+      "id": 859,
+      "name": "impidimp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/859.png",
+      "types": [
+        "dark",
+        "fairy"
+      ],
+      "totalStats": 265,
+      "grade": "N",
+      "pulledAt": "2026-11-05T08:51:47.271Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-05T08:51:47.271Z",
+      "lastPulledAt": "2026-11-05T08:51:47.271Z"
     },
     "861": {
       "id": 861,
