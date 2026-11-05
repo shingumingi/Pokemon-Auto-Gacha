@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 284,
-  "updatedAt": "2026-11-05T17:01:54.731Z",
+  "totalPulls": 285,
+  "updatedAt": "2026-11-05T22:38:50.250Z",
   "lastPull": {
-    "id": 53,
-    "name": "persian",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
+    "id": 899,
+    "name": "wyrdeer",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
     "types": [
-      "normal"
+      "normal",
+      "psychic"
     ],
-    "totalStats": 440,
-    "grade": "R",
-    "pulledAt": "2026-11-05T17:01:54.731Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-11-05T22:38:50.250Z"
   },
   "pulls": [
+    {
+      "id": 899,
+      "name": "wyrdeer",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-05T22:38:50.250Z"
+    },
     {
       "id": 53,
       "name": "persian",
@@ -116,18 +129,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-11-03T15:53:38.053Z"
-    },
-    {
-      "id": 709,
-      "name": "trevenant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
-      "types": [
-        "ghost",
-        "grass"
-      ],
-      "totalStats": 474,
-      "grade": "R",
-      "pulledAt": "2026-11-03T07:57:35.164Z"
     }
   ],
   "pokemon": {
@@ -3515,10 +3516,10 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-09-16T01:42:18.423Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:42:18.423Z",
-      "lastPulledAt": "2026-09-16T01:42:18.423Z"
+      "lastPulledAt": "2026-11-05T22:38:50.250Z"
     },
     "903": {
       "id": 903,
