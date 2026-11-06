@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 288,
-  "updatedAt": "2026-11-06T17:09:51.915Z",
+  "totalPulls": 289,
+  "updatedAt": "2026-11-06T22:05:32.494Z",
   "lastPull": {
-    "id": 94,
-    "name": "gengar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+    "id": 1022,
+    "name": "iron-boulder",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1022.png",
     "types": [
-      "ghost",
-      "poison"
+      "rock",
+      "psychic"
     ],
-    "totalStats": 500,
+    "totalStats": 590,
     "grade": "SR",
-    "pulledAt": "2026-11-06T17:09:51.915Z"
+    "pulledAt": "2026-11-06T22:05:32.494Z"
   },
   "pulls": [
+    {
+      "id": 1022,
+      "name": "iron-boulder",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1022.png",
+      "types": [
+        "rock",
+        "psychic"
+      ],
+      "totalStats": 590,
+      "grade": "SR",
+      "pulledAt": "2026-11-06T22:05:32.494Z"
+    },
     {
       "id": 94,
       "name": "gengar",
@@ -120,17 +132,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-11-04T16:18:41.933Z"
-    },
-    {
-      "id": 386,
-      "name": "deoxys-normal",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-11-04T07:57:58.527Z"
     }
   ],
   "pokemon": {
@@ -4054,10 +4055,10 @@
       "totalStats": 590,
       "grade": "SR",
       "pulledAt": "2026-11-02T18:38:52.437Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-02T18:38:52.437Z",
-      "lastPulledAt": "2026-11-02T18:38:52.437Z"
+      "lastPulledAt": "2026-11-06T22:05:32.494Z"
     },
     "1025": {
       "id": 1025,
