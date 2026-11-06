@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 285,
-  "updatedAt": "2026-11-05T22:38:50.250Z",
+  "totalPulls": 286,
+  "updatedAt": "2026-11-06T02:48:23.376Z",
   "lastPull": {
-    "id": 899,
-    "name": "wyrdeer",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
+    "id": 748,
+    "name": "toxapex",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
     "types": [
-      "normal",
-      "psychic"
+      "poison",
+      "water"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-11-05T22:38:50.250Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-11-06T02:48:23.376Z"
   },
   "pulls": [
+    {
+      "id": 748,
+      "name": "toxapex",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-11-06T02:48:23.376Z"
+    },
     {
       "id": 899,
       "name": "wyrdeer",
@@ -118,17 +130,6 @@
       "totalStats": 292,
       "grade": "N",
       "pulledAt": "2026-11-03T21:25:30.269Z"
-    },
-    {
-      "id": 378,
-      "name": "regice",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-11-03T15:53:38.053Z"
     }
   ],
   "pokemon": {
@@ -2909,6 +2910,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T21:20:04.525Z",
       "lastPulledAt": "2026-10-18T21:20:04.525Z"
+    },
+    "748": {
+      "id": 748,
+      "name": "toxapex",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-11-06T02:48:23.376Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-06T02:48:23.376Z",
+      "lastPulledAt": "2026-11-06T02:48:23.376Z"
     },
     "751": {
       "id": 751,
