@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 286,
-  "updatedAt": "2026-11-06T02:48:23.376Z",
+  "totalPulls": 287,
+  "updatedAt": "2026-11-06T09:56:20.929Z",
   "lastPull": {
-    "id": 748,
-    "name": "toxapex",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
+    "id": 342,
+    "name": "crawdaunt",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png",
     "types": [
-      "poison",
-      "water"
+      "water",
+      "dark"
     ],
-    "totalStats": 495,
+    "totalStats": 468,
     "grade": "R",
-    "pulledAt": "2026-11-06T02:48:23.376Z"
+    "pulledAt": "2026-11-06T09:56:20.929Z"
   },
   "pulls": [
+    {
+      "id": 342,
+      "name": "crawdaunt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "totalStats": 468,
+      "grade": "R",
+      "pulledAt": "2026-11-06T09:56:20.929Z"
+    },
     {
       "id": 748,
       "name": "toxapex",
@@ -118,18 +130,6 @@
       "totalStats": 281,
       "grade": "N",
       "pulledAt": "2026-11-04T01:32:17.851Z"
-    },
-    {
-      "id": 551,
-      "name": "sandile",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png",
-      "types": [
-        "ground",
-        "dark"
-      ],
-      "totalStats": 292,
-      "grade": "N",
-      "pulledAt": "2026-11-03T21:25:30.269Z"
     }
   ],
   "pokemon": {
@@ -1248,6 +1248,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-23T04:57:28.246Z",
       "lastPulledAt": "2026-10-23T04:57:28.246Z"
+    },
+    "342": {
+      "id": 342,
+      "name": "crawdaunt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "totalStats": 468,
+      "grade": "R",
+      "pulledAt": "2026-11-06T09:56:20.929Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-06T09:56:20.929Z",
+      "lastPulledAt": "2026-11-06T09:56:20.929Z"
     },
     "343": {
       "id": 343,
