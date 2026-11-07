@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 292,
-  "updatedAt": "2026-11-07T14:52:37.074Z",
+  "totalPulls": 293,
+  "updatedAt": "2026-11-07T19:13:39.200Z",
   "lastPull": {
-    "id": 717,
-    "name": "yveltal",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/717.png",
+    "id": 877,
+    "name": "morpeko-full-belly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/877.png",
     "types": [
-      "dark",
-      "flying"
+      "electric",
+      "dark"
     ],
-    "totalStats": 680,
-    "grade": "SSR",
-    "pulledAt": "2026-11-07T14:52:37.074Z"
+    "totalStats": 436,
+    "grade": "R",
+    "pulledAt": "2026-11-07T19:13:39.200Z"
   },
   "pulls": [
+    {
+      "id": 877,
+      "name": "morpeko-full-belly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/877.png",
+      "types": [
+        "electric",
+        "dark"
+      ],
+      "totalStats": 436,
+      "grade": "R",
+      "pulledAt": "2026-11-07T19:13:39.200Z"
+    },
     {
       "id": 717,
       "name": "yveltal",
@@ -119,18 +131,6 @@
       "totalStats": 440,
       "grade": "R",
       "pulledAt": "2026-11-05T17:01:54.731Z"
-    },
-    {
-      "id": 859,
-      "name": "impidimp",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/859.png",
-      "types": [
-        "dark",
-        "fairy"
-      ],
-      "totalStats": 265,
-      "grade": "N",
-      "pulledAt": "2026-11-05T08:51:47.271Z"
     }
   ],
   "pokemon": {
@@ -3489,6 +3489,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T01:21:23.533Z",
       "lastPulledAt": "2026-10-01T21:12:35.864Z"
+    },
+    "877": {
+      "id": 877,
+      "name": "morpeko-full-belly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/877.png",
+      "types": [
+        "electric",
+        "dark"
+      ],
+      "totalStats": 436,
+      "grade": "R",
+      "pulledAt": "2026-11-07T19:13:39.200Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T19:13:39.200Z",
+      "lastPulledAt": "2026-11-07T19:13:39.200Z"
     },
     "880": {
       "id": 880,
