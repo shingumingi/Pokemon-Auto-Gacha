@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 291,
-  "updatedAt": "2026-11-07T08:08:46.894Z",
+  "totalPulls": 292,
+  "updatedAt": "2026-11-07T14:52:37.074Z",
   "lastPull": {
-    "id": 206,
-    "name": "dunsparce",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png",
+    "id": 717,
+    "name": "yveltal",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/717.png",
     "types": [
-      "normal"
+      "dark",
+      "flying"
     ],
-    "totalStats": 415,
-    "grade": "R",
-    "pulledAt": "2026-11-07T08:08:46.894Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-11-07T14:52:37.074Z"
   },
   "pulls": [
+    {
+      "id": 717,
+      "name": "yveltal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/717.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-11-07T14:52:37.074Z"
+    },
     {
       "id": 206,
       "name": "dunsparce",
@@ -118,18 +131,6 @@
       "totalStats": 265,
       "grade": "N",
       "pulledAt": "2026-11-05T08:51:47.271Z"
-    },
-    {
-      "id": 886,
-      "name": "drakloak",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/886.png",
-      "types": [
-        "dragon",
-        "ghost"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-11-05T01:50:41.546Z"
     }
   ],
   "pokemon": {
@@ -2784,6 +2785,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T01:13:25.900Z",
       "lastPulledAt": "2026-10-03T01:13:25.900Z"
+    },
+    "717": {
+      "id": 717,
+      "name": "yveltal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/717.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-11-07T14:52:37.074Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T14:52:37.074Z",
+      "lastPulledAt": "2026-11-07T14:52:37.074Z"
     },
     "718": {
       "id": 718,
