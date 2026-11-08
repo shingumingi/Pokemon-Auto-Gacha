@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 296,
-  "updatedAt": "2026-11-08T08:27:22.354Z",
+  "totalPulls": 297,
+  "updatedAt": "2026-11-08T15:29:22.977Z",
   "lastPull": {
-    "id": 655,
-    "name": "delphox",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/655.png",
+    "id": 395,
+    "name": "empoleon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
     "types": [
-      "fire",
-      "psychic"
+      "water",
+      "steel"
     ],
-    "totalStats": 534,
+    "totalStats": 530,
     "grade": "SR",
-    "pulledAt": "2026-11-08T08:27:22.354Z"
+    "pulledAt": "2026-11-08T15:29:22.977Z"
   },
   "pulls": [
+    {
+      "id": 395,
+      "name": "empoleon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
+      "types": [
+        "water",
+        "steel"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-08T15:29:22.977Z"
+    },
     {
       "id": 655,
       "name": "delphox",
@@ -120,18 +132,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-11-06T17:09:51.915Z"
-    },
-    {
-      "id": 342,
-      "name": "crawdaunt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png",
-      "types": [
-        "water",
-        "dark"
-      ],
-      "totalStats": 468,
-      "grade": "R",
-      "pulledAt": "2026-11-06T09:56:20.929Z"
     }
   ],
   "pokemon": {
@@ -1524,10 +1524,10 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-10-11T02:16:20.225Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T02:16:20.225Z",
-      "lastPulledAt": "2026-10-11T02:16:20.225Z"
+      "lastPulledAt": "2026-11-08T15:29:22.977Z"
     },
     "399": {
       "id": 399,
