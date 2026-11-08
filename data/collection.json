@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 298,
-  "updatedAt": "2026-11-08T19:53:14.012Z",
+  "totalPulls": 299,
+  "updatedAt": "2026-11-08T23:22:33.607Z",
   "lastPull": {
-    "id": 644,
-    "name": "zekrom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
+    "id": 535,
+    "name": "tympole",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/535.png",
     "types": [
-      "dragon",
-      "electric"
+      "water"
     ],
-    "totalStats": 680,
-    "grade": "SSR",
-    "pulledAt": "2026-11-08T19:53:14.012Z"
+    "totalStats": 294,
+    "grade": "N",
+    "pulledAt": "2026-11-08T23:22:33.607Z"
   },
   "pulls": [
+    {
+      "id": 535,
+      "name": "tympole",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/535.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 294,
+      "grade": "N",
+      "pulledAt": "2026-11-08T23:22:33.607Z"
+    },
     {
       "id": 644,
       "name": "zekrom",
@@ -120,18 +130,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-11-07T01:50:43.766Z"
-    },
-    {
-      "id": 1022,
-      "name": "iron-boulder",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1022.png",
-      "types": [
-        "rock",
-        "psychic"
-      ],
-      "totalStats": 590,
-      "grade": "SR",
-      "pulledAt": "2026-11-06T22:05:32.494Z"
     }
   ],
   "pokemon": {
@@ -2040,6 +2038,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T16:56:55.565Z",
       "lastPulledAt": "2026-10-04T16:56:55.565Z"
+    },
+    "535": {
+      "id": 535,
+      "name": "tympole",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/535.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 294,
+      "grade": "N",
+      "pulledAt": "2026-11-08T23:22:33.607Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T23:22:33.607Z",
+      "lastPulledAt": "2026-11-08T23:22:33.607Z"
     },
     "540": {
       "id": 540,
