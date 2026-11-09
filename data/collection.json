@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 300,
-  "updatedAt": "2026-11-09T02:51:04.554Z",
+  "totalPulls": 301,
+  "updatedAt": "2026-11-09T10:46:42.877Z",
   "lastPull": {
-    "id": 13,
-    "name": "weedle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
+    "id": 172,
+    "name": "pichu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png",
     "types": [
-      "bug",
-      "poison"
+      "electric"
     ],
-    "totalStats": 195,
+    "totalStats": 205,
     "grade": "N",
-    "pulledAt": "2026-11-09T02:51:04.554Z"
+    "pulledAt": "2026-11-09T10:46:42.877Z"
   },
   "pulls": [
+    {
+      "id": 172,
+      "name": "pichu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 205,
+      "grade": "N",
+      "pulledAt": "2026-11-09T10:46:42.877Z"
+    },
     {
       "id": 13,
       "name": "weedle",
@@ -121,17 +131,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-11-07T14:52:37.074Z"
-    },
-    {
-      "id": 206,
-      "name": "dunsparce",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 415,
-      "grade": "R",
-      "pulledAt": "2026-11-07T08:08:46.894Z"
     }
   ],
   "pokemon": {
@@ -771,6 +770,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T23:30:17.903Z",
       "lastPulledAt": "2026-09-30T23:30:17.903Z"
+    },
+    "172": {
+      "id": 172,
+      "name": "pichu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 205,
+      "grade": "N",
+      "pulledAt": "2026-11-09T10:46:42.877Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-09T10:46:42.877Z",
+      "lastPulledAt": "2026-11-09T10:46:42.877Z"
     },
     "174": {
       "id": 174,
