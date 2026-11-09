@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 301,
-  "updatedAt": "2026-11-09T10:46:42.877Z",
+  "totalPulls": 302,
+  "updatedAt": "2026-11-09T21:07:26.976Z",
   "lastPull": {
-    "id": 172,
-    "name": "pichu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png",
+    "id": 497,
+    "name": "serperior",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png",
     "types": [
-      "electric"
+      "grass"
     ],
-    "totalStats": 205,
-    "grade": "N",
-    "pulledAt": "2026-11-09T10:46:42.877Z"
+    "totalStats": 528,
+    "grade": "SR",
+    "pulledAt": "2026-11-09T21:07:26.976Z"
   },
   "pulls": [
+    {
+      "id": 497,
+      "name": "serperior",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 528,
+      "grade": "SR",
+      "pulledAt": "2026-11-09T21:07:26.976Z"
+    },
     {
       "id": 172,
       "name": "pichu",
@@ -119,18 +130,6 @@
       "totalStats": 436,
       "grade": "R",
       "pulledAt": "2026-11-07T19:13:39.200Z"
-    },
-    {
-      "id": 717,
-      "name": "yveltal",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/717.png",
-      "types": [
-        "dark",
-        "flying"
-      ],
-      "totalStats": 680,
-      "grade": "SSR",
-      "pulledAt": "2026-11-07T14:52:37.074Z"
     }
   ],
   "pokemon": {
@@ -1959,10 +1958,10 @@
       "totalStats": 528,
       "grade": "SR",
       "pulledAt": "2026-10-29T05:38:03.856Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-29T05:38:03.856Z",
-      "lastPulledAt": "2026-10-29T05:38:03.856Z"
+      "lastPulledAt": "2026-11-09T21:07:26.976Z"
     },
     "498": {
       "id": 498,
