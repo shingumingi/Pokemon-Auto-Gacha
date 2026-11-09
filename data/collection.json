@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 299,
-  "updatedAt": "2026-11-08T23:22:33.607Z",
+  "totalPulls": 300,
+  "updatedAt": "2026-11-09T02:51:04.554Z",
   "lastPull": {
-    "id": 535,
-    "name": "tympole",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/535.png",
+    "id": 13,
+    "name": "weedle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
     "types": [
-      "water"
+      "bug",
+      "poison"
     ],
-    "totalStats": 294,
+    "totalStats": 195,
     "grade": "N",
-    "pulledAt": "2026-11-08T23:22:33.607Z"
+    "pulledAt": "2026-11-09T02:51:04.554Z"
   },
   "pulls": [
+    {
+      "id": 13,
+      "name": "weedle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 195,
+      "grade": "N",
+      "pulledAt": "2026-11-09T02:51:04.554Z"
+    },
     {
       "id": 535,
       "name": "tympole",
@@ -119,17 +132,6 @@
       "totalStats": 415,
       "grade": "R",
       "pulledAt": "2026-11-07T08:08:46.894Z"
-    },
-    {
-      "id": 115,
-      "name": "kangaskhan",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-11-07T01:50:43.766Z"
     }
   ],
   "pokemon": {
@@ -162,6 +164,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T19:13:34.628Z",
       "lastPulledAt": "2026-09-24T19:13:34.628Z"
+    },
+    "13": {
+      "id": 13,
+      "name": "weedle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 195,
+      "grade": "N",
+      "pulledAt": "2026-11-09T02:51:04.554Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-09T02:51:04.554Z",
+      "lastPulledAt": "2026-11-09T02:51:04.554Z"
     },
     "15": {
       "id": 15,
