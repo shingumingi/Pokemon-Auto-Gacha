@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 302,
-  "updatedAt": "2026-11-09T21:07:26.976Z",
+  "totalPulls": 303,
+  "updatedAt": "2026-11-10T03:29:45.879Z",
   "lastPull": {
-    "id": 497,
-    "name": "serperior",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png",
+    "id": 180,
+    "name": "flaaffy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png",
     "types": [
-      "grass"
+      "electric"
     ],
-    "totalStats": 528,
-    "grade": "SR",
-    "pulledAt": "2026-11-09T21:07:26.976Z"
+    "totalStats": 365,
+    "grade": "N",
+    "pulledAt": "2026-11-10T03:29:45.879Z"
   },
   "pulls": [
+    {
+      "id": 180,
+      "name": "flaaffy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 365,
+      "grade": "N",
+      "pulledAt": "2026-11-10T03:29:45.879Z"
+    },
     {
       "id": 497,
       "name": "serperior",
@@ -118,18 +129,6 @@
       "totalStats": 278,
       "grade": "N",
       "pulledAt": "2026-11-07T22:47:33.858Z"
-    },
-    {
-      "id": 877,
-      "name": "morpeko-full-belly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/877.png",
-      "types": [
-        "electric",
-        "dark"
-      ],
-      "totalStats": 436,
-      "grade": "R",
-      "pulledAt": "2026-11-07T19:13:39.200Z"
     }
   ],
   "pokemon": {
@@ -831,6 +830,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T04:57:48.575Z",
       "lastPulledAt": "2026-10-15T04:57:48.575Z"
+    },
+    "180": {
+      "id": 180,
+      "name": "flaaffy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 365,
+      "grade": "N",
+      "pulledAt": "2026-11-10T03:29:45.879Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-10T03:29:45.879Z",
+      "lastPulledAt": "2026-11-10T03:29:45.879Z"
     },
     "183": {
       "id": 183,
