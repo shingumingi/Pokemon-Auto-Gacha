@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 304,
-  "updatedAt": "2026-11-10T11:37:52.187Z",
+  "totalPulls": 305,
+  "updatedAt": "2026-11-10T18:48:55.090Z",
   "lastPull": {
-    "id": 37,
-    "name": "vulpix",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
+    "id": 919,
+    "name": "nymble",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png",
     "types": [
-      "fire"
+      "bug"
     ],
-    "totalStats": 299,
+    "totalStats": 210,
     "grade": "N",
-    "pulledAt": "2026-11-10T11:37:52.187Z"
+    "pulledAt": "2026-11-10T18:48:55.090Z"
   },
   "pulls": [
+    {
+      "id": 919,
+      "name": "nymble",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 210,
+      "grade": "N",
+      "pulledAt": "2026-11-10T18:48:55.090Z"
+    },
     {
       "id": 37,
       "name": "vulpix",
@@ -116,18 +127,6 @@
       "totalStats": 534,
       "grade": "SR",
       "pulledAt": "2026-11-08T08:27:22.354Z"
-    },
-    {
-      "id": 984,
-      "name": "great-tusk",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
-      "types": [
-        "ground",
-        "fighting"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-11-08T01:53:22.117Z"
     }
   ],
   "pokemon": {
@@ -3812,10 +3811,10 @@
       "totalStats": 210,
       "grade": "N",
       "pulledAt": "2026-10-22T08:13:10.100Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T08:13:10.100Z",
-      "lastPulledAt": "2026-10-22T08:13:10.100Z"
+      "lastPulledAt": "2026-11-10T18:48:55.090Z"
     },
     "924": {
       "id": 924,
