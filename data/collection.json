@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 306,
-  "updatedAt": "2026-11-10T23:46:15.667Z",
+  "totalPulls": 307,
+  "updatedAt": "2026-11-11T03:07:24.314Z",
   "lastPull": {
-    "id": 728,
-    "name": "popplio",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/728.png",
+    "id": 11,
+    "name": "metapod",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
     "types": [
-      "water"
+      "bug"
     ],
-    "totalStats": 320,
+    "totalStats": 205,
     "grade": "N",
-    "pulledAt": "2026-11-10T23:46:15.667Z"
+    "pulledAt": "2026-11-11T03:07:24.314Z"
   },
   "pulls": [
+    {
+      "id": 11,
+      "name": "metapod",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 205,
+      "grade": "N",
+      "pulledAt": "2026-11-11T03:07:24.314Z"
+    },
     {
       "id": 728,
       "name": "popplio",
@@ -114,18 +125,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-11-08T19:53:14.012Z"
-    },
-    {
-      "id": 395,
-      "name": "empoleon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
-      "types": [
-        "water",
-        "steel"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-11-08T15:29:22.977Z"
     }
   ],
   "pokemon": {
@@ -158,6 +157,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T19:13:34.628Z",
       "lastPulledAt": "2026-09-24T19:13:34.628Z"
+    },
+    "11": {
+      "id": 11,
+      "name": "metapod",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 205,
+      "grade": "N",
+      "pulledAt": "2026-11-11T03:07:24.314Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-11T03:07:24.314Z",
+      "lastPulledAt": "2026-11-11T03:07:24.314Z"
     },
     "13": {
       "id": 13,
