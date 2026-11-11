@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 308,
-  "updatedAt": "2026-11-11T10:47:11.738Z",
+  "totalPulls": 309,
+  "updatedAt": "2026-11-11T18:07:16.470Z",
   "lastPull": {
-    "id": 99,
-    "name": "kingler",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png",
+    "id": 993,
+    "name": "iron-jugulis",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
     "types": [
-      "water"
+      "dark",
+      "flying"
     ],
-    "totalStats": 475,
-    "grade": "R",
-    "pulledAt": "2026-11-11T10:47:11.738Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-11-11T18:07:16.470Z"
   },
   "pulls": [
+    {
+      "id": 993,
+      "name": "iron-jugulis",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-11T18:07:16.470Z"
+    },
     {
       "id": 99,
       "name": "kingler",
@@ -113,17 +126,6 @@
       "totalStats": 195,
       "grade": "N",
       "pulledAt": "2026-11-09T02:51:04.554Z"
-    },
-    {
-      "id": 535,
-      "name": "tympole",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/535.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 294,
-      "grade": "N",
-      "pulledAt": "2026-11-08T23:22:33.607Z"
     }
   ],
   "pokemon": {
@@ -4150,10 +4152,10 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-09-22T20:13:21.937Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T20:13:21.937Z",
-      "lastPulledAt": "2026-09-22T20:13:21.937Z"
+      "lastPulledAt": "2026-11-11T18:07:16.470Z"
     },
     "996": {
       "id": 996,
