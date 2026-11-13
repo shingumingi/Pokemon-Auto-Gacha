@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 315,
-  "updatedAt": "2026-11-13T10:03:11.689Z",
+  "totalPulls": 316,
+  "updatedAt": "2026-11-13T17:39:18.692Z",
   "lastPull": {
-    "id": 279,
-    "name": "pelipper",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png",
+    "id": 255,
+    "name": "torchic",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png",
     "types": [
-      "water",
-      "flying"
+      "fire"
     ],
-    "totalStats": 440,
-    "grade": "R",
-    "pulledAt": "2026-11-13T10:03:11.689Z"
+    "totalStats": 310,
+    "grade": "N",
+    "pulledAt": "2026-11-13T17:39:18.692Z"
   },
   "pulls": [
+    {
+      "id": 255,
+      "name": "torchic",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-11-13T17:39:18.692Z"
+    },
     {
       "id": 279,
       "name": "pelipper",
@@ -118,17 +128,6 @@
       "totalStats": 205,
       "grade": "N",
       "pulledAt": "2026-11-11T03:07:24.314Z"
-    },
-    {
-      "id": 728,
-      "name": "popplio",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/728.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-11-10T23:46:15.667Z"
     }
   ],
   "pokemon": {
@@ -1182,6 +1181,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T23:12:09.200Z",
       "lastPulledAt": "2026-09-26T23:12:09.200Z"
+    },
+    "255": {
+      "id": 255,
+      "name": "torchic",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-11-13T17:39:18.692Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T17:39:18.692Z",
+      "lastPulledAt": "2026-11-13T17:39:18.692Z"
     },
     "260": {
       "id": 260,
