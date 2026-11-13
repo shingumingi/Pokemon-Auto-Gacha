@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 316,
-  "updatedAt": "2026-11-13T17:39:18.692Z",
+  "totalPulls": 317,
+  "updatedAt": "2026-11-13T22:51:51.838Z",
   "lastPull": {
-    "id": 255,
-    "name": "torchic",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png",
+    "id": 563,
+    "name": "cofagrigus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png",
     "types": [
-      "fire"
+      "ghost"
     ],
-    "totalStats": 310,
-    "grade": "N",
-    "pulledAt": "2026-11-13T17:39:18.692Z"
+    "totalStats": 483,
+    "grade": "R",
+    "pulledAt": "2026-11-13T22:51:51.838Z"
   },
   "pulls": [
+    {
+      "id": 563,
+      "name": "cofagrigus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 483,
+      "grade": "R",
+      "pulledAt": "2026-11-13T22:51:51.838Z"
+    },
     {
       "id": 255,
       "name": "torchic",
@@ -117,17 +128,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-11-11T10:47:11.738Z"
-    },
-    {
-      "id": 11,
-      "name": "metapod",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 205,
-      "grade": "N",
-      "pulledAt": "2026-11-11T03:07:24.314Z"
     }
   ],
   "pokemon": {
@@ -2309,10 +2309,10 @@
       "totalStats": 483,
       "grade": "R",
       "pulledAt": "2026-10-24T23:31:09.621Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-24T23:31:09.621Z",
-      "lastPulledAt": "2026-10-24T23:31:09.621Z"
+      "lastPulledAt": "2026-11-13T22:51:51.838Z"
     },
     "568": {
       "id": 568,
