@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 313,
-  "updatedAt": "2026-11-12T22:18:04.899Z",
+  "totalPulls": 314,
+  "updatedAt": "2026-11-13T02:40:30.862Z",
   "lastPull": {
-    "id": 15,
-    "name": "beedrill",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
+    "id": 92,
+    "name": "gastly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
     "types": [
-      "bug",
+      "ghost",
       "poison"
     ],
-    "totalStats": 395,
+    "totalStats": 310,
     "grade": "N",
-    "pulledAt": "2026-11-12T22:18:04.899Z"
+    "pulledAt": "2026-11-13T02:40:30.862Z"
   },
   "pulls": [
+    {
+      "id": 92,
+      "name": "gastly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-11-13T02:40:30.862Z"
+    },
     {
       "id": 15,
       "name": "beedrill",
@@ -116,17 +128,6 @@
       "totalStats": 210,
       "grade": "N",
       "pulledAt": "2026-11-10T18:48:55.090Z"
-    },
-    {
-      "id": 37,
-      "name": "vulpix",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 299,
-      "grade": "N",
-      "pulledAt": "2026-11-10T11:37:52.187Z"
     }
   ],
   "pokemon": {
@@ -527,10 +528,10 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-09-23T15:35:08.130Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T15:35:08.130Z",
-      "lastPulledAt": "2026-10-02T18:09:54.241Z"
+      "lastPulledAt": "2026-11-13T02:40:30.862Z"
     },
     "93": {
       "id": 93,
