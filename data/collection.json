@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 314,
-  "updatedAt": "2026-11-13T02:40:30.862Z",
+  "totalPulls": 315,
+  "updatedAt": "2026-11-13T10:03:11.689Z",
   "lastPull": {
-    "id": 92,
-    "name": "gastly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
+    "id": 279,
+    "name": "pelipper",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png",
     "types": [
-      "ghost",
-      "poison"
+      "water",
+      "flying"
     ],
-    "totalStats": 310,
-    "grade": "N",
-    "pulledAt": "2026-11-13T02:40:30.862Z"
+    "totalStats": 440,
+    "grade": "R",
+    "pulledAt": "2026-11-13T10:03:11.689Z"
   },
   "pulls": [
+    {
+      "id": 279,
+      "name": "pelipper",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-11-13T10:03:11.689Z"
+    },
     {
       "id": 92,
       "name": "gastly",
@@ -117,17 +129,6 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-11-10T23:46:15.667Z"
-    },
-    {
-      "id": 919,
-      "name": "nymble",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 210,
-      "grade": "N",
-      "pulledAt": "2026-11-10T18:48:55.090Z"
     }
   ],
   "pokemon": {
@@ -1259,6 +1260,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-20T06:40:25.552Z",
       "lastPulledAt": "2026-10-20T06:40:25.552Z"
+    },
+    "279": {
+      "id": 279,
+      "name": "pelipper",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-11-13T10:03:11.689Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T10:03:11.689Z",
+      "lastPulledAt": "2026-11-13T10:03:11.689Z"
     },
     "281": {
       "id": 281,
