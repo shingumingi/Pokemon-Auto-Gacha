@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 320,
-  "updatedAt": "2026-11-14T16:08:37.947Z",
+  "totalPulls": 321,
+  "updatedAt": "2026-11-14T20:40:29.252Z",
   "lastPull": {
-    "id": 834,
-    "name": "drednaw",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png",
+    "id": 999,
+    "name": "gimmighoul",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/999.png",
     "types": [
-      "water",
-      "rock"
+      "ghost"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-11-14T16:08:37.947Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-11-14T20:40:29.252Z"
   },
   "pulls": [
+    {
+      "id": 999,
+      "name": "gimmighoul",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/999.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-14T20:40:29.252Z"
+    },
     {
       "id": 834,
       "name": "drednaw",
@@ -118,17 +128,6 @@
       "totalStats": 670,
       "grade": "SSR",
       "pulledAt": "2026-11-12T16:18:54.494Z"
-    },
-    {
-      "id": 179,
-      "name": "mareep",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/179.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 280,
-      "grade": "N",
-      "pulledAt": "2026-11-12T07:40:45.617Z"
     }
   ],
   "pokemon": {
@@ -4300,6 +4299,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T20:47:22.982Z",
       "lastPulledAt": "2026-10-17T20:47:22.982Z"
+    },
+    "999": {
+      "id": 999,
+      "name": "gimmighoul",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/999.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-14T20:40:29.252Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-14T20:40:29.252Z",
+      "lastPulledAt": "2026-11-14T20:40:29.252Z"
     },
     "1003": {
       "id": 1003,
