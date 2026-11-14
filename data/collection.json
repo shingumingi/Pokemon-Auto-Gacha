@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 319,
-  "updatedAt": "2026-11-14T09:43:56.064Z",
+  "totalPulls": 320,
+  "updatedAt": "2026-11-14T16:08:37.947Z",
   "lastPull": {
-    "id": 384,
-    "name": "rayquaza",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png",
+    "id": 834,
+    "name": "drednaw",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png",
     "types": [
-      "dragon",
-      "flying"
+      "water",
+      "rock"
     ],
-    "totalStats": 680,
-    "grade": "SSR",
-    "pulledAt": "2026-11-14T09:43:56.064Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-11-14T16:08:37.947Z"
   },
   "pulls": [
+    {
+      "id": 834,
+      "name": "drednaw",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-11-14T16:08:37.947Z"
+    },
     {
       "id": 384,
       "name": "rayquaza",
@@ -117,18 +129,6 @@
       "totalStats": 280,
       "grade": "N",
       "pulledAt": "2026-11-12T07:40:45.617Z"
-    },
-    {
-      "id": 860,
-      "name": "morgrem",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/860.png",
-      "types": [
-        "dark",
-        "fairy"
-      ],
-      "totalStats": 370,
-      "grade": "N",
-      "pulledAt": "2026-11-12T00:34:43.046Z"
     }
   ],
   "pokemon": {
@@ -3530,6 +3530,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T19:30:02.850Z",
       "lastPulledAt": "2026-10-07T19:30:02.850Z"
+    },
+    "834": {
+      "id": 834,
+      "name": "drednaw",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-11-14T16:08:37.947Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-14T16:08:37.947Z",
+      "lastPulledAt": "2026-11-14T16:08:37.947Z"
     },
     "835": {
       "id": 835,
