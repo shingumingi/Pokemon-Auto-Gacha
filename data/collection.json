@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 317,
-  "updatedAt": "2026-11-13T22:51:51.838Z",
+  "totalPulls": 318,
+  "updatedAt": "2026-11-14T02:52:10.615Z",
   "lastPull": {
-    "id": 563,
-    "name": "cofagrigus",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png",
+    "id": 706,
+    "name": "goodra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
     "types": [
-      "ghost"
+      "dragon"
     ],
-    "totalStats": 483,
-    "grade": "R",
-    "pulledAt": "2026-11-13T22:51:51.838Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-11-14T02:52:10.615Z"
   },
   "pulls": [
+    {
+      "id": 706,
+      "name": "goodra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-14T02:52:10.615Z"
+    },
     {
       "id": 563,
       "name": "cofagrigus",
@@ -117,17 +128,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-11-11T18:07:16.470Z"
-    },
-    {
-      "id": 99,
-      "name": "kingler",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-11-11T10:47:11.738Z"
     }
   ],
   "pokemon": {
@@ -2918,6 +2918,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T00:25:13.005Z",
       "lastPulledAt": "2026-10-18T00:25:13.005Z"
+    },
+    "706": {
+      "id": 706,
+      "name": "goodra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-14T02:52:10.615Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-14T02:52:10.615Z",
+      "lastPulledAt": "2026-11-14T02:52:10.615Z"
     },
     "708": {
       "id": 708,
