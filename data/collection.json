@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 323,
-  "updatedAt": "2026-11-15T06:54:57.788Z",
+  "totalPulls": 324,
+  "updatedAt": "2026-11-15T14:27:49.615Z",
   "lastPull": {
-    "id": 191,
-    "name": "sunkern",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
+    "id": 939,
+    "name": "bellibolt",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
     "types": [
-      "grass"
+      "electric"
     ],
-    "totalStats": 180,
-    "grade": "N",
-    "pulledAt": "2026-11-15T06:54:57.788Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-11-15T14:27:49.615Z"
   },
   "pulls": [
+    {
+      "id": 939,
+      "name": "bellibolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-11-15T14:27:49.615Z"
+    },
     {
       "id": 191,
       "name": "sunkern",
@@ -116,18 +127,6 @@
       "totalStats": 440,
       "grade": "R",
       "pulledAt": "2026-11-13T10:03:11.689Z"
-    },
-    {
-      "id": 92,
-      "name": "gastly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
-      "types": [
-        "ghost",
-        "poison"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-11-13T02:40:30.862Z"
     }
   ],
   "pokemon": {
@@ -4073,10 +4072,10 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-21T06:38:55.457Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-21T06:38:55.457Z",
-      "lastPulledAt": "2026-10-21T06:38:55.457Z"
+      "lastPulledAt": "2026-11-15T14:27:49.615Z"
     },
     "941": {
       "id": 941,
