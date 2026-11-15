@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 324,
-  "updatedAt": "2026-11-15T14:27:49.615Z",
+  "totalPulls": 325,
+  "updatedAt": "2026-11-15T19:54:05.614Z",
   "lastPull": {
-    "id": 939,
-    "name": "bellibolt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
+    "id": 773,
+    "name": "silvally",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png",
     "types": [
-      "electric"
+      "normal"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-11-15T14:27:49.615Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-11-15T19:54:05.614Z"
   },
   "pulls": [
+    {
+      "id": 773,
+      "name": "silvally",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-15T19:54:05.614Z"
+    },
     {
       "id": 939,
       "name": "bellibolt",
@@ -115,18 +126,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-11-13T17:39:18.692Z"
-    },
-    {
-      "id": 279,
-      "name": "pelipper",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png",
-      "types": [
-        "water",
-        "flying"
-      ],
-      "totalStats": 440,
-      "grade": "R",
-      "pulledAt": "2026-11-13T10:03:11.689Z"
     }
   ],
   "pokemon": {
@@ -3358,6 +3357,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-20T12:16:34.072Z",
       "lastPulledAt": "2026-10-20T12:16:34.072Z"
+    },
+    "773": {
+      "id": 773,
+      "name": "silvally",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-15T19:54:05.614Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T19:54:05.614Z",
+      "lastPulledAt": "2026-11-15T19:54:05.614Z"
     },
     "782": {
       "id": 782,
