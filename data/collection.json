@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 321,
-  "updatedAt": "2026-11-14T20:40:29.252Z",
+  "totalPulls": 322,
+  "updatedAt": "2026-11-15T00:22:19.846Z",
   "lastPull": {
-    "id": 999,
-    "name": "gimmighoul",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/999.png",
+    "id": 1014,
+    "name": "okidogi",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
     "types": [
-      "ghost"
+      "poison",
+      "fighting"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-11-14T20:40:29.252Z"
+    "totalStats": 555,
+    "grade": "SR",
+    "pulledAt": "2026-11-15T00:22:19.846Z"
   },
   "pulls": [
+    {
+      "id": 1014,
+      "name": "okidogi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
+      "types": [
+        "poison",
+        "fighting"
+      ],
+      "totalStats": 555,
+      "grade": "SR",
+      "pulledAt": "2026-11-15T00:22:19.846Z"
+    },
     {
       "id": 999,
       "name": "gimmighoul",
@@ -117,17 +130,6 @@
       "totalStats": 395,
       "grade": "N",
       "pulledAt": "2026-11-12T22:18:04.899Z"
-    },
-    {
-      "id": 289,
-      "name": "slaking",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/289.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 670,
-      "grade": "SSR",
-      "pulledAt": "2026-11-12T16:18:54.494Z"
     }
   ],
   "pokemon": {
@@ -4378,6 +4380,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-01T00:40:38.257Z",
       "lastPulledAt": "2026-11-01T00:40:38.257Z"
+    },
+    "1014": {
+      "id": 1014,
+      "name": "okidogi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
+      "types": [
+        "poison",
+        "fighting"
+      ],
+      "totalStats": 555,
+      "grade": "SR",
+      "pulledAt": "2026-11-15T00:22:19.846Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T00:22:19.846Z",
+      "lastPulledAt": "2026-11-15T00:22:19.846Z"
     },
     "1016": {
       "id": 1016,
