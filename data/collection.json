@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 325,
-  "updatedAt": "2026-11-15T19:54:05.614Z",
+  "totalPulls": 326,
+  "updatedAt": "2026-11-15T23:41:03.869Z",
   "lastPull": {
-    "id": 773,
-    "name": "silvally",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png",
+    "id": 749,
+    "name": "mudbray",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/749.png",
     "types": [
-      "normal"
+      "ground"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-11-15T19:54:05.614Z"
+    "totalStats": 385,
+    "grade": "N",
+    "pulledAt": "2026-11-15T23:41:03.869Z"
   },
   "pulls": [
+    {
+      "id": 749,
+      "name": "mudbray",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/749.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 385,
+      "grade": "N",
+      "pulledAt": "2026-11-15T23:41:03.869Z"
+    },
     {
       "id": 773,
       "name": "silvally",
@@ -115,17 +126,6 @@
       "totalStats": 483,
       "grade": "R",
       "pulledAt": "2026-11-13T22:51:51.838Z"
-    },
-    {
-      "id": 255,
-      "name": "torchic",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-11-13T17:39:18.692Z"
     }
   ],
   "pokemon": {
@@ -3246,6 +3246,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-06T02:48:23.376Z",
       "lastPulledAt": "2026-11-06T02:48:23.376Z"
+    },
+    "749": {
+      "id": 749,
+      "name": "mudbray",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/749.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 385,
+      "grade": "N",
+      "pulledAt": "2026-11-15T23:41:03.869Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T23:41:03.869Z",
+      "lastPulledAt": "2026-11-15T23:41:03.869Z"
     },
     "751": {
       "id": 751,
