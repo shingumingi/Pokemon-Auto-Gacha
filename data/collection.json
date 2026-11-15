@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 322,
-  "updatedAt": "2026-11-15T00:22:19.846Z",
+  "totalPulls": 323,
+  "updatedAt": "2026-11-15T06:54:57.788Z",
   "lastPull": {
-    "id": 1014,
-    "name": "okidogi",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
+    "id": 191,
+    "name": "sunkern",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
     "types": [
-      "poison",
-      "fighting"
+      "grass"
     ],
-    "totalStats": 555,
-    "grade": "SR",
-    "pulledAt": "2026-11-15T00:22:19.846Z"
+    "totalStats": 180,
+    "grade": "N",
+    "pulledAt": "2026-11-15T06:54:57.788Z"
   },
   "pulls": [
+    {
+      "id": 191,
+      "name": "sunkern",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 180,
+      "grade": "N",
+      "pulledAt": "2026-11-15T06:54:57.788Z"
+    },
     {
       "id": 1014,
       "name": "okidogi",
@@ -118,18 +128,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-11-13T02:40:30.862Z"
-    },
-    {
-      "id": 15,
-      "name": "beedrill",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 395,
-      "grade": "N",
-      "pulledAt": "2026-11-12T22:18:04.899Z"
     }
   ],
   "pokemon": {
@@ -933,10 +931,10 @@
       "totalStats": 180,
       "grade": "N",
       "pulledAt": "2026-09-16T01:39:41.023Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:39:41.023Z",
-      "lastPulledAt": "2026-10-04T12:30:08.553Z"
+      "lastPulledAt": "2026-11-15T06:54:57.788Z"
     },
     "200": {
       "id": 200,
