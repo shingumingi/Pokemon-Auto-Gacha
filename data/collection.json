@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 327,
-  "updatedAt": "2026-11-16T03:13:12.326Z",
+  "totalPulls": 328,
+  "updatedAt": "2026-11-16T11:31:33.071Z",
   "lastPull": {
-    "id": 612,
-    "name": "haxorus",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
+    "id": 214,
+    "name": "heracross",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png",
     "types": [
-      "dragon"
+      "bug",
+      "fighting"
     ],
-    "totalStats": 540,
+    "totalStats": 500,
     "grade": "SR",
-    "pulledAt": "2026-11-16T03:13:12.326Z"
+    "pulledAt": "2026-11-16T11:31:33.071Z"
   },
   "pulls": [
+    {
+      "id": 214,
+      "name": "heracross",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-16T11:31:33.071Z"
+    },
     {
       "id": 612,
       "name": "haxorus",
@@ -115,17 +128,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-11-14T09:43:56.064Z"
-    },
-    {
-      "id": 706,
-      "name": "goodra",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-11-14T02:52:10.615Z"
     }
   ],
   "pokemon": {
@@ -1009,6 +1011,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-30T07:44:23.069Z",
       "lastPulledAt": "2026-10-30T07:44:23.069Z"
+    },
+    "214": {
+      "id": 214,
+      "name": "heracross",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-16T11:31:33.071Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-16T11:31:33.071Z",
+      "lastPulledAt": "2026-11-16T11:31:33.071Z"
     },
     "221": {
       "id": 221,
