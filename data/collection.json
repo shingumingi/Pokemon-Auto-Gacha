@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 326,
-  "updatedAt": "2026-11-15T23:41:03.869Z",
+  "totalPulls": 327,
+  "updatedAt": "2026-11-16T03:13:12.326Z",
   "lastPull": {
-    "id": 749,
-    "name": "mudbray",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/749.png",
+    "id": 612,
+    "name": "haxorus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
     "types": [
-      "ground"
+      "dragon"
     ],
-    "totalStats": 385,
-    "grade": "N",
-    "pulledAt": "2026-11-15T23:41:03.869Z"
+    "totalStats": 540,
+    "grade": "SR",
+    "pulledAt": "2026-11-16T03:13:12.326Z"
   },
   "pulls": [
+    {
+      "id": 612,
+      "name": "haxorus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-11-16T03:13:12.326Z"
+    },
     {
       "id": 749,
       "name": "mudbray",
@@ -115,17 +126,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-11-14T02:52:10.615Z"
-    },
-    {
-      "id": 563,
-      "name": "cofagrigus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 483,
-      "grade": "R",
-      "pulledAt": "2026-11-13T22:51:51.838Z"
     }
   ],
   "pokemon": {
@@ -2511,6 +2511,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T10:24:19.265Z",
       "lastPulledAt": "2026-10-24T00:00:03.195Z"
+    },
+    "612": {
+      "id": 612,
+      "name": "haxorus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-11-16T03:13:12.326Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-16T03:13:12.326Z",
+      "lastPulledAt": "2026-11-16T03:13:12.326Z"
     },
     "614": {
       "id": 614,
