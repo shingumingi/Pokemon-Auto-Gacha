@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 328,
-  "updatedAt": "2026-11-16T11:31:33.071Z",
+  "totalPulls": 329,
+  "updatedAt": "2026-11-16T21:12:40.881Z",
   "lastPull": {
-    "id": 214,
-    "name": "heracross",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png",
+    "id": 785,
+    "name": "tapu-koko",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
     "types": [
-      "bug",
-      "fighting"
+      "electric",
+      "fairy"
     ],
-    "totalStats": 500,
+    "totalStats": 570,
     "grade": "SR",
-    "pulledAt": "2026-11-16T11:31:33.071Z"
+    "pulledAt": "2026-11-16T21:12:40.881Z"
   },
   "pulls": [
+    {
+      "id": 785,
+      "name": "tapu-koko",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
+      "types": [
+        "electric",
+        "fairy"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-16T21:12:40.881Z"
+    },
     {
       "id": 214,
       "name": "heracross",
@@ -116,18 +128,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-11-14T16:08:37.947Z"
-    },
-    {
-      "id": 384,
-      "name": "rayquaza",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png",
-      "types": [
-        "dragon",
-        "flying"
-      ],
-      "totalStats": 680,
-      "grade": "SSR",
-      "pulledAt": "2026-11-14T09:43:56.064Z"
     }
   ],
   "pokemon": {
@@ -3435,6 +3435,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-21T17:29:43.493Z",
       "lastPulledAt": "2026-10-21T17:29:43.493Z"
+    },
+    "785": {
+      "id": 785,
+      "name": "tapu-koko",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
+      "types": [
+        "electric",
+        "fairy"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-16T21:12:40.881Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-16T21:12:40.881Z",
+      "lastPulledAt": "2026-11-16T21:12:40.881Z"
     },
     "786": {
       "id": 786,
