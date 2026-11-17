@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 330,
-  "updatedAt": "2026-11-17T03:56:22.806Z",
+  "totalPulls": 331,
+  "updatedAt": "2026-11-17T12:45:20.653Z",
   "lastPull": {
-    "id": 844,
-    "name": "sandaconda",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
+    "id": 567,
+    "name": "archeops",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/567.png",
     "types": [
-      "ground"
+      "rock",
+      "flying"
     ],
-    "totalStats": 510,
+    "totalStats": 567,
     "grade": "SR",
-    "pulledAt": "2026-11-17T03:56:22.806Z"
+    "pulledAt": "2026-11-17T12:45:20.653Z"
   },
   "pulls": [
+    {
+      "id": 567,
+      "name": "archeops",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/567.png",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "totalStats": 567,
+      "grade": "SR",
+      "pulledAt": "2026-11-17T12:45:20.653Z"
+    },
     {
       "id": 844,
       "name": "sandaconda",
@@ -115,17 +128,6 @@
       "totalStats": 555,
       "grade": "SR",
       "pulledAt": "2026-11-15T00:22:19.846Z"
-    },
-    {
-      "id": 999,
-      "name": "gimmighoul",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/999.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-11-14T20:40:29.252Z"
     }
   ],
   "pokemon": {
@@ -2343,6 +2345,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-24T23:31:09.621Z",
       "lastPulledAt": "2026-11-13T22:51:51.838Z"
+    },
+    "567": {
+      "id": 567,
+      "name": "archeops",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/567.png",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "totalStats": 567,
+      "grade": "SR",
+      "pulledAt": "2026-11-17T12:45:20.653Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-17T12:45:20.653Z",
+      "lastPulledAt": "2026-11-17T12:45:20.653Z"
     },
     "568": {
       "id": 568,
