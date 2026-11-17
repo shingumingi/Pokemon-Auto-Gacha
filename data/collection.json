@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 331,
-  "updatedAt": "2026-11-17T12:45:20.653Z",
+  "totalPulls": 332,
+  "updatedAt": "2026-11-17T21:22:45.497Z",
   "lastPull": {
-    "id": 567,
-    "name": "archeops",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/567.png",
+    "id": 487,
+    "name": "giratina-altered",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png",
     "types": [
-      "rock",
-      "flying"
+      "ghost",
+      "dragon"
     ],
-    "totalStats": 567,
-    "grade": "SR",
-    "pulledAt": "2026-11-17T12:45:20.653Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-11-17T21:22:45.497Z"
   },
   "pulls": [
+    {
+      "id": 487,
+      "name": "giratina-altered",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png",
+      "types": [
+        "ghost",
+        "dragon"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-11-17T21:22:45.497Z"
+    },
     {
       "id": 567,
       "name": "archeops",
@@ -116,18 +128,6 @@
       "totalStats": 180,
       "grade": "N",
       "pulledAt": "2026-11-15T06:54:57.788Z"
-    },
-    {
-      "id": 1014,
-      "name": "okidogi",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
-      "types": [
-        "poison",
-        "fighting"
-      ],
-      "totalStats": 555,
-      "grade": "SR",
-      "pulledAt": "2026-11-15T00:22:19.846Z"
     }
   ],
   "pokemon": {
@@ -2064,10 +2064,10 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-10-16T19:51:18.889Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-16T19:51:18.889Z",
-      "lastPulledAt": "2026-10-16T19:51:18.889Z"
+      "lastPulledAt": "2026-11-17T21:22:45.497Z"
     },
     "491": {
       "id": 491,
