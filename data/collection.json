@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 329,
-  "updatedAt": "2026-11-16T21:12:40.881Z",
+  "totalPulls": 330,
+  "updatedAt": "2026-11-17T03:56:22.806Z",
   "lastPull": {
-    "id": 785,
-    "name": "tapu-koko",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
+    "id": 844,
+    "name": "sandaconda",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
     "types": [
-      "electric",
-      "fairy"
+      "ground"
     ],
-    "totalStats": 570,
+    "totalStats": 510,
     "grade": "SR",
-    "pulledAt": "2026-11-16T21:12:40.881Z"
+    "pulledAt": "2026-11-17T03:56:22.806Z"
   },
   "pulls": [
+    {
+      "id": 844,
+      "name": "sandaconda",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-11-17T03:56:22.806Z"
+    },
     {
       "id": 785,
       "name": "tapu-koko",
@@ -116,18 +126,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-11-14T20:40:29.252Z"
-    },
-    {
-      "id": 834,
-      "name": "drednaw",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png",
-      "types": [
-        "water",
-        "rock"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-11-14T16:08:37.947Z"
     }
   ],
   "pokemon": {
@@ -3653,6 +3651,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-09T09:11:57.879Z",
       "lastPulledAt": "2026-10-09T20:59:01.926Z"
+    },
+    "844": {
+      "id": 844,
+      "name": "sandaconda",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-11-17T03:56:22.806Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-17T03:56:22.806Z",
+      "lastPulledAt": "2026-11-17T03:56:22.806Z"
     },
     "847": {
       "id": 847,
