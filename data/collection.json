@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 334,
-  "updatedAt": "2026-11-18T11:26:18.352Z",
+  "totalPulls": 335,
+  "updatedAt": "2026-11-18T19:28:47.116Z",
   "lastPull": {
-    "id": 696,
-    "name": "tyrunt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/696.png",
+    "id": 131,
+    "name": "lapras",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
     "types": [
-      "rock",
-      "dragon"
+      "water",
+      "ice"
     ],
-    "totalStats": 362,
-    "grade": "N",
-    "pulledAt": "2026-11-18T11:26:18.352Z"
+    "totalStats": 535,
+    "grade": "SR",
+    "pulledAt": "2026-11-18T19:28:47.116Z"
   },
   "pulls": [
+    {
+      "id": 131,
+      "name": "lapras",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-11-18T19:28:47.116Z"
+    },
     {
       "id": 696,
       "name": "tyrunt",
@@ -118,17 +130,6 @@
       "totalStats": 385,
       "grade": "N",
       "pulledAt": "2026-11-15T23:41:03.869Z"
-    },
-    {
-      "id": 773,
-      "name": "silvally",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-11-15T19:54:05.614Z"
     }
   ],
   "pokemon": {
@@ -688,6 +689,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T19:12:19.855Z",
       "lastPulledAt": "2026-09-23T19:12:19.855Z"
+    },
+    "131": {
+      "id": 131,
+      "name": "lapras",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-11-18T19:28:47.116Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-18T19:28:47.116Z",
+      "lastPulledAt": "2026-11-18T19:28:47.116Z"
     },
     "137": {
       "id": 137,
