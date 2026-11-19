@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 336,
-  "updatedAt": "2026-11-19T01:22:11.480Z",
+  "totalPulls": 337,
+  "updatedAt": "2026-11-19T09:02:00.584Z",
   "lastPull": {
-    "id": 642,
-    "name": "thundurus-incarnate",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/642.png",
+    "id": 1025,
+    "name": "pecharunt",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1025.png",
     "types": [
-      "electric",
-      "flying"
+      "poison",
+      "ghost"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-11-19T01:22:11.480Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-11-19T09:02:00.584Z"
   },
   "pulls": [
+    {
+      "id": 1025,
+      "name": "pecharunt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1025.png",
+      "types": [
+        "poison",
+        "ghost"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-19T09:02:00.584Z"
+    },
     {
       "id": 642,
       "name": "thundurus-incarnate",
@@ -120,17 +132,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-11-16T11:31:33.071Z"
-    },
-    {
-      "id": 612,
-      "name": "haxorus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-11-16T03:13:12.326Z"
     }
   ],
   "pokemon": {
@@ -4628,10 +4629,10 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-24T10:12:11.322Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T10:12:11.322Z",
-      "lastPulledAt": "2026-10-08T22:17:16.015Z"
+      "lastPulledAt": "2026-11-19T09:02:00.584Z"
     }
   },
   "typeTotals": {
