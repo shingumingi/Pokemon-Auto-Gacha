@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 339,
-  "updatedAt": "2026-11-20T00:39:37.173Z",
+  "totalPulls": 340,
+  "updatedAt": "2026-11-20T07:44:35.096Z",
   "lastPull": {
-    "id": 509,
-    "name": "purrloin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/509.png",
+    "id": 719,
+    "name": "diancie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/719.png",
     "types": [
-      "dark"
+      "rock",
+      "fairy"
     ],
-    "totalStats": 281,
-    "grade": "N",
-    "pulledAt": "2026-11-20T00:39:37.173Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-11-20T07:44:35.096Z"
   },
   "pulls": [
+    {
+      "id": 719,
+      "name": "diancie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/719.png",
+      "types": [
+        "rock",
+        "fairy"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-20T07:44:35.096Z"
+    },
     {
       "id": 509,
       "name": "purrloin",
@@ -118,17 +131,6 @@
       "totalStats": 567,
       "grade": "SR",
       "pulledAt": "2026-11-17T12:45:20.653Z"
-    },
-    {
-      "id": 844,
-      "name": "sandaconda",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-11-17T03:56:22.806Z"
     }
   ],
   "pokemon": {
@@ -3156,6 +3158,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-25T01:33:54.434Z",
       "lastPulledAt": "2026-10-31T02:26:46.928Z"
+    },
+    "719": {
+      "id": 719,
+      "name": "diancie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/719.png",
+      "types": [
+        "rock",
+        "fairy"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-20T07:44:35.096Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-20T07:44:35.096Z",
+      "lastPulledAt": "2026-11-20T07:44:35.096Z"
     },
     "721": {
       "id": 721,
