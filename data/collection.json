@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 341,
-  "updatedAt": "2026-11-20T16:24:20.320Z",
+  "totalPulls": 342,
+  "updatedAt": "2026-11-20T22:43:58.444Z",
   "lastPull": {
-    "id": 923,
-    "name": "pawmot",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
+    "id": 19,
+    "name": "rattata",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png",
     "types": [
-      "electric",
-      "fighting"
+      "normal"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-11-20T16:24:20.320Z"
+    "totalStats": 253,
+    "grade": "N",
+    "pulledAt": "2026-11-20T22:43:58.444Z"
   },
   "pulls": [
+    {
+      "id": 19,
+      "name": "rattata",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 253,
+      "grade": "N",
+      "pulledAt": "2026-11-20T22:43:58.444Z"
+    },
     {
       "id": 923,
       "name": "pawmot",
@@ -119,18 +129,6 @@
       "totalStats": 285,
       "grade": "N",
       "pulledAt": "2026-11-18T02:59:55.606Z"
-    },
-    {
-      "id": 487,
-      "name": "giratina-altered",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png",
-      "types": [
-        "ghost",
-        "dragon"
-      ],
-      "totalStats": 680,
-      "grade": "SSR",
-      "pulledAt": "2026-11-17T21:22:45.497Z"
     }
   ],
   "pokemon": {
@@ -221,10 +219,10 @@
       "totalStats": 253,
       "grade": "N",
       "pulledAt": "2026-10-28T20:13:13.816Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-28T20:13:13.816Z",
-      "lastPulledAt": "2026-10-28T20:13:13.816Z"
+      "lastPulledAt": "2026-11-20T22:43:58.444Z"
     },
     "36": {
       "id": 36,
