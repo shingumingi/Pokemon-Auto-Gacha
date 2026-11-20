@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 338,
-  "updatedAt": "2026-11-19T18:10:48.060Z",
+  "totalPulls": 339,
+  "updatedAt": "2026-11-20T00:39:37.173Z",
   "lastPull": {
-    "id": 1017,
-    "name": "ogerpon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
+    "id": 509,
+    "name": "purrloin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/509.png",
     "types": [
-      "grass"
+      "dark"
     ],
-    "totalStats": 550,
-    "grade": "SR",
-    "pulledAt": "2026-11-19T18:10:48.060Z"
+    "totalStats": 281,
+    "grade": "N",
+    "pulledAt": "2026-11-20T00:39:37.173Z"
   },
   "pulls": [
+    {
+      "id": 509,
+      "name": "purrloin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/509.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 281,
+      "grade": "N",
+      "pulledAt": "2026-11-20T00:39:37.173Z"
+    },
     {
       "id": 1017,
       "name": "ogerpon",
@@ -118,18 +129,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-11-17T03:56:22.806Z"
-    },
-    {
-      "id": 785,
-      "name": "tapu-koko",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
-      "types": [
-        "electric",
-        "fairy"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-11-16T21:12:40.881Z"
     }
   ],
   "pokemon": {
@@ -2172,10 +2171,10 @@
       "totalStats": 281,
       "grade": "N",
       "pulledAt": "2026-11-04T01:32:17.851Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-04T01:32:17.851Z",
-      "lastPulledAt": "2026-11-04T01:32:17.851Z"
+      "lastPulledAt": "2026-11-20T00:39:37.173Z"
     },
     "519": {
       "id": 519,
