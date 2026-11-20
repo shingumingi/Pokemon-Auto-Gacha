@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 340,
-  "updatedAt": "2026-11-20T07:44:35.096Z",
+  "totalPulls": 341,
+  "updatedAt": "2026-11-20T16:24:20.320Z",
   "lastPull": {
-    "id": 719,
-    "name": "diancie",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/719.png",
+    "id": 923,
+    "name": "pawmot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
     "types": [
-      "rock",
-      "fairy"
+      "electric",
+      "fighting"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-11-20T07:44:35.096Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-11-20T16:24:20.320Z"
   },
   "pulls": [
+    {
+      "id": 923,
+      "name": "pawmot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
+      "types": [
+        "electric",
+        "fighting"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-20T16:24:20.320Z"
+    },
     {
       "id": 719,
       "name": "diancie",
@@ -119,18 +131,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-11-17T21:22:45.497Z"
-    },
-    {
-      "id": 567,
-      "name": "archeops",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/567.png",
-      "types": [
-        "rock",
-        "flying"
-      ],
-      "totalStats": 567,
-      "grade": "SR",
-      "pulledAt": "2026-11-17T12:45:20.653Z"
     }
   ],
   "pokemon": {
@@ -4160,6 +4160,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T08:13:10.100Z",
       "lastPulledAt": "2026-11-10T18:48:55.090Z"
+    },
+    "923": {
+      "id": 923,
+      "name": "pawmot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
+      "types": [
+        "electric",
+        "fighting"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-20T16:24:20.320Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-20T16:24:20.320Z",
+      "lastPulledAt": "2026-11-20T16:24:20.320Z"
     },
     "924": {
       "id": 924,
