@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 342,
-  "updatedAt": "2026-11-20T22:43:58.444Z",
+  "totalPulls": 343,
+  "updatedAt": "2026-11-21T03:30:53.083Z",
   "lastPull": {
-    "id": 19,
-    "name": "rattata",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png",
+    "id": 395,
+    "name": "empoleon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
     "types": [
-      "normal"
+      "water",
+      "steel"
     ],
-    "totalStats": 253,
-    "grade": "N",
-    "pulledAt": "2026-11-20T22:43:58.444Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-11-21T03:30:53.083Z"
   },
   "pulls": [
+    {
+      "id": 395,
+      "name": "empoleon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
+      "types": [
+        "water",
+        "steel"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-21T03:30:53.083Z"
+    },
     {
       "id": 19,
       "name": "rattata",
@@ -118,17 +131,6 @@
       "totalStats": 362,
       "grade": "N",
       "pulledAt": "2026-11-18T11:26:18.352Z"
-    },
-    {
-      "id": 447,
-      "name": "riolu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 285,
-      "grade": "N",
-      "pulledAt": "2026-11-18T02:59:55.606Z"
     }
   ],
   "pokemon": {
@@ -1706,10 +1708,10 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-10-11T02:16:20.225Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T02:16:20.225Z",
-      "lastPulledAt": "2026-11-08T15:29:22.977Z"
+      "lastPulledAt": "2026-11-21T03:30:53.083Z"
     },
     "399": {
       "id": 399,
