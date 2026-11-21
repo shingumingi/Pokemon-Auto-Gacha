@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 343,
-  "updatedAt": "2026-11-21T03:30:53.083Z",
+  "totalPulls": 344,
+  "updatedAt": "2026-11-21T11:42:28.212Z",
   "lastPull": {
-    "id": 395,
-    "name": "empoleon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
+    "id": 483,
+    "name": "dialga",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png",
     "types": [
-      "water",
-      "steel"
+      "steel",
+      "dragon"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-11-21T03:30:53.083Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-11-21T11:42:28.212Z"
   },
   "pulls": [
+    {
+      "id": 483,
+      "name": "dialga",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png",
+      "types": [
+        "steel",
+        "dragon"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-11-21T11:42:28.212Z"
+    },
     {
       "id": 395,
       "name": "empoleon",
@@ -119,18 +131,6 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-11-18T19:28:47.116Z"
-    },
-    {
-      "id": 696,
-      "name": "tyrunt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/696.png",
-      "types": [
-        "rock",
-        "dragon"
-      ],
-      "totalStats": 362,
-      "grade": "N",
-      "pulledAt": "2026-11-18T11:26:18.352Z"
     }
   ],
   "pokemon": {
@@ -2071,6 +2071,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T08:24:39.590Z",
       "lastPulledAt": "2026-09-30T08:24:39.590Z"
+    },
+    "483": {
+      "id": 483,
+      "name": "dialga",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png",
+      "types": [
+        "steel",
+        "dragon"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-11-21T11:42:28.212Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T11:42:28.212Z",
+      "lastPulledAt": "2026-11-21T11:42:28.212Z"
     },
     "486": {
       "id": 486,
