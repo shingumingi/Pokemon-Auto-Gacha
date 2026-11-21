@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 345,
-  "updatedAt": "2026-11-21T18:14:50.166Z",
+  "totalPulls": 346,
+  "updatedAt": "2026-11-21T23:23:37.370Z",
   "lastPull": {
-    "id": 807,
-    "name": "zeraora",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/807.png",
+    "id": 195,
+    "name": "quagsire",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png",
     "types": [
-      "electric"
+      "water",
+      "ground"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-11-21T18:14:50.166Z"
+    "totalStats": 430,
+    "grade": "R",
+    "pulledAt": "2026-11-21T23:23:37.370Z"
   },
   "pulls": [
+    {
+      "id": 195,
+      "name": "quagsire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-11-21T23:23:37.370Z"
+    },
     {
       "id": 807,
       "name": "zeraora",
@@ -117,18 +130,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-11-19T09:02:00.584Z"
-    },
-    {
-      "id": 642,
-      "name": "thundurus-incarnate",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/642.png",
-      "types": [
-        "electric",
-        "flying"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-11-19T01:22:11.480Z"
     }
   ],
   "pokemon": {
@@ -952,6 +953,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:39:41.023Z",
       "lastPulledAt": "2026-11-15T06:54:57.788Z"
+    },
+    "195": {
+      "id": 195,
+      "name": "quagsire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-11-21T23:23:37.370Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T23:23:37.370Z",
+      "lastPulledAt": "2026-11-21T23:23:37.370Z"
     },
     "200": {
       "id": 200,
