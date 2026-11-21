@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 344,
-  "updatedAt": "2026-11-21T11:42:28.212Z",
+  "totalPulls": 345,
+  "updatedAt": "2026-11-21T18:14:50.166Z",
   "lastPull": {
-    "id": 483,
-    "name": "dialga",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png",
+    "id": 807,
+    "name": "zeraora",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/807.png",
     "types": [
-      "steel",
-      "dragon"
+      "electric"
     ],
-    "totalStats": 680,
+    "totalStats": 600,
     "grade": "SSR",
-    "pulledAt": "2026-11-21T11:42:28.212Z"
+    "pulledAt": "2026-11-21T18:14:50.166Z"
   },
   "pulls": [
+    {
+      "id": 807,
+      "name": "zeraora",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/807.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-21T18:14:50.166Z"
+    },
     {
       "id": 483,
       "name": "dialga",
@@ -119,18 +129,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-11-19T01:22:11.480Z"
-    },
-    {
-      "id": 131,
-      "name": "lapras",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
-      "types": [
-        "water",
-        "ice"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-11-18T19:28:47.116Z"
     }
   ],
   "pokemon": {
@@ -3645,6 +3643,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T14:21:06.062Z",
       "lastPulledAt": "2026-09-19T14:21:06.062Z"
+    },
+    "807": {
+      "id": 807,
+      "name": "zeraora",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/807.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-21T18:14:50.166Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T18:14:50.166Z",
+      "lastPulledAt": "2026-11-21T18:14:50.166Z"
     },
     "808": {
       "id": 808,
