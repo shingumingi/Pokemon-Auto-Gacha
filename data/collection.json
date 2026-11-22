@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 348,
-  "updatedAt": "2026-11-22T11:41:03.345Z",
+  "totalPulls": 349,
+  "updatedAt": "2026-11-22T18:39:31.416Z",
   "lastPull": {
-    "id": 854,
-    "name": "sinistea",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png",
+    "id": 785,
+    "name": "tapu-koko",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
     "types": [
-      "ghost"
+      "electric",
+      "fairy"
     ],
-    "totalStats": 308,
-    "grade": "N",
-    "pulledAt": "2026-11-22T11:41:03.345Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-11-22T18:39:31.416Z"
   },
   "pulls": [
+    {
+      "id": 785,
+      "name": "tapu-koko",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
+      "types": [
+        "electric",
+        "fairy"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-22T18:39:31.416Z"
+    },
     {
       "id": 854,
       "name": "sinistea",
@@ -117,17 +130,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-11-20T07:44:35.096Z"
-    },
-    {
-      "id": 509,
-      "name": "purrloin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/509.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 281,
-      "grade": "N",
-      "pulledAt": "2026-11-20T00:39:37.173Z"
     }
   ],
   "pokemon": {
@@ -3589,10 +3591,10 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-11-16T21:12:40.881Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-16T21:12:40.881Z",
-      "lastPulledAt": "2026-11-16T21:12:40.881Z"
+      "lastPulledAt": "2026-11-22T18:39:31.416Z"
     },
     "786": {
       "id": 786,
