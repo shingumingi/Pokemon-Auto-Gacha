@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 349,
-  "updatedAt": "2026-11-22T18:39:31.416Z",
+  "totalPulls": 350,
+  "updatedAt": "2026-11-22T23:49:53.409Z",
   "lastPull": {
-    "id": 785,
-    "name": "tapu-koko",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
+    "id": 524,
+    "name": "roggenrola",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/524.png",
     "types": [
-      "electric",
-      "fairy"
+      "rock"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-11-22T18:39:31.416Z"
+    "totalStats": 280,
+    "grade": "N",
+    "pulledAt": "2026-11-22T23:49:53.409Z"
   },
   "pulls": [
+    {
+      "id": 524,
+      "name": "roggenrola",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/524.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-11-22T23:49:53.409Z"
+    },
     {
       "id": 785,
       "name": "tapu-koko",
@@ -118,18 +128,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-11-20T16:24:20.320Z"
-    },
-    {
-      "id": 719,
-      "name": "diancie",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/719.png",
-      "types": [
-        "rock",
-        "fairy"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-11-20T07:44:35.096Z"
     }
   ],
   "pokemon": {
@@ -2240,6 +2238,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T21:38:47.390Z",
       "lastPulledAt": "2026-10-15T21:38:47.390Z"
+    },
+    "524": {
+      "id": 524,
+      "name": "roggenrola",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/524.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-11-22T23:49:53.409Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-22T23:49:53.409Z",
+      "lastPulledAt": "2026-11-22T23:49:53.409Z"
     },
     "529": {
       "id": 529,
