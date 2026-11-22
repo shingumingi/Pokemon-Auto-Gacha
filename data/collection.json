@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 346,
-  "updatedAt": "2026-11-21T23:23:37.370Z",
+  "totalPulls": 347,
+  "updatedAt": "2026-11-22T03:19:52.724Z",
   "lastPull": {
-    "id": 195,
-    "name": "quagsire",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png",
+    "id": 775,
+    "name": "komala",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png",
     "types": [
-      "water",
-      "ground"
+      "normal"
     ],
-    "totalStats": 430,
+    "totalStats": 480,
     "grade": "R",
-    "pulledAt": "2026-11-21T23:23:37.370Z"
+    "pulledAt": "2026-11-22T03:19:52.724Z"
   },
   "pulls": [
+    {
+      "id": 775,
+      "name": "komala",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-11-22T03:19:52.724Z"
+    },
     {
       "id": 195,
       "name": "quagsire",
@@ -118,18 +128,6 @@
       "totalStats": 550,
       "grade": "SR",
       "pulledAt": "2026-11-19T18:10:48.060Z"
-    },
-    {
-      "id": 1025,
-      "name": "pecharunt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1025.png",
-      "types": [
-        "poison",
-        "ghost"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-11-19T09:02:00.584Z"
     }
   ],
   "pokemon": {
@@ -3549,6 +3547,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-15T19:54:05.614Z",
       "lastPulledAt": "2026-11-15T19:54:05.614Z"
+    },
+    "775": {
+      "id": 775,
+      "name": "komala",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-11-22T03:19:52.724Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-22T03:19:52.724Z",
+      "lastPulledAt": "2026-11-22T03:19:52.724Z"
     },
     "782": {
       "id": 782,
