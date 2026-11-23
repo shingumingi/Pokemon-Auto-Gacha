@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 351,
-  "updatedAt": "2026-11-23T04:05:34.278Z",
+  "totalPulls": 352,
+  "updatedAt": "2026-11-23T14:28:06.215Z",
   "lastPull": {
-    "id": 656,
-    "name": "froakie",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
+    "id": 367,
+    "name": "huntail",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png",
     "types": [
       "water"
     ],
-    "totalStats": 314,
-    "grade": "N",
-    "pulledAt": "2026-11-23T04:05:34.278Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-11-23T14:28:06.215Z"
   },
   "pulls": [
+    {
+      "id": 367,
+      "name": "huntail",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-11-23T14:28:06.215Z"
+    },
     {
       "id": 656,
       "name": "froakie",
@@ -116,17 +127,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-11-21T03:30:53.083Z"
-    },
-    {
-      "id": 19,
-      "name": "rattata",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 253,
-      "grade": "N",
-      "pulledAt": "2026-11-20T22:43:58.444Z"
     }
   ],
   "pokemon": {
@@ -1601,6 +1601,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T11:46:14.695Z",
       "lastPulledAt": "2026-09-18T15:12:14.198Z"
+    },
+    "367": {
+      "id": 367,
+      "name": "huntail",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-11-23T14:28:06.215Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-23T14:28:06.215Z",
+      "lastPulledAt": "2026-11-23T14:28:06.215Z"
     },
     "372": {
       "id": 372,
