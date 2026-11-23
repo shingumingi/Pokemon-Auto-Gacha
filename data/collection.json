@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 350,
-  "updatedAt": "2026-11-22T23:49:53.409Z",
+  "totalPulls": 351,
+  "updatedAt": "2026-11-23T04:05:34.278Z",
   "lastPull": {
-    "id": 524,
-    "name": "roggenrola",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/524.png",
+    "id": 656,
+    "name": "froakie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
     "types": [
-      "rock"
+      "water"
     ],
-    "totalStats": 280,
+    "totalStats": 314,
     "grade": "N",
-    "pulledAt": "2026-11-22T23:49:53.409Z"
+    "pulledAt": "2026-11-23T04:05:34.278Z"
   },
   "pulls": [
+    {
+      "id": 656,
+      "name": "froakie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 314,
+      "grade": "N",
+      "pulledAt": "2026-11-23T04:05:34.278Z"
+    },
     {
       "id": 524,
       "name": "roggenrola",
@@ -116,18 +127,6 @@
       "totalStats": 253,
       "grade": "N",
       "pulledAt": "2026-11-20T22:43:58.444Z"
-    },
-    {
-      "id": 923,
-      "name": "pawmot",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
-      "types": [
-        "electric",
-        "fighting"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-11-20T16:24:20.320Z"
     }
   ],
   "pokemon": {
@@ -2872,6 +2871,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-08T08:27:22.354Z",
       "lastPulledAt": "2026-11-08T08:27:22.354Z"
+    },
+    "656": {
+      "id": 656,
+      "name": "froakie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 314,
+      "grade": "N",
+      "pulledAt": "2026-11-23T04:05:34.278Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-23T04:05:34.278Z",
+      "lastPulledAt": "2026-11-23T04:05:34.278Z"
     },
     "662": {
       "id": 662,
