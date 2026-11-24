@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 352,
-  "updatedAt": "2026-11-23T14:28:06.215Z",
+  "totalPulls": 353,
+  "updatedAt": "2026-11-24T01:48:24.302Z",
   "lastPull": {
-    "id": 367,
-    "name": "huntail",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png",
+    "id": 222,
+    "name": "corsola",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/222.png",
     "types": [
-      "water"
+      "water",
+      "rock"
     ],
-    "totalStats": 485,
+    "totalStats": 410,
     "grade": "R",
-    "pulledAt": "2026-11-23T14:28:06.215Z"
+    "pulledAt": "2026-11-24T01:48:24.302Z"
   },
   "pulls": [
+    {
+      "id": 222,
+      "name": "corsola",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/222.png",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-11-24T01:48:24.302Z"
+    },
     {
       "id": 367,
       "name": "huntail",
@@ -115,18 +128,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-11-21T11:42:28.212Z"
-    },
-    {
-      "id": 395,
-      "name": "empoleon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
-      "types": [
-        "water",
-        "steel"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-11-21T03:30:53.083Z"
     }
   ],
   "pokemon": {
@@ -1086,10 +1087,10 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-09-17T10:05:02.966Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T10:05:02.966Z",
-      "lastPulledAt": "2026-10-04T00:33:15.434Z"
+      "lastPulledAt": "2026-11-24T01:48:24.302Z"
     },
     "223": {
       "id": 223,
