@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 354,
-  "updatedAt": "2026-11-24T11:40:03.238Z",
+  "totalPulls": 355,
+  "updatedAt": "2026-11-24T21:31:00.650Z",
   "lastPull": {
-    "id": 996,
-    "name": "frigibax",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png",
+    "id": 1021,
+    "name": "raging-bolt",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png",
     "types": [
-      "dragon",
-      "ice"
+      "electric",
+      "dragon"
     ],
-    "totalStats": 320,
-    "grade": "N",
-    "pulledAt": "2026-11-24T11:40:03.238Z"
+    "totalStats": 590,
+    "grade": "SR",
+    "pulledAt": "2026-11-24T21:31:00.650Z"
   },
   "pulls": [
+    {
+      "id": 1021,
+      "name": "raging-bolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "totalStats": 590,
+      "grade": "SR",
+      "pulledAt": "2026-11-24T21:31:00.650Z"
+    },
     {
       "id": 996,
       "name": "frigibax",
@@ -117,17 +129,6 @@
       "totalStats": 430,
       "grade": "R",
       "pulledAt": "2026-11-21T23:23:37.370Z"
-    },
-    {
-      "id": 807,
-      "name": "zeraora",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/807.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-11-21T18:14:50.166Z"
     }
   ],
   "pokemon": {
@@ -4766,6 +4767,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-25T16:04:46.036Z",
       "lastPulledAt": "2026-10-25T16:04:46.036Z"
+    },
+    "1021": {
+      "id": 1021,
+      "name": "raging-bolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "totalStats": 590,
+      "grade": "SR",
+      "pulledAt": "2026-11-24T21:31:00.650Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-24T21:31:00.650Z",
+      "lastPulledAt": "2026-11-24T21:31:00.650Z"
     },
     "1022": {
       "id": 1022,
