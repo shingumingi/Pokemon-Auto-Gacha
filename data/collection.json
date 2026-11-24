@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 353,
-  "updatedAt": "2026-11-24T01:48:24.302Z",
+  "totalPulls": 354,
+  "updatedAt": "2026-11-24T11:40:03.238Z",
   "lastPull": {
-    "id": 222,
-    "name": "corsola",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/222.png",
+    "id": 996,
+    "name": "frigibax",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png",
     "types": [
-      "water",
-      "rock"
+      "dragon",
+      "ice"
     ],
-    "totalStats": 410,
-    "grade": "R",
-    "pulledAt": "2026-11-24T01:48:24.302Z"
+    "totalStats": 320,
+    "grade": "N",
+    "pulledAt": "2026-11-24T11:40:03.238Z"
   },
   "pulls": [
+    {
+      "id": 996,
+      "name": "frigibax",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-11-24T11:40:03.238Z"
+    },
     {
       "id": 222,
       "name": "corsola",
@@ -116,18 +128,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-11-21T18:14:50.166Z"
-    },
-    {
-      "id": 483,
-      "name": "dialga",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png",
-      "types": [
-        "steel",
-        "dragon"
-      ],
-      "totalStats": 680,
-      "grade": "SSR",
-      "pulledAt": "2026-11-21T11:42:28.212Z"
     }
   ],
   "pokemon": {
@@ -4604,10 +4604,10 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-10-03T11:58:58.489Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T11:58:58.489Z",
-      "lastPulledAt": "2026-10-03T11:58:58.489Z"
+      "lastPulledAt": "2026-11-24T11:40:03.238Z"
     },
     "997": {
       "id": 997,
