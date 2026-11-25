@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 355,
-  "updatedAt": "2026-11-24T21:31:00.650Z",
+  "totalPulls": 356,
+  "updatedAt": "2026-11-25T04:33:12.445Z",
   "lastPull": {
-    "id": 1021,
-    "name": "raging-bolt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png",
+    "id": 441,
+    "name": "chatot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/441.png",
     "types": [
-      "electric",
-      "dragon"
+      "normal",
+      "flying"
     ],
-    "totalStats": 590,
-    "grade": "SR",
-    "pulledAt": "2026-11-24T21:31:00.650Z"
+    "totalStats": 411,
+    "grade": "R",
+    "pulledAt": "2026-11-25T04:33:12.445Z"
   },
   "pulls": [
+    {
+      "id": 441,
+      "name": "chatot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/441.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 411,
+      "grade": "R",
+      "pulledAt": "2026-11-25T04:33:12.445Z"
+    },
     {
       "id": 1021,
       "name": "raging-bolt",
@@ -117,18 +129,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-11-22T03:19:52.724Z"
-    },
-    {
-      "id": 195,
-      "name": "quagsire",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png",
-      "types": [
-        "water",
-        "ground"
-      ],
-      "totalStats": 430,
-      "grade": "R",
-      "pulledAt": "2026-11-21T23:23:37.370Z"
     }
   ],
   "pokemon": {
@@ -1923,10 +1923,10 @@
       "totalStats": 411,
       "grade": "R",
       "pulledAt": "2026-10-16T22:24:30.307Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-16T22:24:30.307Z",
-      "lastPulledAt": "2026-10-16T22:24:30.307Z"
+      "lastPulledAt": "2026-11-25T04:33:12.445Z"
     },
     "443": {
       "id": 443,
