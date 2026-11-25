@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 356,
-  "updatedAt": "2026-11-25T04:33:12.445Z",
+  "totalPulls": 357,
+  "updatedAt": "2026-11-25T14:53:26.588Z",
   "lastPull": {
-    "id": 441,
-    "name": "chatot",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/441.png",
+    "id": 596,
+    "name": "galvantula",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/596.png",
     "types": [
-      "normal",
-      "flying"
+      "bug",
+      "electric"
     ],
-    "totalStats": 411,
+    "totalStats": 472,
     "grade": "R",
-    "pulledAt": "2026-11-25T04:33:12.445Z"
+    "pulledAt": "2026-11-25T14:53:26.588Z"
   },
   "pulls": [
+    {
+      "id": 596,
+      "name": "galvantula",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/596.png",
+      "types": [
+        "bug",
+        "electric"
+      ],
+      "totalStats": 472,
+      "grade": "R",
+      "pulledAt": "2026-11-25T14:53:26.588Z"
+    },
     {
       "id": 441,
       "name": "chatot",
@@ -118,17 +130,6 @@
       "totalStats": 308,
       "grade": "N",
       "pulledAt": "2026-11-22T11:41:03.345Z"
-    },
-    {
-      "id": 775,
-      "name": "komala",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-11-22T03:19:52.724Z"
     }
   ],
   "pokemon": {
@@ -2561,6 +2562,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T22:35:09.830Z",
       "lastPulledAt": "2026-09-25T22:35:09.830Z"
+    },
+    "596": {
+      "id": 596,
+      "name": "galvantula",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/596.png",
+      "types": [
+        "bug",
+        "electric"
+      ],
+      "totalStats": 472,
+      "grade": "R",
+      "pulledAt": "2026-11-25T14:53:26.588Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-25T14:53:26.588Z",
+      "lastPulledAt": "2026-11-25T14:53:26.588Z"
     },
     "597": {
       "id": 597,
