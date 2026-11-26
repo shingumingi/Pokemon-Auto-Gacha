@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 360,
-  "updatedAt": "2026-11-26T15:26:30.905Z",
+  "totalPulls": 361,
+  "updatedAt": "2026-11-26T23:56:21.424Z",
   "lastPull": {
-    "id": 466,
-    "name": "electivire",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
+    "id": 966,
+    "name": "revavroom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png",
     "types": [
-      "electric"
+      "steel",
+      "poison"
     ],
-    "totalStats": 540,
+    "totalStats": 500,
     "grade": "SR",
-    "pulledAt": "2026-11-26T15:26:30.905Z"
+    "pulledAt": "2026-11-26T23:56:21.424Z"
   },
   "pulls": [
+    {
+      "id": 966,
+      "name": "revavroom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png",
+      "types": [
+        "steel",
+        "poison"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-26T23:56:21.424Z"
+    },
     {
       "id": 466,
       "name": "electivire",
@@ -119,17 +132,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-11-23T14:28:06.215Z"
-    },
-    {
-      "id": 656,
-      "name": "froakie",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 314,
-      "grade": "N",
-      "pulledAt": "2026-11-23T04:05:34.278Z"
     }
   ],
   "pokemon": {
@@ -4577,6 +4579,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-05T01:16:38.895Z",
       "lastPulledAt": "2026-10-05T01:16:38.895Z"
+    },
+    "966": {
+      "id": 966,
+      "name": "revavroom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png",
+      "types": [
+        "steel",
+        "poison"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-26T23:56:21.424Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-26T23:56:21.424Z",
+      "lastPulledAt": "2026-11-26T23:56:21.424Z"
     },
     "973": {
       "id": 973,
