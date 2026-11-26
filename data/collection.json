@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 358,
-  "updatedAt": "2026-11-25T23:26:40.707Z",
+  "totalPulls": 359,
+  "updatedAt": "2026-11-26T05:17:24.489Z",
   "lastPull": {
-    "id": 791,
-    "name": "solgaleo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/791.png",
+    "id": 500,
+    "name": "emboar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
     "types": [
-      "psychic",
-      "steel"
+      "fire",
+      "fighting"
     ],
-    "totalStats": 680,
-    "grade": "SSR",
-    "pulledAt": "2026-11-25T23:26:40.707Z"
+    "totalStats": 528,
+    "grade": "SR",
+    "pulledAt": "2026-11-26T05:17:24.489Z"
   },
   "pulls": [
+    {
+      "id": 500,
+      "name": "emboar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 528,
+      "grade": "SR",
+      "pulledAt": "2026-11-26T05:17:24.489Z"
+    },
     {
       "id": 791,
       "name": "solgaleo",
@@ -119,18 +131,6 @@
       "totalStats": 280,
       "grade": "N",
       "pulledAt": "2026-11-22T23:49:53.409Z"
-    },
-    {
-      "id": 785,
-      "name": "tapu-koko",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
-      "types": [
-        "electric",
-        "fairy"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-11-22T18:39:31.416Z"
     }
   ],
   "pokemon": {
@@ -2194,6 +2194,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-31T18:48:33.710Z",
       "lastPulledAt": "2026-10-31T18:48:33.710Z"
+    },
+    "500": {
+      "id": 500,
+      "name": "emboar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 528,
+      "grade": "SR",
+      "pulledAt": "2026-11-26T05:17:24.489Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-26T05:17:24.489Z",
+      "lastPulledAt": "2026-11-26T05:17:24.489Z"
     },
     "502": {
       "id": 502,
