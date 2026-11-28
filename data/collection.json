@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 365,
-  "updatedAt": "2026-11-28T08:13:56.133Z",
+  "totalPulls": 366,
+  "updatedAt": "2026-11-28T16:55:35.419Z",
   "lastPull": {
-    "id": 299,
-    "name": "nosepass",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/299.png",
+    "id": 844,
+    "name": "sandaconda",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
     "types": [
-      "rock"
+      "ground"
     ],
-    "totalStats": 375,
-    "grade": "N",
-    "pulledAt": "2026-11-28T08:13:56.133Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-11-28T16:55:35.419Z"
   },
   "pulls": [
+    {
+      "id": 844,
+      "name": "sandaconda",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-11-28T16:55:35.419Z"
+    },
     {
       "id": 299,
       "name": "nosepass",
@@ -116,18 +127,6 @@
       "totalStats": 472,
       "grade": "R",
       "pulledAt": "2026-11-25T14:53:26.588Z"
-    },
-    {
-      "id": 441,
-      "name": "chatot",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/441.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 411,
-      "grade": "R",
-      "pulledAt": "2026-11-25T04:33:12.445Z"
     }
   ],
   "pokemon": {
@@ -3989,10 +3988,10 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-11-17T03:56:22.806Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-17T03:56:22.806Z",
-      "lastPulledAt": "2026-11-17T03:56:22.806Z"
+      "lastPulledAt": "2026-11-28T16:55:35.419Z"
     },
     "847": {
       "id": 847,
