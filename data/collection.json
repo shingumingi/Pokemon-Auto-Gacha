@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 363,
-  "updatedAt": "2026-11-27T16:59:43.805Z",
+  "totalPulls": 364,
+  "updatedAt": "2026-11-28T00:24:59.907Z",
   "lastPull": {
-    "id": 5,
-    "name": "charmeleon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
+    "id": 796,
+    "name": "xurkitree",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png",
     "types": [
-      "fire"
+      "electric"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-11-27T16:59:43.805Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-11-28T00:24:59.907Z"
   },
   "pulls": [
+    {
+      "id": 796,
+      "name": "xurkitree",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-28T00:24:59.907Z"
+    },
     {
       "id": 5,
       "name": "charmeleon",
@@ -118,18 +129,6 @@
       "totalStats": 590,
       "grade": "SR",
       "pulledAt": "2026-11-24T21:31:00.650Z"
-    },
-    {
-      "id": 996,
-      "name": "frigibax",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png",
-      "types": [
-        "dragon",
-        "ice"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-11-24T11:40:03.238Z"
     }
   ],
   "pokemon": {
@@ -3781,6 +3780,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-01T18:46:39.956Z",
       "lastPulledAt": "2026-11-01T18:46:39.956Z"
+    },
+    "796": {
+      "id": 796,
+      "name": "xurkitree",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-28T00:24:59.907Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-28T00:24:59.907Z",
+      "lastPulledAt": "2026-11-28T00:24:59.907Z"
     },
     "802": {
       "id": 802,
