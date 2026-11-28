@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 364,
-  "updatedAt": "2026-11-28T00:24:59.907Z",
+  "totalPulls": 365,
+  "updatedAt": "2026-11-28T08:13:56.133Z",
   "lastPull": {
-    "id": 796,
-    "name": "xurkitree",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png",
+    "id": 299,
+    "name": "nosepass",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/299.png",
     "types": [
-      "electric"
+      "rock"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-11-28T00:24:59.907Z"
+    "totalStats": 375,
+    "grade": "N",
+    "pulledAt": "2026-11-28T08:13:56.133Z"
   },
   "pulls": [
+    {
+      "id": 299,
+      "name": "nosepass",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/299.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 375,
+      "grade": "N",
+      "pulledAt": "2026-11-28T08:13:56.133Z"
+    },
     {
       "id": 796,
       "name": "xurkitree",
@@ -117,18 +128,6 @@
       "totalStats": 411,
       "grade": "R",
       "pulledAt": "2026-11-25T04:33:12.445Z"
-    },
-    {
-      "id": 1021,
-      "name": "raging-bolt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png",
-      "types": [
-        "electric",
-        "dragon"
-      ],
-      "totalStats": 590,
-      "grade": "SR",
-      "pulledAt": "2026-11-24T21:31:00.650Z"
     }
   ],
   "pokemon": {
@@ -1432,6 +1431,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-02T01:42:02.543Z",
       "lastPulledAt": "2026-11-02T01:42:02.543Z"
+    },
+    "299": {
+      "id": 299,
+      "name": "nosepass",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/299.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 375,
+      "grade": "N",
+      "pulledAt": "2026-11-28T08:13:56.133Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-28T08:13:56.133Z",
+      "lastPulledAt": "2026-11-28T08:13:56.133Z"
     },
     "304": {
       "id": 304,
